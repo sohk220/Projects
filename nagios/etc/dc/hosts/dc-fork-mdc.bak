@@ -1,0 +1,4 @@
+define hostgroup{
+	hostgroup_name	 	dc-fork-mdc
+	alias 		 	DC Fork Metadata Controllers
+}

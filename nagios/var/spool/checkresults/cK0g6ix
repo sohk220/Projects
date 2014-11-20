@@ -1,0 +1,18 @@
+### Active Check Result File ###
+file_time=1416497145
+
+### Nagios Service Check Result ###
+# Time: Thu Nov 20 10:25:45 2014
+host_name=nycnn-ipvstrm1
+service_description=D:\ Drive Space
+check_type=0
+check_options=0
+scheduled_check=1
+reschedule_check=1
+latency=0.072000
+start_time=1416497145.72942
+finish_time=1416497145.502384
+early_timeout=0
+exited_ok=1
+return_code=0
+output=OK - New Volume Total=1397.19GB, Used=1135.93GB (81.3%), Free=261.26GB (18.7%)     |'New Volume Space'=1135.93GB; 'New Volume Utilisation'=81.3%;90;95; \n

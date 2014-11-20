@@ -1,0 +1,9 @@
+define host {
+	use		dc-fork-host
+	host_name	wdcps002
+	alias		DC FORK Production Server 2
+	address		10.161.202.174
+	;check_command
+	;contact_groups
+	hostgroups	dc-fork-pds
+}

@@ -1,0 +1,10 @@
+define service{
+        use                             generic-service         ; Name of service template to use
+	host_name			nycnn-ms2app4
+        service_description             Disk Space on /var/http
+        normal_check_interval           1
+        contacts			unixadmin
+	notification_interval		120
+        notification_options            w,c,r
+        check_command                   check_disk!10!5!/var/http
+}

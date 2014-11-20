@@ -1,0 +1,17 @@
+### Active Check Result File ###
+file_time=1416497144
+
+### Nagios Host Check Result ###
+# Time: Thu Nov 20 10:25:44 2014
+host_name=omnhbcba08-ny
+check_type=0
+check_options=0
+scheduled_check=1
+reschedule_check=1
+latency=0.279000
+start_time=1416497144.279305
+finish_time=1416497148.285405
+early_timeout=0
+exited_ok=1
+return_code=0
+output=PING OK - Packet loss = 0%, RTA = 0.25 ms|rta=0.249000ms;3000.000000;5000.000000;0.000000 pl=0%;80;100;0\n

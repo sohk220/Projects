@@ -1,0 +1,9 @@
+define host {
+	use		dc-fork-host
+	host_name	wdcod001
+	alias		DC FORK Open Directory (xserves) 1
+	address		10.161.202.184
+	;check_command
+	;contact_groups
+	hostgroups	dc-fork-od
+}

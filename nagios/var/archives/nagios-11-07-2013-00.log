@@ -1,0 +1,1330 @@
+[1383714000] LOG ROTATION: DAILY
+[1383714000] LOG VERSION: 2.0
+[1383714000] CURRENT HOST STATE: deimos;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT HOST STATE: localhost;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.03 ms
+[1383714000] CURRENT HOST STATE: msny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1383714000] CURRENT HOST STATE: nyarxlator1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1383714000] CURRENT HOST STATE: nyarxlator2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1383714000] CURRENT HOST STATE: nyarxlator3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1383714000] CURRENT HOST STATE: nyarxlator4;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1383714000] CURRENT HOST STATE: nycnn-adbeame1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.33 ms
+[1383714000] CURRENT HOST STATE: nycnn-adbeame10;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.34 ms
+[1383714000] CURRENT HOST STATE: nycnn-adbeame2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1383714000] CURRENT HOST STATE: nycnn-adbeame3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.33 ms
+[1383714000] CURRENT HOST STATE: nycnn-adbeame4;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1383714000] CURRENT HOST STATE: nycnn-adbeame5;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.36 ms
+[1383714000] CURRENT HOST STATE: nycnn-adbeame6;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1383714000] CURRENT HOST STATE: nycnn-adbeame7;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.33 ms
+[1383714000] CURRENT HOST STATE: nycnn-adbeame8;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.34 ms
+[1383714000] CURRENT HOST STATE: nycnn-adbeame9;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1383714000] CURRENT HOST STATE: nycnn-adbectrl1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1383714000] CURRENT HOST STATE: nycnn-adbectrl2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1383714000] CURRENT HOST STATE: nycnn-arapp1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1383714000] CURRENT HOST STATE: nycnn-arapp2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1383714000] CURRENT HOST STATE: nycnn-ardb1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1383714000] CURRENT HOST STATE: nycnn-ardb2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1383714000] CURRENT HOST STATE: nycnn-arvtrmops;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.53 ms
+[1383714000] CURRENT HOST STATE: nycnn-arvtrtape;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.33 ms
+[1383714000] CURRENT HOST STATE: nycnn-arxlator1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1383714000] CURRENT HOST STATE: nycnn-arxlator2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1383714000] CURRENT HOST STATE: nycnn-arxlator3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1383714000] CURRENT HOST STATE: nycnn-arxlator4;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1383714000] CURRENT HOST STATE: nycnn-editxfer-switch;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1383714000] CURRENT HOST STATE: nycnn-editxfer3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.12 ms
+[1383714000] CURRENT HOST STATE: nycnn-editxfer4;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.12 ms
+[1383714000] CURRENT HOST STATE: nycnn-gridpushpull1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1383714000] CURRENT HOST STATE: nycnn-gridpushpull2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvapilic;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.16 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvproxy1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvproxy2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvsphn1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvsphn2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvsphn3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvsphn4;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvsphn5;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvstrm1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvstrm2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvstrm3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvstrm4;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx10;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx10e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx11;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx11e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx12;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.34 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx12e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx13;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx13e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx14;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx14e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx15;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx15e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx16;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx16e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx17;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.17 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx17e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx18;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.16 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx18e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx19;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx19e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx1e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx20;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx20e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx21;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx21e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx22;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx22e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx23;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx23e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx24;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx24e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx25;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.17 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx25e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx26;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx26e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx27;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx27e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx28;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx28e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx29;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx29e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx2e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.38 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx30;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx30e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx31;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx31e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx32;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx32e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx33;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx33e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx34;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx34e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx35;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.42 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx35e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx3e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.35 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx4;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx4e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx5;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx5e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx6;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx6e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx7;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx7e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx8;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx8e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx9;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1383714000] CURRENT HOST STATE: nycnn-ipvx9e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1383714000] CURRENT HOST STATE: nycnn-kickstart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1383714000] CURRENT HOST STATE: nycnn-mamdb1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT HOST STATE: nycnn-mamdb2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1383714000] CURRENT HOST STATE: nycnn-mamfog;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.14 ms
+[1383714000] CURRENT HOST STATE: nycnn-mamkey1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1383714000] CURRENT HOST STATE: nycnn-mamkey2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1383714000] CURRENT HOST STATE: nycnn-mammq1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1383714000] CURRENT HOST STATE: nycnn-mammq2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1383714000] CURRENT HOST STATE: nycnn-ms2app3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1383714000] CURRENT HOST STATE: nycnn-ms2app4;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1383714000] CURRENT HOST STATE: nycnn-ms2db1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1383714000] CURRENT HOST STATE: nycnn-ms2db2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1383714000] CURRENT HOST STATE: nycnn-ms2db3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1383714000] CURRENT HOST STATE: nycnn-ms2fsd;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1383714000] CURRENT HOST STATE: nycnn-ms2fsd1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1383714000] CURRENT HOST STATE: nycnn-ms2fsd2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.13 ms
+[1383714000] CURRENT HOST STATE: nycnn-ms2stills1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1383714000] CURRENT HOST STATE: nycnn-ms2stills2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.48 ms
+[1383714000] CURRENT HOST STATE: nycnn-nag1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1383714000] CURRENT HOST STATE: nycnn-nag2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT HOST STATE: nycnn-nag4;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT HOST STATE: nycnn-splunk;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1383714000] CURRENT HOST STATE: nyhdscheduler;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.41 ms
+[1383714000] CURRENT HOST STATE: nymamkey;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT HOST STATE: nymq;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1383714000] CURRENT HOST STATE: nyproxygenhd;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1383714000] CURRENT HOST STATE: nyvideodrop;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT HOST STATE: omnclda01-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1383714000] CURRENT HOST STATE: omnclda01e1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1383714000] CURRENT HOST STATE: omnclda02-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1383714000] CURRENT HOST STATE: omnclda02e1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1383714000] CURRENT HOST STATE: omnclda03-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.17 ms
+[1383714000] CURRENT HOST STATE: omnclda03e1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT HOST STATE: omnhbcba01-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT HOST STATE: omnhbcba02-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1383714000] CURRENT HOST STATE: omnhbcba03-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1383714000] CURRENT HOST STATE: omnhbcba04-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1383714000] CURRENT HOST STATE: omnhbcba05-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1383714000] CURRENT HOST STATE: omnhbcba06-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1383714000] CURRENT HOST STATE: omnhbcba07-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1383714000] CURRENT HOST STATE: omnhbcba08-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1383714000] CURRENT HOST STATE: omnhbcba09-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1383714000] CURRENT HOST STATE: omnhbcba10-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT HOST STATE: omnhbcba11-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT HOST STATE: omnhbcba12-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1383714000] CURRENT HOST STATE: omnldap1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1383714000] CURRENT HOST STATE: omnldap2-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1383714000] CURRENT HOST STATE: omnmas1app-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1383714000] CURRENT HOST STATE: omnmas1app1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1383714000] CURRENT HOST STATE: omnmas1app2-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1383714000] CURRENT HOST STATE: omnmas1db-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1383714000] CURRENT HOST STATE: omnmas1db1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT HOST STATE: omnmas1db2-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1383714000] CURRENT HOST STATE: omnmas2app-ny;DOWN;HARD;10;(Host Check Timed Out)
+[1383714000] CURRENT HOST STATE: omnmas2app1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1383714000] CURRENT HOST STATE: omnmas2app2-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1383714000] CURRENT HOST STATE: omnmas2db-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.37 ms
+[1383714000] CURRENT HOST STATE: omnmas2db1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1383714000] CURRENT HOST STATE: omnmas2db2-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1383714000] CURRENT HOST STATE: omnmdir01-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.17 ms
+[1383714000] CURRENT HOST STATE: omnmdir01e1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1383714000] CURRENT HOST STATE: omnmdir02-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1383714000] CURRENT HOST STATE: omnmdir02e1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1383714000] CURRENT HOST STATE: omnmdir03-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT HOST STATE: omnmdir03e1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1383714000] CURRENT HOST STATE: omnmdir04-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT HOST STATE: omnmdir04e1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1383714000] CURRENT HOST STATE: omnmdk01-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.49 ms
+[1383714000] CURRENT HOST STATE: omnmdk01h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1383714000] CURRENT HOST STATE: omnmdk02-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.44 ms
+[1383714000] CURRENT HOST STATE: omnmdk02h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.51 ms
+[1383714000] CURRENT HOST STATE: omnmdk03-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.54 ms
+[1383714000] CURRENT HOST STATE: omnmdk03h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.53 ms
+[1383714000] CURRENT HOST STATE: omnmdk04-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.49 ms
+[1383714000] CURRENT HOST STATE: omnmdk04h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.49 ms
+[1383714000] CURRENT HOST STATE: omnmdk05-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1383714000] CURRENT HOST STATE: omnmdk05h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1383714000] CURRENT HOST STATE: omnmdk06-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.43 ms
+[1383714000] CURRENT HOST STATE: omnmdk06h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.54 ms
+[1383714000] CURRENT HOST STATE: omnmdk07-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1383714000] CURRENT HOST STATE: omnmdk07h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.07 ms
+[1383714000] CURRENT HOST STATE: omnmdk08-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.52 ms
+[1383714000] CURRENT HOST STATE: omnmdk08h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.52 ms
+[1383714000] CURRENT HOST STATE: omnmdk09-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.44 ms
+[1383714000] CURRENT HOST STATE: omnmdk09h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.60 ms
+[1383714000] CURRENT HOST STATE: omnmdk10-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.43 ms
+[1383714000] CURRENT HOST STATE: omnmdk10h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.46 ms
+[1383714000] CURRENT HOST STATE: omnmdk11-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.44 ms
+[1383714000] CURRENT HOST STATE: omnmdk11h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.46 ms
+[1383714000] CURRENT HOST STATE: omnmdk12-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1383714000] CURRENT HOST STATE: omnmdk12h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1383714000] CURRENT HOST STATE: omnmdk13-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.48 ms
+[1383714000] CURRENT HOST STATE: omnmdk13h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.42 ms
+[1383714000] CURRENT HOST STATE: omnmdk14-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.45 ms
+[1383714000] CURRENT HOST STATE: omnmdk14h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1383714000] CURRENT HOST STATE: omnmdk15-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.46 ms
+[1383714000] CURRENT HOST STATE: omnmdk15h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.48 ms
+[1383714000] CURRENT HOST STATE: omnmdk16-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.46 ms
+[1383714000] CURRENT HOST STATE: omnmdk16h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.51 ms
+[1383714000] CURRENT HOST STATE: omnmdk17-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.52 ms
+[1383714000] CURRENT HOST STATE: omnmdk17h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.46 ms
+[1383714000] CURRENT HOST STATE: omnmdk18-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.46 ms
+[1383714000] CURRENT HOST STATE: omnmdk18h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.49 ms
+[1383714000] CURRENT HOST STATE: omnmdk19-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.43 ms
+[1383714000] CURRENT HOST STATE: omnmdk19h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.89 ms
+[1383714000] CURRENT HOST STATE: omnmgsm-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.17 ms
+[1383714000] CURRENT HOST STATE: omnspsm-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1383714000] CURRENT HOST STATE: rt-nycc3750tgr-ilo;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.38 ms
+[1383714000] CURRENT HOST STATE: rt-nycc3750tgr-ms2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.76 ms
+[1383714000] CURRENT HOST STATE: rt-nyccfcp-1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.76 ms
+[1383714000] CURRENT HOST STATE: rt-nyccfcp-2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.76 ms
+[1383714000] CURRENT HOST STATE: rt-nycchdagg-a;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.81 ms
+[1383714000] CURRENT HOST STATE: rt-nycchdagg-b;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.74 ms
+[1383714000] CURRENT HOST STATE: rt-nyccmediagrid;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.54 ms
+[1383714000] CURRENT HOST STATE: rt-nyccspectrum;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.61 ms
+[1383714000] CURRENT HOST STATE: spider;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1383714000] CURRENT HOST STATE: wdchd001;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.33 ms
+[1383714000] CURRENT HOST STATE: wdchd002;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.48 ms
+[1383714000] CURRENT HOST STATE: wdchd003;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.40 ms
+[1383714000] CURRENT HOST STATE: wdchd004;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.41 ms
+[1383714000] CURRENT HOST STATE: wdchd005;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.34 ms
+[1383714000] CURRENT HOST STATE: wdchd006;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.27 ms
+[1383714000] CURRENT HOST STATE: wdchd007;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.29 ms
+[1383714000] CURRENT HOST STATE: wdchd008;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.44 ms
+[1383714000] CURRENT HOST STATE: wdchd009;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.39 ms
+[1383714000] CURRENT HOST STATE: wdchd010;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.38 ms
+[1383714000] CURRENT HOST STATE: wdchd011;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.28 ms
+[1383714000] CURRENT HOST STATE: wdchd012;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.39 ms
+[1383714000] CURRENT HOST STATE: wdchd013;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.26 ms
+[1383714000] CURRENT HOST STATE: wdchd014;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.47 ms
+[1383714000] CURRENT HOST STATE: wdchd015;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.50 ms
+[1383714000] CURRENT HOST STATE: wdchd016;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.36 ms
+[1383714000] CURRENT HOST STATE: wdchd017;DOWN;HARD;1;(Host Check Timed Out)
+[1383714000] CURRENT HOST STATE: wdchd018;DOWN;HARD;1;(Host Check Timed Out)
+[1383714000] CURRENT HOST STATE: wdchd019;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.45 ms
+[1383714000] CURRENT HOST STATE: wdchd020;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.46 ms
+[1383714000] CURRENT HOST STATE: wdchd021;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.38 ms
+[1383714000] CURRENT HOST STATE: wdchd022;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.50 ms
+[1383714000] CURRENT HOST STATE: wdchd023;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.44 ms
+[1383714000] CURRENT HOST STATE: wdchd024;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.47 ms
+[1383714000] CURRENT HOST STATE: wdchd025;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.35 ms
+[1383714000] CURRENT HOST STATE: wdchd026;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.46 ms
+[1383714000] CURRENT HOST STATE: wdchd027;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.27 ms
+[1383714000] CURRENT HOST STATE: wdchd028;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.50 ms
+[1383714000] CURRENT HOST STATE: wdchd029;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.48 ms
+[1383714000] CURRENT HOST STATE: wdchd030;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.40 ms
+[1383714000] CURRENT HOST STATE: wdchd031;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.45 ms
+[1383714000] CURRENT HOST STATE: wdcmd001;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.43 ms
+[1383714000] CURRENT HOST STATE: wdcmd002;DOWN;HARD;10;(Host Check Timed Out)
+[1383714000] CURRENT HOST STATE: wdcms001;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.42 ms
+[1383714000] CURRENT HOST STATE: wdcms002;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.34 ms
+[1383714000] CURRENT HOST STATE: wdcms003;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.38 ms
+[1383714000] CURRENT HOST STATE: wdcod001;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.48 ms
+[1383714000] CURRENT HOST STATE: wdcod002;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.44 ms
+[1383714000] CURRENT HOST STATE: wdcod01;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.23 ms
+[1383714000] CURRENT HOST STATE: wdcod02;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.25 ms
+[1383714000] CURRENT HOST STATE: wdcpf001;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.36 ms
+[1383714000] CURRENT HOST STATE: wdcpf002;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.45 ms
+[1383714000] CURRENT HOST STATE: wdcpf03;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.08 ms
+[1383714000] CURRENT HOST STATE: wdcps001;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.30 ms
+[1383714000] CURRENT HOST STATE: wdcps002;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.28 ms
+[1383714000] CURRENT HOST STATE: wdcps003;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.26 ms
+[1383714000] CURRENT HOST STATE: wdcps004;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.35 ms
+[1383714000] CURRENT SERVICE STATE: deimos;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1383714000] CURRENT SERVICE STATE: localhost;Current Load;OK;HARD;1;OK - load average: 0.11, 0.21, 0.22
+[1383714000] CURRENT SERVICE STATE: localhost;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1383714000] CURRENT SERVICE STATE: localhost;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 265 bytes in 0.001 second response time
+[1383714000] CURRENT SERVICE STATE: localhost;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.03 ms
+[1383714000] CURRENT SERVICE STATE: localhost;Root Partition;OK;HARD;1;DISK OK - free space: / 1564 MB (83% inode=98%):
+[1383714000] CURRENT SERVICE STATE: localhost;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1383714000] CURRENT SERVICE STATE: localhost;Swap Usage;OK;HARD;1;SWAP OK - 100% free (2047 MB out of 2047 MB)
+[1383714000] CURRENT SERVICE STATE: localhost;Total Processes;OK;HARD;1;PROCS OK: 46 processes with STATE = RSZDT
+[1383714000] CURRENT SERVICE STATE: msny;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 5504 bytes in 0.002 second response time
+[1383714000] CURRENT SERVICE STATE: msny;IMQ Depth Check - Internal GF Queues;OK;HARD;1;OK: all MS2_EVENT queues have depth 0 or less, all MS2_EVENT queues in RUNNING state
+[1383714000] CURRENT SERVICE STATE: msny;MS2 - Grid A Mount;OK;HARD;1;OK - File /Volumes/GridA/Temp/.gridamounted seems fine.
+[1383714000] CURRENT SERVICE STATE: msny;MS2 - Grid B Mount;OK;HARD;1;OK - File /Volumes/GridB/Temp/.gridbmounted seems fine.
+[1383714000] CURRENT SERVICE STATE: msny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.15 ms
+[1383714000] CURRENT SERVICE STATE: nyarxlator1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1383714000] CURRENT SERVICE STATE: nyarxlator2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1383714000] CURRENT SERVICE STATE: nyarxlator3;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1383714000] CURRENT SERVICE STATE: nyarxlator4;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-adbeame1;AME Job status;OK;HARD;1;AME is idle:
+[1383714000] CURRENT SERVICE STATE: nycnn-adbeame1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.36 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-adbeame10;AME Job status;OK;HARD;1;AME is idle:
+[1383714000] CURRENT SERVICE STATE: nycnn-adbeame10;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-adbeame2;AME Job status;OK;HARD;1;AME is idle:
+[1383714000] CURRENT SERVICE STATE: nycnn-adbeame2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.35 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-adbeame3;AME Job status;OK;HARD;1;AME is idle:
+[1383714000] CURRENT SERVICE STATE: nycnn-adbeame3;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-adbeame4;AME Job status;OK;HARD;1;AME is idle:
+[1383714000] CURRENT SERVICE STATE: nycnn-adbeame4;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.33 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-adbeame5;AME Job status;OK;HARD;1;AME is idle:
+[1383714000] CURRENT SERVICE STATE: nycnn-adbeame5;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.34 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-adbeame6;AME Job status;OK;HARD;1;AME is idle:
+[1383714000] CURRENT SERVICE STATE: nycnn-adbeame6;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-adbeame7;AME Job status;OK;HARD;1;AME is idle:
+[1383714000] CURRENT SERVICE STATE: nycnn-adbeame7;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.33 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-adbeame8;AME Job status;OK;HARD;1;AME is idle:
+[1383714000] CURRENT SERVICE STATE: nycnn-adbeame8;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.44 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-adbeame9;AME Job status;OK;HARD;1;AME is idle:
+[1383714000] CURRENT SERVICE STATE: nycnn-adbeame9;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-adbectrl1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-adbectrl2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-arapp1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.34 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-arapp1;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1383714000] CURRENT SERVICE STATE: nycnn-arvtrtape;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-arvtrtape;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1383714000] CURRENT SERVICE STATE: nycnn-arxlator1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-arxlator1;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1383714000] CURRENT SERVICE STATE: nycnn-editxfer-switch;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-editxfer3;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.15 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-editxfer4;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.13 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-gridpushpull1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-gridpushpull2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvapilic;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.17 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvproxy1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvproxy2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvsphn1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvsphn2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvsphn3;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvsphn4;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvsphn5;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvstrm1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvstrm2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvstrm3;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvstrm4;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx10;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx10e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx11;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx11e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx12;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx12e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx13;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx13e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx14;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx14e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx15;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.33 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx15e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx16;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.35 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx16e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx17;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.37 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx17e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx18;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx18e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx19;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx19e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx1e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.37 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx20;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx20e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx21;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx21e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx22;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx22e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx23;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx23e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx24;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx24e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx25;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx25e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx26;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx26e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx27;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx27e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx28;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx28e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx29;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx29e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx2e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.38 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx3;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx30;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx30e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx31;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx31e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx32;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx32e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx33;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx33e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.17 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx34;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.17 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx34e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx35;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx35e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx3e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx4;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx4e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx5;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx5e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx6;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx6e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx7;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx7e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx8;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx8e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx9;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ipvx9e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-kickstart;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-mamdb1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.37 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-mamdb2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-mamfog;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.16 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-mamkey1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-mamkey2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-mammq1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-mammq2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ms2app3;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ms2app4;GridA_Projects_Folder_Count;OK;HARD;1;Grid A OK: 4817  subdirectories in projects
+[1383714000] CURRENT SERVICE STATE: nycnn-ms2app4;GridA_Render_Folder_Count;OK;HARD;1;Grid A OK: 4820  subdirectories in Render Files
+[1383714000] CURRENT SERVICE STATE: nycnn-ms2app4;GridA_Resources_Folder_Count;OK;HARD;1;Grid A OK: 4821  subdirectories in resources
+[1383714000] CURRENT SERVICE STATE: nycnn-ms2app4;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ms2db1;Disk Space on /oracle;OK;HARD;1;DISK OK - free space: /oracle 904128 MB (92% inode=99%):
+[1383714000] CURRENT SERVICE STATE: nycnn-ms2db1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ms2db2;Disk Space on /oracle;OK;HARD;1;DISK OK - free space: /oracle 804769 MB (82% inode=99%):
+[1383714000] CURRENT SERVICE STATE: nycnn-ms2db2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ms2db3;Disk Space on /oracle;OK;HARD;1;DISK OK - free space: /oracle 865537 MB (88% inode=99%):
+[1383714000] CURRENT SERVICE STATE: nycnn-ms2db3;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ms2fsd;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ms2fsd1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ms2fsd2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.12 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ms2stills1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.49 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-ms2stills2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.45 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-nag1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-nag2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-nag4;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT SERVICE STATE: nycnn-splunk;Disk Space on /opt;UNKNOWN;HARD;3;Remote command execution failed: bash: /usr/local/nagios/libexec/check_disk: No such file or directory
+[1383714000] CURRENT SERVICE STATE: nycnn-splunk;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1383714000] CURRENT SERVICE STATE: nyhdscheduler;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 598 bytes in 0.001 second response time
+[1383714000] CURRENT SERVICE STATE: nyhdscheduler;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1383714000] CURRENT SERVICE STATE: nymamkey;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1383714000] CURRENT SERVICE STATE: nymq;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1383714000] CURRENT SERVICE STATE: nyproxygenhd;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1383714000] CURRENT SERVICE STATE: nyvideodrop;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1383714000] CURRENT SERVICE STATE: omnclda01-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1383714000] CURRENT SERVICE STATE: omnclda01e1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1383714000] CURRENT SERVICE STATE: omnclda02-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1383714000] CURRENT SERVICE STATE: omnclda02e1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1383714000] CURRENT SERVICE STATE: omnclda03-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1383714000] CURRENT SERVICE STATE: omnclda03e1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1383714000] CURRENT SERVICE STATE: omnhbcba01-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1383714000] CURRENT SERVICE STATE: omnhbcba02-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1383714000] CURRENT SERVICE STATE: omnhbcba03-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1383714000] CURRENT SERVICE STATE: omnhbcba04-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1383714000] CURRENT SERVICE STATE: omnhbcba05-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1383714000] CURRENT SERVICE STATE: omnhbcba06-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1383714000] CURRENT SERVICE STATE: omnhbcba07-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1383714000] CURRENT SERVICE STATE: omnhbcba08-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1383714000] CURRENT SERVICE STATE: omnhbcba09-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1383714000] CURRENT SERVICE STATE: omnhbcba10-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1383714000] CURRENT SERVICE STATE: omnhbcba11-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1383714000] CURRENT SERVICE STATE: omnhbcba12-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1383714000] CURRENT SERVICE STATE: omnldap1-ny;LDAP;OK;HARD;1;LDAP OK - 0.002 seconds response time
+[1383714000] CURRENT SERVICE STATE: omnldap2-ny;LDAP;OK;HARD;1;LDAP OK - 0.002 seconds response time
+[1383714000] CURRENT SERVICE STATE: omnmas1app-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1383714000] CURRENT SERVICE STATE: omnmas1app1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1383714000] CURRENT SERVICE STATE: omnmas1app2-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1383714000] CURRENT SERVICE STATE: omnmas1db-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1383714000] CURRENT SERVICE STATE: omnmas1db1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1383714000] CURRENT SERVICE STATE: omnmas1db2-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1383714000] CURRENT SERVICE STATE: omnmas2app-ny;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1383714000] CURRENT SERVICE STATE: omnmas2app1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1383714000] CURRENT SERVICE STATE: omnmas2app2-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1383714000] CURRENT SERVICE STATE: omnmas2db-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1383714000] CURRENT SERVICE STATE: omnmas2db1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1383714000] CURRENT SERVICE STATE: omnmas2db2-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1383714000] CURRENT SERVICE STATE: omnmdir01-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1383714000] CURRENT SERVICE STATE: omnmdir01e1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1383714000] CURRENT SERVICE STATE: omnmdir02-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1383714000] CURRENT SERVICE STATE: omnmdir02e1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1383714000] CURRENT SERVICE STATE: omnmdir03-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1383714000] CURRENT SERVICE STATE: omnmdir03e1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1383714000] CURRENT SERVICE STATE: omnmdir04-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1383714000] CURRENT SERVICE STATE: omnmdir04e1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1383714000] CURRENT SERVICE STATE: omnmdk01-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1383714000] CURRENT SERVICE STATE: omnmdk01h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.46 ms
+[1383714000] CURRENT SERVICE STATE: omnmdk02-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1383714000] CURRENT SERVICE STATE: omnmdk02h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.44 ms
+[1383714000] CURRENT SERVICE STATE: omnmdk03-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.43 ms
+[1383714000] CURRENT SERVICE STATE: omnmdk03h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.52 ms
+[1383714000] CURRENT SERVICE STATE: omnmdk04-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1383714000] CURRENT SERVICE STATE: omnmdk04h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.48 ms
+[1383714000] CURRENT SERVICE STATE: omnmdk05-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.98 ms
+[1383714000] CURRENT SERVICE STATE: omnmdk05h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.18 ms
+[1383714000] CURRENT SERVICE STATE: omnmdk06-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1383714000] CURRENT SERVICE STATE: omnmdk06h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.49 ms
+[1383714000] CURRENT SERVICE STATE: omnmdk07-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1383714000] CURRENT SERVICE STATE: omnmdk07h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.99 ms
+[1383714000] CURRENT SERVICE STATE: omnmdk08-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1383714000] CURRENT SERVICE STATE: omnmdk08h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.93 ms
+[1383714000] CURRENT SERVICE STATE: omnmdk09-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.58 ms
+[1383714000] CURRENT SERVICE STATE: omnmdk09h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.88 ms
+[1383714000] CURRENT SERVICE STATE: omnmdk10-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.46 ms
+[1383714000] CURRENT SERVICE STATE: omnmdk10h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.45 ms
+[1383714000] CURRENT SERVICE STATE: omnmdk11-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.48 ms
+[1383714000] CURRENT SERVICE STATE: omnmdk11h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.46 ms
+[1383714000] CURRENT SERVICE STATE: omnmdk12-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.48 ms
+[1383714000] CURRENT SERVICE STATE: omnmdk12h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1383714000] CURRENT SERVICE STATE: omnmdk13-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1383714000] CURRENT SERVICE STATE: omnmdk13h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1383714000] CURRENT SERVICE STATE: omnmdk14-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.42 ms
+[1383714000] CURRENT SERVICE STATE: omnmdk14h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.45 ms
+[1383714000] CURRENT SERVICE STATE: omnmdk15-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.48 ms
+[1383714000] CURRENT SERVICE STATE: omnmdk15h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1383714000] CURRENT SERVICE STATE: omnmdk16-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.40 ms
+[1383714000] CURRENT SERVICE STATE: omnmdk16h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.45 ms
+[1383714000] CURRENT SERVICE STATE: omnmdk17-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.64 ms
+[1383714000] CURRENT SERVICE STATE: omnmdk17h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.49 ms
+[1383714000] CURRENT SERVICE STATE: omnmdk18-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.48 ms
+[1383714000] CURRENT SERVICE STATE: omnmdk18h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.65 ms
+[1383714000] CURRENT SERVICE STATE: omnmdk19-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.46 ms
+[1383714000] CURRENT SERVICE STATE: omnmdk19h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.59 ms
+[1383714000] CURRENT SERVICE STATE: omnmgsm-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.17 ms
+[1383714000] CURRENT SERVICE STATE: omnspsm-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1383714000] CURRENT SERVICE STATE: rt-nycc3750tgr-ilo;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.58 ms
+[1383714000] CURRENT SERVICE STATE: rt-nycc3750tgr-ms2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.28 ms
+[1383714000] CURRENT SERVICE STATE: rt-nyccfcp-1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.97 ms
+[1383714000] CURRENT SERVICE STATE: rt-nyccfcp-2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.62 ms
+[1383714000] CURRENT SERVICE STATE: rt-nycchdagg-a;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.76 ms
+[1383714000] CURRENT SERVICE STATE: rt-nycchdagg-b;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 5.75 ms
+[1383714000] CURRENT SERVICE STATE: rt-nyccmediagrid;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 4.81 ms
+[1383714000] CURRENT SERVICE STATE: rt-nyccspectrum;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.62 ms
+[1383714000] CURRENT SERVICE STATE: spider;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1383714000] CURRENT SERVICE STATE: wdchd001;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1383714000] CURRENT SERVICE STATE: wdchd002;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1383714000] CURRENT SERVICE STATE: wdchd003;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.53 ms
+[1383714000] CURRENT SERVICE STATE: wdchd004;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.57 ms
+[1383714000] CURRENT SERVICE STATE: wdchd005;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1383714000] CURRENT SERVICE STATE: wdchd006;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1383714000] CURRENT SERVICE STATE: wdchd007;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1383714000] CURRENT SERVICE STATE: wdchd008;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.68 ms
+[1383714000] CURRENT SERVICE STATE: wdchd009;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1383714000] CURRENT SERVICE STATE: wdchd010;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1383714000] CURRENT SERVICE STATE: wdchd011;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1383714000] CURRENT SERVICE STATE: wdchd012;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1383714000] CURRENT SERVICE STATE: wdchd013;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1383714000] CURRENT SERVICE STATE: wdchd014;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1383714000] CURRENT SERVICE STATE: wdchd015;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1383714000] CURRENT SERVICE STATE: wdchd016;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.52 ms
+[1383714000] CURRENT SERVICE STATE: wdchd017;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1383714000] CURRENT SERVICE STATE: wdchd018;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1383714000] CURRENT SERVICE STATE: wdchd019;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1383714000] CURRENT SERVICE STATE: wdchd020;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1383714000] CURRENT SERVICE STATE: wdchd021;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1383714000] CURRENT SERVICE STATE: wdchd022;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1383714000] CURRENT SERVICE STATE: wdchd023;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1383714000] CURRENT SERVICE STATE: wdchd024;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.59 ms
+[1383714000] CURRENT SERVICE STATE: wdchd025;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.80 ms
+[1383714000] CURRENT SERVICE STATE: wdchd026;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1383714000] CURRENT SERVICE STATE: wdchd027;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.62 ms
+[1383714000] CURRENT SERVICE STATE: wdchd028;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1383714000] CURRENT SERVICE STATE: wdchd029;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.58 ms
+[1383714000] CURRENT SERVICE STATE: wdchd030;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.64 ms
+[1383714000] CURRENT SERVICE STATE: wdchd031;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.68 ms
+[1383714000] CURRENT SERVICE STATE: wdcmd001;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.60 ms
+[1383714000] CURRENT SERVICE STATE: wdcmd002;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.64 ms
+[1383714000] CURRENT SERVICE STATE: wdcms001;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 5.43 ms
+[1383714000] CURRENT SERVICE STATE: wdcms002;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 5.40 ms
+[1383714000] CURRENT SERVICE STATE: wdcms003;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 5.45 ms
+[1383714000] CURRENT SERVICE STATE: wdcod001;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 5.41 ms
+[1383714000] CURRENT SERVICE STATE: wdcod002;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 5.36 ms
+[1383714000] CURRENT SERVICE STATE: wdcod01;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 5.22 ms
+[1383714000] CURRENT SERVICE STATE: wdcod02;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 5.23 ms
+[1383714000] CURRENT SERVICE STATE: wdcpf001;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 5.36 ms
+[1383714000] CURRENT SERVICE STATE: wdcpf002;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 5.42 ms
+[1383714000] CURRENT SERVICE STATE: wdcpf03;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 5.11 ms
+[1383714000] CURRENT SERVICE STATE: wdcps001;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 5.32 ms
+[1383714000] CURRENT SERVICE STATE: wdcps002;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 5.28 ms
+[1383714000] CURRENT SERVICE STATE: wdcps003;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 5.27 ms
+[1383714000] CURRENT SERVICE STATE: wdcps004;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 5.48 ms
+[1383716843] Auto-save of retention data completed successfully.
+[1383720443] Auto-save of retention data completed successfully.
+[1383724043] Auto-save of retention data completed successfully.
+[1383727643] Auto-save of retention data completed successfully.
+[1383731243] Auto-save of retention data completed successfully.
+[1383734843] Auto-save of retention data completed successfully.
+[1383738443] Auto-save of retention data completed successfully.
+[1383742043] Auto-save of retention data completed successfully.
+[1383743503] SERVICE ALERT: nycnn-adbeame10;AME Job status;CRITICAL;SOFT;1;Job 09678008 remains in a queued state
+[1383743563] SERVICE ALERT: nycnn-adbeame10;AME Job status;OK;SOFT;2;AME is idle:
+[1383745643] Auto-save of retention data completed successfully.
+[1383749243] Auto-save of retention data completed successfully.
+[1383752843] Auto-save of retention data completed successfully.
+[1383755626] Caught SIGHUP, restarting...
+[1383755626] Nagios 3.3.1 starting... (PID=5157)
+[1383755626] Local time is Wed Nov 06 11:33:46 EST 2013
+[1383755626] LOG VERSION: 2.0
+[1383755626] Warning: Host 'nycnn-arapp2' has no services associated with it!
+[1383755626] Warning: Host 'nycnn-ardb1' has no services associated with it!
+[1383755626] Warning: Host 'nycnn-ardb2' has no services associated with it!
+[1383755626] Warning: Host 'nycnn-arvtrmops' has no services associated with it!
+[1383755626] Warning: Host 'nycnn-arxlator2' has no services associated with it!
+[1383755626] Warning: Host 'nycnn-arxlator3' has no services associated with it!
+[1383755626] Warning: Host 'nycnn-arxlator4' has no services associated with it!
+[1383755776] SERVICE ALERT: nycnn-ipvx10;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755776] SERVICE ALERT: nycnn-ipvx10e1;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755776] SERVICE ALERT: nycnn-ipvx11e1;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755776] SERVICE ALERT: nycnn-ipvx12e1;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755776] SERVICE ALERT: nycnn-ipvx13e1;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755786] SERVICE ALERT: nycnn-ipvx14e1;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755786] SERVICE ALERT: nycnn-ipvx15e1;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755786] SERVICE ALERT: nycnn-ipvx16e1;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755786] SERVICE ALERT: nycnn-ipvx17e1;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755786] SERVICE ALERT: nycnn-ipvx18e1;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755786] SERVICE ALERT: nycnn-ipvx19e1;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755786] SERVICE ALERT: nycnn-ipvx2;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755786] SERVICE ALERT: nycnn-ipvx20e1;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755786] SERVICE ALERT: nycnn-ipvx21e1;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755786] SERVICE ALERT: nycnn-ipvx22e1;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755786] SERVICE ALERT: nycnn-ipvx23e1;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755786] SERVICE ALERT: nycnn-ipvx24e1;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755796] SERVICE ALERT: nycnn-ipvx25e1;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755796] SERVICE ALERT: nycnn-ipvx26e1;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755796] SERVICE ALERT: nycnn-ipvx27e1;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755796] SERVICE ALERT: nycnn-ipvx28e1;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755796] SERVICE ALERT: nycnn-ipvx29e1;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755796] SERVICE ALERT: nycnn-ipvx3;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755796] SERVICE ALERT: nycnn-ipvx30e1;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755796] SERVICE ALERT: nycnn-ipvx31;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755796] SERVICE ALERT: nycnn-ipvx32;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755796] SERVICE ALERT: nycnn-ipvx33;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755796] SERVICE ALERT: nycnn-ipvx34;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755806] SERVICE ALERT: nycnn-ipvx35;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755806] SERVICE ALERT: nycnn-ipvx3e1;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755806] SERVICE ALERT: nycnn-ipvx4e1;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755806] SERVICE ALERT: nycnn-ipvx5e1;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755806] SERVICE ALERT: nycnn-ipvx6;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755806] SERVICE ALERT: nycnn-ipvx7;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755806] SERVICE ALERT: nycnn-ipvx8;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755806] SERVICE ALERT: nycnn-ipvx9;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755836] SERVICE ALERT: nycnn-ipvx10;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755836] SERVICE ALERT: nycnn-ipvx10e1;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755836] SERVICE ALERT: nycnn-ipvx11e1;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755836] SERVICE ALERT: nycnn-ipvx12e1;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755836] SERVICE ALERT: nycnn-ipvx13e1;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755846] SERVICE ALERT: nycnn-ipvx14e1;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755846] SERVICE ALERT: nycnn-ipvx15e1;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755846] SERVICE ALERT: nycnn-ipvx16e1;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755846] SERVICE ALERT: nycnn-ipvx17e1;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755846] SERVICE ALERT: nycnn-ipvx18e1;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755846] SERVICE ALERT: nycnn-ipvx19e1;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755846] SERVICE ALERT: nycnn-ipvx2;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755846] SERVICE ALERT: nycnn-ipvx20e1;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755846] SERVICE ALERT: nycnn-ipvx21e1;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755846] SERVICE ALERT: nycnn-ipvx22e1;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755846] SERVICE ALERT: nycnn-ipvx23e1;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755846] SERVICE ALERT: nycnn-ipvx24e1;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755856] SERVICE ALERT: nycnn-ipvx25e1;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755856] SERVICE ALERT: nycnn-ipvx26e1;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755856] SERVICE ALERT: nycnn-ipvx27e1;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755856] SERVICE ALERT: nycnn-ipvx28e1;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755856] SERVICE ALERT: nycnn-ipvx29e1;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755856] SERVICE ALERT: nycnn-ipvx3;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755856] SERVICE ALERT: nycnn-ipvx30e1;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755856] SERVICE ALERT: nycnn-ipvx31;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755856] SERVICE ALERT: nycnn-ipvx32;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755856] SERVICE ALERT: nycnn-ipvx33;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755856] SERVICE ALERT: nycnn-ipvx34;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755866] SERVICE ALERT: nycnn-ipvx35;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755866] SERVICE ALERT: nycnn-ipvx3e1;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755866] SERVICE ALERT: nycnn-ipvx4e1;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755866] SERVICE ALERT: nycnn-ipvx5e1;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755866] SERVICE ALERT: nycnn-ipvx6;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755866] SERVICE ALERT: nycnn-ipvx7;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755866] SERVICE ALERT: nycnn-ipvx8;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755866] SERVICE ALERT: nycnn-ipvx9;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755896] SERVICE ALERT: nycnn-ipvx10;Xcode Service;UNKNOWN;HARD;3;Usage:
+[1383755896] SERVICE ALERT: nycnn-ipvx10e1;Xcode Service;UNKNOWN;HARD;3;Usage:
+[1383755896] SERVICE ALERT: nycnn-ipvx11e1;Xcode Service;UNKNOWN;HARD;3;Usage:
+[1383755896] SERVICE ALERT: nycnn-ipvx12e1;Xcode Service;UNKNOWN;HARD;3;Usage:
+[1383755896] SERVICE ALERT: nycnn-ipvx13e1;Xcode Service;UNKNOWN;HARD;3;Usage:
+[1383755906] SERVICE ALERT: nycnn-ipvx14e1;Xcode Service;UNKNOWN;HARD;3;Usage:
+[1383755906] SERVICE ALERT: nycnn-ipvx15e1;Xcode Service;UNKNOWN;HARD;3;Usage:
+[1383755906] SERVICE ALERT: nycnn-ipvx16e1;Xcode Service;UNKNOWN;HARD;3;Usage:
+[1383755906] SERVICE ALERT: nycnn-ipvx17e1;Xcode Service;UNKNOWN;HARD;3;Usage:
+[1383755906] SERVICE ALERT: nycnn-ipvx18e1;Xcode Service;UNKNOWN;HARD;3;Usage:
+[1383755906] SERVICE ALERT: nycnn-ipvx19e1;Xcode Service;UNKNOWN;HARD;3;Usage:
+[1383755906] SERVICE ALERT: nycnn-ipvx2;Xcode Service;UNKNOWN;HARD;3;Usage:
+[1383755906] SERVICE ALERT: nycnn-ipvx20e1;Xcode Service;UNKNOWN;HARD;3;Usage:
+[1383755906] SERVICE ALERT: nycnn-ipvx21e1;Xcode Service;UNKNOWN;HARD;3;Usage:
+[1383755906] SERVICE ALERT: nycnn-ipvx22e1;Xcode Service;UNKNOWN;HARD;3;Usage:
+[1383755906] SERVICE ALERT: nycnn-ipvx23e1;Xcode Service;UNKNOWN;HARD;3;Usage:
+[1383755906] SERVICE ALERT: nycnn-ipvx24e1;Xcode Service;UNKNOWN;HARD;3;Usage:
+[1383755916] SERVICE ALERT: nycnn-ipvx25e1;Xcode Service;UNKNOWN;HARD;3;Usage:
+[1383755916] SERVICE ALERT: nycnn-ipvx26e1;Xcode Service;UNKNOWN;HARD;3;Usage:
+[1383755916] SERVICE ALERT: nycnn-ipvx27e1;Xcode Service;UNKNOWN;HARD;3;Usage:
+[1383755916] SERVICE ALERT: nycnn-ipvx28e1;Xcode Service;UNKNOWN;HARD;3;Usage:
+[1383755916] SERVICE ALERT: nycnn-ipvx29e1;Xcode Service;UNKNOWN;HARD;3;Usage:
+[1383755916] SERVICE ALERT: nycnn-ipvx3;Xcode Service;UNKNOWN;HARD;3;Usage:
+[1383755916] SERVICE ALERT: nycnn-ipvx30e1;Xcode Service;UNKNOWN;HARD;3;Usage:
+[1383755916] SERVICE ALERT: nycnn-ipvx31;Xcode Service;UNKNOWN;HARD;3;Usage:
+[1383755916] SERVICE ALERT: nycnn-ipvx32;Xcode Service;UNKNOWN;HARD;3;Usage:
+[1383755916] SERVICE ALERT: nycnn-ipvx33;Xcode Service;UNKNOWN;HARD;3;Usage:
+[1383755916] SERVICE ALERT: nycnn-ipvx1;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755916] SERVICE ALERT: nycnn-ipvx34;Xcode Service;UNKNOWN;HARD;3;Usage:
+[1383755926] SERVICE ALERT: nycnn-ipvx35;Xcode Service;UNKNOWN;HARD;3;Usage:
+[1383755926] SERVICE ALERT: nycnn-ipvx3e1;Xcode Service;UNKNOWN;HARD;3;Usage:
+[1383755926] SERVICE ALERT: nycnn-ipvx11;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755926] SERVICE ALERT: nycnn-ipvx4e1;Xcode Service;UNKNOWN;HARD;3;Usage:
+[1383755926] SERVICE ALERT: nycnn-ipvx12;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755926] SERVICE ALERT: nycnn-ipvx5e1;Xcode Service;UNKNOWN;HARD;3;Usage:
+[1383755926] SERVICE ALERT: nycnn-ipvx13;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755926] SERVICE ALERT: nycnn-ipvx14;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755926] SERVICE ALERT: nycnn-ipvx6;Xcode Service;UNKNOWN;HARD;3;Usage:
+[1383755926] SERVICE ALERT: nycnn-ipvx15;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755926] SERVICE ALERT: nycnn-ipvx7;Xcode Service;UNKNOWN;HARD;3;Usage:
+[1383755926] SERVICE ALERT: nycnn-ipvx16;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755926] SERVICE ALERT: nycnn-ipvx8;Xcode Service;UNKNOWN;HARD;3;Usage:
+[1383755926] SERVICE ALERT: nycnn-ipvx9;Xcode Service;UNKNOWN;HARD;3;Usage:
+[1383755926] SERVICE ALERT: nycnn-ipvx17;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755926] SERVICE ALERT: nycnn-ipvx18;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755926] SERVICE ALERT: nycnn-ipvx19;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755926] SERVICE ALERT: nycnn-ipvx1e1;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755926] SERVICE ALERT: nycnn-ipvx20;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755936] SERVICE ALERT: nycnn-ipvx21;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755936] SERVICE ALERT: nycnn-ipvx22;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755936] SERVICE ALERT: nycnn-ipvx23;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755936] SERVICE ALERT: nycnn-ipvx24;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755936] SERVICE ALERT: nycnn-ipvx25;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755936] SERVICE ALERT: nycnn-ipvx26;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755936] SERVICE ALERT: nycnn-ipvx27;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755936] SERVICE ALERT: nycnn-ipvx28;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755936] SERVICE ALERT: nycnn-ipvx29;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755936] SERVICE ALERT: nycnn-ipvx2e1;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755936] SERVICE ALERT: nycnn-ipvx30;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755946] SERVICE ALERT: nycnn-ipvx31e1;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755946] SERVICE ALERT: nycnn-ipvx32e1;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755946] SERVICE ALERT: nycnn-ipvx33e1;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755946] SERVICE ALERT: nycnn-ipvx34e1;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755946] SERVICE ALERT: nycnn-ipvx35e1;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755946] SERVICE ALERT: nycnn-ipvx4;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755946] SERVICE ALERT: nycnn-ipvx5;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755946] SERVICE ALERT: nycnn-ipvx6e1;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755946] SERVICE ALERT: nycnn-ipvx7e1;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755946] SERVICE ALERT: nycnn-ipvx8e1;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755946] SERVICE ALERT: nycnn-ipvx9e1;Xcode Service;UNKNOWN;SOFT;1;Usage:
+[1383755976] SERVICE ALERT: nycnn-ipvx1;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755986] SERVICE ALERT: nycnn-ipvx11;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755986] SERVICE ALERT: nycnn-ipvx12;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755986] SERVICE ALERT: nycnn-ipvx13;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755986] SERVICE ALERT: nycnn-ipvx14;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755986] SERVICE ALERT: nycnn-ipvx15;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755986] SERVICE ALERT: nycnn-ipvx16;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755986] SERVICE ALERT: nycnn-ipvx17;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755986] SERVICE ALERT: nycnn-ipvx18;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755986] SERVICE ALERT: nycnn-ipvx19;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755986] SERVICE ALERT: nycnn-ipvx1e1;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755986] SERVICE ALERT: nycnn-ipvx20;Xcode Service;UNKNOWN;SOFT;2;Usage:
+[1383755986] Caught SIGHUP, restarting...
+[1383755986] Nagios 3.3.1 starting... (PID=5157)
+[1383755986] Local time is Wed Nov 06 11:39:46 EST 2013
+[1383755986] LOG VERSION: 2.0
+[1383755986] Warning: Host 'nycnn-arapp2' has no services associated with it!
+[1383755986] Warning: Host 'nycnn-ardb1' has no services associated with it!
+[1383755986] Warning: Host 'nycnn-ardb2' has no services associated with it!
+[1383755986] Warning: Host 'nycnn-arvtrmops' has no services associated with it!
+[1383755986] Warning: Host 'nycnn-arxlator2' has no services associated with it!
+[1383755986] Warning: Host 'nycnn-arxlator3' has no services associated with it!
+[1383755986] Warning: Host 'nycnn-arxlator4' has no services associated with it!
+[1383755996] Warning: Check result queue contained results for service 'Xcode Service' on host 'nycnn-ipvx21', but the service could not be found!  Perhaps you forgot to define the service in your config files?
+[1383756154] Caught SIGHUP, restarting...
+[1383756154] Nagios 3.3.1 starting... (PID=5157)
+[1383756154] Local time is Wed Nov 06 11:42:34 EST 2013
+[1383756154] LOG VERSION: 2.0
+[1383756154] Warning: Host 'nycnn-arapp2' has no services associated with it!
+[1383756154] Warning: Host 'nycnn-ardb1' has no services associated with it!
+[1383756154] Warning: Host 'nycnn-ardb2' has no services associated with it!
+[1383756154] Warning: Host 'nycnn-arvtrmops' has no services associated with it!
+[1383756154] Warning: Host 'nycnn-arxlator2' has no services associated with it!
+[1383756154] Warning: Host 'nycnn-arxlator3' has no services associated with it!
+[1383756154] Warning: Host 'nycnn-arxlator4' has no services associated with it!
+[1383756304] SERVICE ALERT: nycnn-ipvx1;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756304] SERVICE ALERT: nycnn-ipvx10e1;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756304] SERVICE ALERT: nycnn-ipvx11e1;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756304] SERVICE ALERT: nycnn-ipvx12e1;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756304] SERVICE ALERT: nycnn-ipvx13e1;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756304] SERVICE ALERT: nycnn-ipvx14e1;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756314] SERVICE ALERT: nycnn-ipvx15e1;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756314] SERVICE ALERT: nycnn-ipvx16e1;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756314] SERVICE ALERT: nycnn-ipvx17e1;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756314] SERVICE ALERT: nycnn-ipvx18e1;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756314] SERVICE ALERT: nycnn-ipvx19;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756314] SERVICE ALERT: nycnn-ipvx19e1;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756314] SERVICE ALERT: nycnn-ipvx1e1;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756314] SERVICE ALERT: nycnn-ipvx2;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756314] SERVICE ALERT: nycnn-ipvx20;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756314] SERVICE ALERT: nycnn-ipvx22;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756324] SERVICE ALERT: nycnn-ipvx22e1;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756324] SERVICE ALERT: nycnn-ipvx23;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756324] SERVICE ALERT: nycnn-ipvx23e1;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756324] SERVICE ALERT: nycnn-ipvx24;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756324] SERVICE ALERT: nycnn-ipvx25;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756324] SERVICE ALERT: nycnn-ipvx26;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756324] SERVICE ALERT: nycnn-ipvx27;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756324] SERVICE ALERT: nycnn-ipvx28;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756324] SERVICE ALERT: nycnn-ipvx29;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756324] SERVICE ALERT: nycnn-ipvx2e1;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756324] SERVICE ALERT: nycnn-ipvx30;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756334] SERVICE ALERT: nycnn-ipvx30e1;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756334] SERVICE ALERT: nycnn-ipvx32;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756334] SERVICE ALERT: nycnn-ipvx33;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756334] SERVICE ALERT: nycnn-ipvx34;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756334] SERVICE ALERT: nycnn-ipvx35;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756334] SERVICE ALERT: nycnn-ipvx3e1;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756334] SERVICE ALERT: nycnn-ipvx4e1;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756334] SERVICE ALERT: nycnn-ipvx5e1;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756334] SERVICE ALERT: nycnn-ipvx6e1;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756344] SERVICE ALERT: nycnn-ipvx9;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756344] SERVICE ALERT: nycnn-ipvx9e1;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756364] SERVICE ALERT: nycnn-ipvx1;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756364] SERVICE ALERT: nycnn-ipvx10e1;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756364] SERVICE ALERT: nycnn-ipvx11e1;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756364] SERVICE ALERT: nycnn-ipvx12e1;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756364] SERVICE ALERT: nycnn-ipvx13e1;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756364] SERVICE ALERT: nycnn-ipvx14e1;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756374] SERVICE ALERT: nycnn-ipvx15e1;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756374] SERVICE ALERT: nycnn-ipvx16e1;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756374] SERVICE ALERT: nycnn-ipvx17e1;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756374] SERVICE ALERT: nycnn-ipvx18e1;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756374] SERVICE ALERT: nycnn-ipvx19;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756374] SERVICE ALERT: nycnn-ipvx19e1;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756374] SERVICE ALERT: nycnn-ipvx1e1;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756374] SERVICE ALERT: nycnn-ipvx2;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756374] SERVICE ALERT: nycnn-ipvx20;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756374] SERVICE ALERT: nycnn-ipvx22;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756384] SERVICE ALERT: nycnn-ipvx22e1;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756384] SERVICE ALERT: nycnn-ipvx23;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756384] SERVICE ALERT: nycnn-ipvx23e1;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756384] SERVICE ALERT: nycnn-ipvx24;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756384] SERVICE ALERT: nycnn-ipvx25;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756384] SERVICE ALERT: nycnn-ipvx26;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756384] SERVICE ALERT: nycnn-ipvx27;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756384] SERVICE ALERT: nycnn-ipvx28;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756384] SERVICE ALERT: nycnn-ipvx29;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756384] SERVICE ALERT: nycnn-ipvx2e1;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756384] SERVICE ALERT: nycnn-ipvx30;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756394] SERVICE ALERT: nycnn-ipvx30e1;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756394] SERVICE ALERT: nycnn-ipvx32;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756394] SERVICE ALERT: nycnn-ipvx33;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756394] SERVICE ALERT: nycnn-ipvx34;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756394] SERVICE ALERT: nycnn-ipvx35;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756394] SERVICE ALERT: nycnn-ipvx3e1;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756394] SERVICE ALERT: nycnn-ipvx4e1;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756394] SERVICE ALERT: nycnn-ipvx5e1;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756394] SERVICE ALERT: nycnn-ipvx6e1;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756404] SERVICE ALERT: nycnn-ipvx9;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756404] SERVICE ALERT: nycnn-ipvx9e1;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756424] SERVICE ALERT: nycnn-ipvx1;Xcode Service;CRITICAL;HARD;3;Connection refused
+[1383756424] SERVICE NOTIFICATION: feedsadmin;nycnn-ipvx1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756424] SERVICE NOTIFICATION: unixadmin;nycnn-ipvx1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756424] SERVICE ALERT: nycnn-ipvx10e1;Xcode Service;CRITICAL;HARD;3;Connection refused
+[1383756424] SERVICE NOTIFICATION: feedsadmin;nycnn-ipvx10e1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756424] SERVICE NOTIFICATION: unixadmin;nycnn-ipvx10e1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756424] SERVICE ALERT: nycnn-ipvx11e1;Xcode Service;CRITICAL;HARD;3;Connection refused
+[1383756424] SERVICE NOTIFICATION: feedsadmin;nycnn-ipvx11e1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756424] SERVICE NOTIFICATION: unixadmin;nycnn-ipvx11e1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756424] SERVICE ALERT: nycnn-ipvx12e1;Xcode Service;CRITICAL;HARD;3;Connection refused
+[1383756424] SERVICE NOTIFICATION: feedsadmin;nycnn-ipvx12e1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756424] SERVICE NOTIFICATION: unixadmin;nycnn-ipvx12e1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756424] SERVICE ALERT: nycnn-ipvx13e1;Xcode Service;CRITICAL;HARD;3;Connection refused
+[1383756424] SERVICE NOTIFICATION: feedsadmin;nycnn-ipvx13e1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756424] SERVICE NOTIFICATION: unixadmin;nycnn-ipvx13e1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756424] SERVICE ALERT: nycnn-ipvx14e1;Xcode Service;CRITICAL;HARD;3;Connection refused
+[1383756424] SERVICE NOTIFICATION: feedsadmin;nycnn-ipvx14e1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756425] SERVICE NOTIFICATION: unixadmin;nycnn-ipvx14e1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756434] SERVICE ALERT: nycnn-ipvx15e1;Xcode Service;CRITICAL;HARD;3;Connection refused
+[1383756434] SERVICE NOTIFICATION: feedsadmin;nycnn-ipvx15e1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756434] SERVICE NOTIFICATION: unixadmin;nycnn-ipvx15e1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756434] SERVICE ALERT: nycnn-ipvx16e1;Xcode Service;CRITICAL;HARD;3;Connection refused
+[1383756434] SERVICE NOTIFICATION: feedsadmin;nycnn-ipvx16e1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756434] SERVICE NOTIFICATION: unixadmin;nycnn-ipvx16e1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756434] SERVICE ALERT: nycnn-ipvx17e1;Xcode Service;CRITICAL;HARD;3;Connection refused
+[1383756434] SERVICE NOTIFICATION: feedsadmin;nycnn-ipvx17e1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756434] SERVICE NOTIFICATION: unixadmin;nycnn-ipvx17e1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756434] SERVICE ALERT: nycnn-ipvx18e1;Xcode Service;CRITICAL;HARD;3;Connection refused
+[1383756434] SERVICE NOTIFICATION: feedsadmin;nycnn-ipvx18e1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756434] SERVICE NOTIFICATION: unixadmin;nycnn-ipvx18e1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756434] SERVICE ALERT: nycnn-ipvx19;Xcode Service;CRITICAL;HARD;3;Connection refused
+[1383756434] SERVICE NOTIFICATION: feedsadmin;nycnn-ipvx19;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756434] SERVICE NOTIFICATION: unixadmin;nycnn-ipvx19;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756434] SERVICE ALERT: nycnn-ipvx19e1;Xcode Service;CRITICAL;HARD;3;Connection refused
+[1383756434] SERVICE NOTIFICATION: feedsadmin;nycnn-ipvx19e1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756435] SERVICE NOTIFICATION: unixadmin;nycnn-ipvx19e1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756435] SERVICE ALERT: nycnn-ipvx1e1;Xcode Service;CRITICAL;HARD;3;Connection refused
+[1383756435] SERVICE NOTIFICATION: feedsadmin;nycnn-ipvx1e1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756435] SERVICE NOTIFICATION: unixadmin;nycnn-ipvx1e1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756435] SERVICE ALERT: nycnn-ipvx2;Xcode Service;CRITICAL;HARD;3;Connection refused
+[1383756435] SERVICE NOTIFICATION: feedsadmin;nycnn-ipvx2;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756435] SERVICE NOTIFICATION: unixadmin;nycnn-ipvx2;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756435] SERVICE ALERT: nycnn-ipvx20;Xcode Service;CRITICAL;HARD;3;Connection refused
+[1383756435] SERVICE NOTIFICATION: feedsadmin;nycnn-ipvx20;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756435] SERVICE NOTIFICATION: unixadmin;nycnn-ipvx20;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756435] SERVICE ALERT: nycnn-ipvx22;Xcode Service;CRITICAL;HARD;3;Connection refused
+[1383756435] SERVICE NOTIFICATION: feedsadmin;nycnn-ipvx22;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756435] SERVICE NOTIFICATION: unixadmin;nycnn-ipvx22;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756444] SERVICE ALERT: nycnn-ipvx22e1;Xcode Service;CRITICAL;HARD;3;Connection refused
+[1383756444] SERVICE NOTIFICATION: feedsadmin;nycnn-ipvx22e1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756444] SERVICE NOTIFICATION: unixadmin;nycnn-ipvx22e1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756444] SERVICE ALERT: nycnn-ipvx23;Xcode Service;CRITICAL;HARD;3;Connection refused
+[1383756444] SERVICE NOTIFICATION: feedsadmin;nycnn-ipvx23;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756444] SERVICE NOTIFICATION: unixadmin;nycnn-ipvx23;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756444] SERVICE ALERT: nycnn-ipvx23e1;Xcode Service;CRITICAL;HARD;3;Connection refused
+[1383756444] SERVICE NOTIFICATION: feedsadmin;nycnn-ipvx23e1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756444] SERVICE NOTIFICATION: unixadmin;nycnn-ipvx23e1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756444] SERVICE ALERT: nycnn-ipvx24;Xcode Service;CRITICAL;HARD;3;Connection refused
+[1383756444] SERVICE NOTIFICATION: feedsadmin;nycnn-ipvx24;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756444] SERVICE NOTIFICATION: unixadmin;nycnn-ipvx24;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756444] SERVICE ALERT: nycnn-ipvx25;Xcode Service;CRITICAL;HARD;3;Connection refused
+[1383756444] SERVICE NOTIFICATION: feedsadmin;nycnn-ipvx25;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756444] SERVICE NOTIFICATION: unixadmin;nycnn-ipvx25;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756444] SERVICE ALERT: nycnn-ipvx26;Xcode Service;CRITICAL;HARD;3;Connection refused
+[1383756444] SERVICE NOTIFICATION: feedsadmin;nycnn-ipvx26;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756444] SERVICE NOTIFICATION: unixadmin;nycnn-ipvx26;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756444] SERVICE ALERT: nycnn-ipvx27;Xcode Service;CRITICAL;HARD;3;Connection refused
+[1383756444] SERVICE NOTIFICATION: feedsadmin;nycnn-ipvx27;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756445] SERVICE NOTIFICATION: unixadmin;nycnn-ipvx27;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756445] SERVICE ALERT: nycnn-ipvx28;Xcode Service;CRITICAL;HARD;3;Connection refused
+[1383756445] SERVICE NOTIFICATION: feedsadmin;nycnn-ipvx28;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756445] SERVICE NOTIFICATION: unixadmin;nycnn-ipvx28;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756445] SERVICE ALERT: nycnn-ipvx29;Xcode Service;CRITICAL;HARD;3;Connection refused
+[1383756445] SERVICE NOTIFICATION: feedsadmin;nycnn-ipvx29;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756445] SERVICE NOTIFICATION: unixadmin;nycnn-ipvx29;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756445] SERVICE ALERT: nycnn-ipvx2e1;Xcode Service;CRITICAL;HARD;3;Connection refused
+[1383756445] SERVICE NOTIFICATION: feedsadmin;nycnn-ipvx2e1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756445] SERVICE NOTIFICATION: unixadmin;nycnn-ipvx2e1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756445] SERVICE ALERT: nycnn-ipvx10;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756445] SERVICE ALERT: nycnn-ipvx30;Xcode Service;CRITICAL;HARD;3;Connection refused
+[1383756445] SERVICE NOTIFICATION: feedsadmin;nycnn-ipvx30;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756445] SERVICE NOTIFICATION: unixadmin;nycnn-ipvx30;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756454] SERVICE ALERT: nycnn-ipvx11;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756454] SERVICE ALERT: nycnn-ipvx30e1;Xcode Service;CRITICAL;HARD;3;Connection refused
+[1383756454] SERVICE NOTIFICATION: feedsadmin;nycnn-ipvx30e1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756454] SERVICE NOTIFICATION: unixadmin;nycnn-ipvx30e1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756454] SERVICE ALERT: nycnn-ipvx12;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756454] SERVICE ALERT: nycnn-ipvx32;Xcode Service;CRITICAL;HARD;3;Connection refused
+[1383756454] SERVICE NOTIFICATION: feedsadmin;nycnn-ipvx32;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756454] SERVICE NOTIFICATION: unixadmin;nycnn-ipvx32;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756454] SERVICE ALERT: nycnn-ipvx13;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756454] SERVICE ALERT: nycnn-ipvx33;Xcode Service;CRITICAL;HARD;3;Connection refused
+[1383756454] SERVICE NOTIFICATION: feedsadmin;nycnn-ipvx33;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756454] SERVICE NOTIFICATION: unixadmin;nycnn-ipvx33;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756454] SERVICE ALERT: nycnn-ipvx14;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756454] SERVICE ALERT: nycnn-ipvx15;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756454] SERVICE ALERT: nycnn-ipvx34;Xcode Service;CRITICAL;HARD;3;Connection refused
+[1383756454] SERVICE NOTIFICATION: feedsadmin;nycnn-ipvx34;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756454] SERVICE NOTIFICATION: unixadmin;nycnn-ipvx34;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756454] SERVICE ALERT: nycnn-ipvx16;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756454] SERVICE ALERT: nycnn-ipvx35;Xcode Service;CRITICAL;HARD;3;Connection refused
+[1383756454] SERVICE NOTIFICATION: feedsadmin;nycnn-ipvx35;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756454] SERVICE NOTIFICATION: unixadmin;nycnn-ipvx35;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756454] SERVICE ALERT: nycnn-ipvx17;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756454] SERVICE ALERT: nycnn-ipvx3e1;Xcode Service;CRITICAL;HARD;3;Connection refused
+[1383756454] SERVICE NOTIFICATION: feedsadmin;nycnn-ipvx3e1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756454] SERVICE NOTIFICATION: unixadmin;nycnn-ipvx3e1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756454] SERVICE ALERT: nycnn-ipvx4e1;Xcode Service;CRITICAL;HARD;3;Connection refused
+[1383756454] SERVICE NOTIFICATION: feedsadmin;nycnn-ipvx4e1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756455] SERVICE NOTIFICATION: unixadmin;nycnn-ipvx4e1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756455] SERVICE ALERT: nycnn-ipvx18;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756455] SERVICE ALERT: nycnn-ipvx5e1;Xcode Service;CRITICAL;HARD;3;Connection refused
+[1383756455] SERVICE NOTIFICATION: feedsadmin;nycnn-ipvx5e1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756455] SERVICE NOTIFICATION: unixadmin;nycnn-ipvx5e1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756455] SERVICE ALERT: nycnn-ipvx6e1;Xcode Service;CRITICAL;HARD;3;Connection refused
+[1383756455] SERVICE NOTIFICATION: feedsadmin;nycnn-ipvx6e1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756455] SERVICE NOTIFICATION: unixadmin;nycnn-ipvx6e1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756464] SERVICE ALERT: nycnn-ipvx20e1;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756464] SERVICE ALERT: nycnn-ipvx9;Xcode Service;CRITICAL;HARD;3;Connection refused
+[1383756464] SERVICE NOTIFICATION: feedsadmin;nycnn-ipvx9;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756464] SERVICE NOTIFICATION: unixadmin;nycnn-ipvx9;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756464] SERVICE ALERT: nycnn-ipvx9e1;Xcode Service;CRITICAL;HARD;3;Connection refused
+[1383756464] SERVICE NOTIFICATION: feedsadmin;nycnn-ipvx9e1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756464] SERVICE NOTIFICATION: unixadmin;nycnn-ipvx9e1;Xcode Service;CRITICAL;notify-service-by-email;Connection refused
+[1383756464] SERVICE ALERT: nycnn-ipvx21;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756464] SERVICE ALERT: nycnn-ipvx21e1;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756464] SERVICE ALERT: nycnn-ipvx24e1;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756464] SERVICE ALERT: nycnn-ipvx25e1;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756464] SERVICE ALERT: nycnn-ipvx26e1;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756464] SERVICE ALERT: nycnn-ipvx27e1;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756474] SERVICE ALERT: nycnn-ipvx28e1;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756474] SERVICE ALERT: nycnn-ipvx29e1;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756474] SERVICE ALERT: nycnn-ipvx3;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756474] SERVICE ALERT: nycnn-ipvx31;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756474] SERVICE ALERT: nycnn-ipvx31e1;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756474] SERVICE ALERT: nycnn-ipvx32e1;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756474] SERVICE ALERT: nycnn-ipvx33e1;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756474] SERVICE ALERT: nycnn-ipvx34e1;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756474] SERVICE ALERT: nycnn-ipvx35e1;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756474] SERVICE ALERT: nycnn-ipvx4;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756474] SERVICE ALERT: nycnn-ipvx5;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756484] SERVICE ALERT: nycnn-ipvx6;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756484] SERVICE ALERT: nycnn-ipvx7;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756484] SERVICE ALERT: nycnn-ipvx7e1;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756484] SERVICE ALERT: nycnn-ipvx8;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756484] SERVICE ALERT: nycnn-ipvx8e1;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383756504] SERVICE ALERT: nycnn-ipvx10;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756514] SERVICE ALERT: nycnn-ipvx11;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756514] SERVICE ALERT: nycnn-ipvx12;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756514] SERVICE ALERT: nycnn-ipvx13;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756514] SERVICE ALERT: nycnn-ipvx14;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756514] SERVICE ALERT: nycnn-ipvx15;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756514] SERVICE ALERT: nycnn-ipvx16;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756514] SERVICE ALERT: nycnn-ipvx17;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756514] SERVICE ALERT: nycnn-ipvx18;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756524] SERVICE ALERT: nycnn-ipvx20e1;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756524] SERVICE ALERT: nycnn-ipvx21;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756524] SERVICE ALERT: nycnn-ipvx21e1;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756524] SERVICE ALERT: nycnn-ipvx24e1;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756524] SERVICE ALERT: nycnn-ipvx25e1;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756524] SERVICE ALERT: nycnn-ipvx26e1;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756524] SERVICE ALERT: nycnn-ipvx27e1;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756534] SERVICE ALERT: nycnn-ipvx28e1;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756534] SERVICE ALERT: nycnn-ipvx29e1;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756534] SERVICE ALERT: nycnn-ipvx3;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756534] SERVICE ALERT: nycnn-ipvx31;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756534] SERVICE ALERT: nycnn-ipvx31e1;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756534] SERVICE ALERT: nycnn-ipvx32e1;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756534] SERVICE ALERT: nycnn-ipvx33e1;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756534] SERVICE ALERT: nycnn-ipvx34e1;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756534] SERVICE ALERT: nycnn-ipvx35e1;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756534] SERVICE ALERT: nycnn-ipvx4;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756534] SERVICE ALERT: nycnn-ipvx5;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383756535] Caught SIGHUP, restarting...
+[1383756535] Nagios 3.3.1 starting... (PID=5157)
+[1383756535] Local time is Wed Nov 06 11:48:55 EST 2013
+[1383756535] LOG VERSION: 2.0
+[1383756535] Warning: Host 'nycnn-arapp2' has no services associated with it!
+[1383756535] Warning: Host 'nycnn-ardb1' has no services associated with it!
+[1383756535] Warning: Host 'nycnn-ardb2' has no services associated with it!
+[1383756535] Warning: Host 'nycnn-arvtrmops' has no services associated with it!
+[1383756535] Warning: Host 'nycnn-arxlator2' has no services associated with it!
+[1383756535] Warning: Host 'nycnn-arxlator3' has no services associated with it!
+[1383756535] Warning: Host 'nycnn-arxlator4' has no services associated with it!
+[1383756545] Warning: Check result queue contained results for service 'Xcode Service' on host 'nycnn-ipvx6', but the service could not be found!  Perhaps you forgot to define the service in your config files?
+[1383756746] Caught SIGHUP, restarting...
+[1383756746] Nagios 3.3.1 starting... (PID=5157)
+[1383756746] Local time is Wed Nov 06 11:52:26 EST 2013
+[1383756746] LOG VERSION: 2.0
+[1383756746] Warning: Host 'nycnn-arapp2' has no services associated with it!
+[1383756746] Warning: Host 'nycnn-ardb1' has no services associated with it!
+[1383756746] Warning: Host 'nycnn-ardb2' has no services associated with it!
+[1383756746] Warning: Host 'nycnn-arvtrmops' has no services associated with it!
+[1383756746] Warning: Host 'nycnn-arxlator2' has no services associated with it!
+[1383756746] Warning: Host 'nycnn-arxlator3' has no services associated with it!
+[1383756746] Warning: Host 'nycnn-arxlator4' has no services associated with it!
+[1383756914] EXTERNAL COMMAND: DISABLE_SVC_NOTIFICATIONS;nycnn-ipvx1;Xcode Service
+[1383757096] SERVICE ALERT: nycnn-ipvx1;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383757156] SERVICE ALERT: nycnn-ipvx1;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383757176] Caught SIGHUP, restarting...
+[1383757176] Nagios 3.3.1 starting... (PID=5157)
+[1383757176] Local time is Wed Nov 06 11:59:36 EST 2013
+[1383757176] LOG VERSION: 2.0
+[1383757176] Warning: Host 'nycnn-arapp2' has no services associated with it!
+[1383757176] Warning: Host 'nycnn-ardb1' has no services associated with it!
+[1383757176] Warning: Host 'nycnn-ardb2' has no services associated with it!
+[1383757176] Warning: Host 'nycnn-arvtrmops' has no services associated with it!
+[1383757176] Warning: Host 'nycnn-arxlator2' has no services associated with it!
+[1383757176] Warning: Host 'nycnn-arxlator3' has no services associated with it!
+[1383757176] Warning: Host 'nycnn-arxlator4' has no services associated with it!
+[1383757587] Caught SIGHUP, restarting...
+[1383757587] Nagios 3.3.1 starting... (PID=5157)
+[1383757587] Local time is Wed Nov 06 12:06:27 EST 2013
+[1383757587] LOG VERSION: 2.0
+[1383757587] Warning: Host 'nycnn-arapp2' has no services associated with it!
+[1383757587] Warning: Host 'nycnn-ardb1' has no services associated with it!
+[1383757587] Warning: Host 'nycnn-ardb2' has no services associated with it!
+[1383757587] Warning: Host 'nycnn-arvtrmops' has no services associated with it!
+[1383757587] Warning: Host 'nycnn-arxlator2' has no services associated with it!
+[1383757587] Warning: Host 'nycnn-arxlator3' has no services associated with it!
+[1383757587] Warning: Host 'nycnn-arxlator4' has no services associated with it!
+[1383757597] EXTERNAL COMMAND: DISABLE_SVC_NOTIFICATIONS;nycnn-ipvx1;Xcode Service
+[1383757937] SERVICE ALERT: nycnn-ipvx1;Xcode Service;CRITICAL;SOFT;1;Connection refused
+[1383758057] SERVICE ALERT: nycnn-ipvx1;Xcode Service;CRITICAL;SOFT;2;Connection refused
+[1383758177] SERVICE ALERT: nycnn-ipvx1;Xcode Service;CRITICAL;HARD;3;Connection refused
+[1383758917] Caught SIGHUP, restarting...
+[1383758917] Nagios 3.3.1 starting... (PID=5157)
+[1383758917] Local time is Wed Nov 06 12:28:37 EST 2013
+[1383758917] LOG VERSION: 2.0
+[1383758917] Warning: Host 'nycnn-arapp2' has no services associated with it!
+[1383758917] Warning: Host 'nycnn-ardb1' has no services associated with it!
+[1383758917] Warning: Host 'nycnn-ardb2' has no services associated with it!
+[1383758917] Warning: Host 'nycnn-arvtrmops' has no services associated with it!
+[1383758917] Warning: Host 'nycnn-arxlator2' has no services associated with it!
+[1383758917] Warning: Host 'nycnn-arxlator3' has no services associated with it!
+[1383758917] Warning: Host 'nycnn-arxlator4' has no services associated with it!
+[1383758957] SERVICE ALERT: nycnn-ipvx1;Xcode Service;UNKNOWN;HARD;3;Usage:
+[1383762336] Caught SIGHUP, restarting...
+[1383762336] Nagios 3.3.1 starting... (PID=5157)
+[1383762336] Local time is Wed Nov 06 13:25:36 EST 2013
+[1383762336] LOG VERSION: 2.0
+[1383762336] Warning: Host 'nycnn-arapp2' has no services associated with it!
+[1383762336] Warning: Host 'nycnn-ardb1' has no services associated with it!
+[1383762336] Warning: Host 'nycnn-ardb2' has no services associated with it!
+[1383762336] Warning: Host 'nycnn-arvtrmops' has no services associated with it!
+[1383762336] Warning: Host 'nycnn-arxlator2' has no services associated with it!
+[1383762336] Warning: Host 'nycnn-arxlator3' has no services associated with it!
+[1383762336] Warning: Host 'nycnn-arxlator4' has no services associated with it!
+[1383762376] SERVICE ALERT: nycnn-ipvx1;Xcode Service;CRITICAL;HARD;3;Connection refused
+[1383765936] Auto-save of retention data completed successfully.
+[1383767905] Caught SIGHUP, restarting...
+[1383767905] Nagios 3.3.1 starting... (PID=5157)
+[1383767905] Local time is Wed Nov 06 14:58:25 EST 2013
+[1383767905] LOG VERSION: 2.0
+[1383767905] Warning: Host 'nycnn-arapp2' has no services associated with it!
+[1383767905] Warning: Host 'nycnn-ardb1' has no services associated with it!
+[1383767905] Warning: Host 'nycnn-ardb2' has no services associated with it!
+[1383767905] Warning: Host 'nycnn-arvtrmops' has no services associated with it!
+[1383767905] Warning: Host 'nycnn-arxlator2' has no services associated with it!
+[1383767905] Warning: Host 'nycnn-arxlator3' has no services associated with it!
+[1383767905] Warning: Host 'nycnn-arxlator4' has no services associated with it!
+[1383768626] Caught SIGHUP, restarting...
+[1383768626] Nagios 3.3.1 starting... (PID=5157)
+[1383768626] Local time is Wed Nov 06 15:10:26 EST 2013
+[1383768626] LOG VERSION: 2.0
+[1383768626] Warning: Host 'nycnn-arapp2' has no services associated with it!
+[1383768626] Warning: Host 'nycnn-ardb1' has no services associated with it!
+[1383768626] Warning: Host 'nycnn-ardb2' has no services associated with it!
+[1383768626] Warning: Host 'nycnn-arvtrmops' has no services associated with it!
+[1383768626] Warning: Host 'nycnn-arxlator2' has no services associated with it!
+[1383768626] Warning: Host 'nycnn-arxlator3' has no services associated with it!
+[1383768626] Warning: Host 'nycnn-arxlator4' has no services associated with it!
+[1383768872] Caught SIGHUP, restarting...
+[1383768872] Nagios 3.3.1 starting... (PID=5157)
+[1383768872] Local time is Wed Nov 06 15:14:32 EST 2013
+[1383768872] LOG VERSION: 2.0
+[1383768872] Warning: Host 'nycnn-arapp2' has no services associated with it!
+[1383768872] Warning: Host 'nycnn-ardb1' has no services associated with it!
+[1383768872] Warning: Host 'nycnn-ardb2' has no services associated with it!
+[1383768872] Warning: Host 'nycnn-arvtrmops' has no services associated with it!
+[1383768872] Warning: Host 'nycnn-arxlator2' has no services associated with it!
+[1383768872] Warning: Host 'nycnn-arxlator3' has no services associated with it!
+[1383768872] Warning: Host 'nycnn-arxlator4' has no services associated with it!
+[1383769252] Caught SIGHUP, restarting...
+[1383769252] Nagios 3.3.1 starting... (PID=5157)
+[1383769252] Local time is Wed Nov 06 15:20:52 EST 2013
+[1383769252] LOG VERSION: 2.0
+[1383769252] Warning: Host 'nycnn-arapp2' has no services associated with it!
+[1383769252] Warning: Host 'nycnn-ardb1' has no services associated with it!
+[1383769252] Warning: Host 'nycnn-ardb2' has no services associated with it!
+[1383769252] Warning: Host 'nycnn-arvtrmops' has no services associated with it!
+[1383769252] Warning: Host 'nycnn-arxlator2' has no services associated with it!
+[1383769252] Warning: Host 'nycnn-arxlator3' has no services associated with it!
+[1383769252] Warning: Host 'nycnn-arxlator4' has no services associated with it!
+[1383769310] Caught SIGHUP, restarting...
+[1383769310] Nagios 3.3.1 starting... (PID=5157)
+[1383769310] Local time is Wed Nov 06 15:21:50 EST 2013
+[1383769310] LOG VERSION: 2.0
+[1383769310] Warning: Host 'nycnn-arapp2' has no services associated with it!
+[1383769310] Warning: Host 'nycnn-ardb1' has no services associated with it!
+[1383769310] Warning: Host 'nycnn-ardb2' has no services associated with it!
+[1383769310] Warning: Host 'nycnn-arvtrmops' has no services associated with it!
+[1383769310] Warning: Host 'nycnn-arxlator2' has no services associated with it!
+[1383769310] Warning: Host 'nycnn-arxlator3' has no services associated with it!
+[1383769310] Warning: Host 'nycnn-arxlator4' has no services associated with it!
+[1383769631] Caught SIGHUP, restarting...
+[1383769631] Nagios 3.3.1 starting... (PID=5157)
+[1383769631] Local time is Wed Nov 06 15:27:11 EST 2013
+[1383769631] LOG VERSION: 2.0
+[1383769631] Warning: Host 'nycnn-arapp2' has no services associated with it!
+[1383769631] Warning: Host 'nycnn-ardb1' has no services associated with it!
+[1383769631] Warning: Host 'nycnn-ardb2' has no services associated with it!
+[1383769631] Warning: Host 'nycnn-arvtrmops' has no services associated with it!
+[1383769631] Warning: Host 'nycnn-arxlator2' has no services associated with it!
+[1383769631] Warning: Host 'nycnn-arxlator3' has no services associated with it!
+[1383769631] Warning: Host 'nycnn-arxlator4' has no services associated with it!
+[1383770864] Caught SIGHUP, restarting...
+[1383770864] Nagios 3.3.1 starting... (PID=5157)
+[1383770864] Local time is Wed Nov 06 15:47:44 EST 2013
+[1383770864] LOG VERSION: 2.0
+[1383770864] Warning: Host 'nycnn-arapp2' has no services associated with it!
+[1383770864] Warning: Host 'nycnn-ardb1' has no services associated with it!
+[1383770864] Warning: Host 'nycnn-ardb2' has no services associated with it!
+[1383770864] Warning: Host 'nycnn-arvtrmops' has no services associated with it!
+[1383770864] Warning: Host 'nycnn-arxlator2' has no services associated with it!
+[1383770864] Warning: Host 'nycnn-arxlator3' has no services associated with it!
+[1383770864] Warning: Host 'nycnn-arxlator4' has no services associated with it!
+[1383770973] EXTERNAL COMMAND: DISABLE_SVC_NOTIFICATIONS;nycnn-ipvx1;Xcode Check
+[1383771224] SERVICE ALERT: nycnn-ipvx1;Xcode Check;CRITICAL;SOFT;1;Connection refused
+[1383771284] SERVICE ALERT: nycnn-ipvx1;Xcode Check;CRITICAL;SOFT;2;Connection refused
+[1383771344] SERVICE ALERT: nycnn-ipvx1;Xcode Check;CRITICAL;HARD;3;Connection refused
+[1383771404] SERVICE ALERT: nycnn-adbeame2;AME Job status;CRITICAL;SOFT;1;Job 09679609 remains in a queued state
+[1383771464] SERVICE ALERT: nycnn-adbeame2;AME Job status;OK;SOFT;2;AME is idle:
+[1383771740] Caught SIGHUP, restarting...
+[1383771740] Nagios 3.3.1 starting... (PID=5157)
+[1383771740] Local time is Wed Nov 06 16:02:20 EST 2013
+[1383771740] LOG VERSION: 2.0
+[1383771740] Warning: Host 'nycnn-arapp2' has no services associated with it!
+[1383771740] Warning: Host 'nycnn-ardb1' has no services associated with it!
+[1383771740] Warning: Host 'nycnn-ardb2' has no services associated with it!
+[1383771740] Warning: Host 'nycnn-arvtrmops' has no services associated with it!
+[1383771740] Warning: Host 'nycnn-arxlator2' has no services associated with it!
+[1383771740] Warning: Host 'nycnn-arxlator3' has no services associated with it!
+[1383771740] Warning: Host 'nycnn-arxlator4' has no services associated with it!
+[1383771756] Caught SIGHUP, restarting...
+[1383771756] Nagios 3.3.1 starting... (PID=5157)
+[1383771756] Local time is Wed Nov 06 16:02:36 EST 2013
+[1383771756] LOG VERSION: 2.0
+[1383771756] Warning: Host 'nycnn-arapp2' has no services associated with it!
+[1383771756] Warning: Host 'nycnn-ardb1' has no services associated with it!
+[1383771756] Warning: Host 'nycnn-ardb2' has no services associated with it!
+[1383771756] Warning: Host 'nycnn-arvtrmops' has no services associated with it!
+[1383771756] Warning: Host 'nycnn-arxlator2' has no services associated with it!
+[1383771756] Warning: Host 'nycnn-arxlator3' has no services associated with it!
+[1383771756] Warning: Host 'nycnn-arxlator4' has no services associated with it!
+[1383771774] Caught SIGHUP, restarting...
+[1383771774] Nagios 3.3.1 starting... (PID=5157)
+[1383771774] Local time is Wed Nov 06 16:02:54 EST 2013
+[1383771774] LOG VERSION: 2.0
+[1383771774] Warning: Host 'nycnn-arapp2' has no services associated with it!
+[1383771774] Warning: Host 'nycnn-ardb1' has no services associated with it!
+[1383771774] Warning: Host 'nycnn-ardb2' has no services associated with it!
+[1383771774] Warning: Host 'nycnn-arvtrmops' has no services associated with it!
+[1383771774] Warning: Host 'nycnn-arxlator2' has no services associated with it!
+[1383771774] Warning: Host 'nycnn-arxlator3' has no services associated with it!
+[1383771774] Warning: Host 'nycnn-arxlator4' has no services associated with it!
+[1383772134] SERVICE ALERT: nycnn-ipvx1;Xcode Check;UNKNOWN;SOFT;1;Usage:
+[1383772194] SERVICE ALERT: nycnn-ipvx1;Xcode Check;UNKNOWN;SOFT;2;Usage:
+[1383772254] SERVICE ALERT: nycnn-ipvx1;Xcode Check;UNKNOWN;HARD;3;Usage:
+[1383772449] Caught SIGHUP, restarting...
+[1383772449] Nagios 3.3.1 starting... (PID=5157)
+[1383772449] Local time is Wed Nov 06 16:14:09 EST 2013
+[1383772449] LOG VERSION: 2.0
+[1383772449] Warning: Host 'nycnn-arapp2' has no services associated with it!
+[1383772449] Warning: Host 'nycnn-ardb1' has no services associated with it!
+[1383772449] Warning: Host 'nycnn-ardb2' has no services associated with it!
+[1383772449] Warning: Host 'nycnn-arvtrmops' has no services associated with it!
+[1383772449] Warning: Host 'nycnn-arxlator2' has no services associated with it!
+[1383772449] Warning: Host 'nycnn-arxlator3' has no services associated with it!
+[1383772449] Warning: Host 'nycnn-arxlator4' has no services associated with it!
+[1383772719] SERVICE ALERT: nycnn-adbeame4;AME Job status;CRITICAL;SOFT;1;Job 09679629 remains in a queued state
+[1383772779] SERVICE ALERT: nycnn-adbeame4;AME Job status;OK;SOFT;2;AME is idle:
+[1383773039] Caught SIGHUP, restarting...
+[1383773039] Nagios 3.3.1 starting... (PID=5157)
+[1383773039] Local time is Wed Nov 06 16:23:59 EST 2013
+[1383773039] LOG VERSION: 2.0
+[1383773039] Warning: Host 'nycnn-arapp2' has no services associated with it!
+[1383773039] Warning: Host 'nycnn-ardb1' has no services associated with it!
+[1383773039] Warning: Host 'nycnn-ardb2' has no services associated with it!
+[1383773039] Warning: Host 'nycnn-arvtrmops' has no services associated with it!
+[1383773039] Warning: Host 'nycnn-arxlator2' has no services associated with it!
+[1383773039] Warning: Host 'nycnn-arxlator3' has no services associated with it!
+[1383773039] Warning: Host 'nycnn-arxlator4' has no services associated with it!
+[1383773992] Caught SIGHUP, restarting...
+[1383773992] Nagios 3.3.1 starting... (PID=5157)
+[1383773992] Local time is Wed Nov 06 16:39:52 EST 2013
+[1383773992] LOG VERSION: 2.0
+[1383773992] Warning: Host 'nycnn-arapp2' has no services associated with it!
+[1383773992] Warning: Host 'nycnn-ardb1' has no services associated with it!
+[1383773992] Warning: Host 'nycnn-ardb2' has no services associated with it!
+[1383773992] Warning: Host 'nycnn-arvtrmops' has no services associated with it!
+[1383773992] Warning: Host 'nycnn-arxlator2' has no services associated with it!
+[1383773992] Warning: Host 'nycnn-arxlator3' has no services associated with it!
+[1383773992] Warning: Host 'nycnn-arxlator4' has no services associated with it!
+[1383774005] EXTERNAL COMMAND: DISABLE_SVC_NOTIFICATIONS;nycnn-ipvx1;XCode Service
+[1383774352] SERVICE ALERT: nycnn-ipvx1;XCode Service;UNKNOWN;SOFT;1;UNKNOWN - The WMI query had problems. You might have your username/password wrong or the user's access level is too low. Wmic error text on the next line.
+[1383774412] SERVICE ALERT: nycnn-ipvx1;XCode Service;UNKNOWN;HARD;2;UNKNOWN - The WMI query had problems. You might have your username/password wrong or the user's access level is too low. Wmic error text on the next line.
+[1383774638] Caught SIGHUP, restarting...
+[1383774638] Nagios 3.3.1 starting... (PID=5157)
+[1383774638] Local time is Wed Nov 06 16:50:38 EST 2013
+[1383774638] LOG VERSION: 2.0
+[1383774638] Warning: Host 'nycnn-arapp2' has no services associated with it!
+[1383774638] Warning: Host 'nycnn-ardb1' has no services associated with it!
+[1383774638] Warning: Host 'nycnn-ardb2' has no services associated with it!
+[1383774638] Warning: Host 'nycnn-arvtrmops' has no services associated with it!
+[1383774638] Warning: Host 'nycnn-arxlator2' has no services associated with it!
+[1383774638] Warning: Host 'nycnn-arxlator3' has no services associated with it!
+[1383774638] Warning: Host 'nycnn-arxlator4' has no services associated with it!
+[1383774666] Caught SIGHUP, restarting...
+[1383774666] Nagios 3.3.1 starting... (PID=5157)
+[1383774666] Local time is Wed Nov 06 16:51:06 EST 2013
+[1383774666] LOG VERSION: 2.0
+[1383774666] Warning: Host 'nycnn-arapp2' has no services associated with it!
+[1383774666] Warning: Host 'nycnn-ardb1' has no services associated with it!
+[1383774666] Warning: Host 'nycnn-ardb2' has no services associated with it!
+[1383774666] Warning: Host 'nycnn-arvtrmops' has no services associated with it!
+[1383774666] Warning: Host 'nycnn-arxlator2' has no services associated with it!
+[1383774666] Warning: Host 'nycnn-arxlator3' has no services associated with it!
+[1383774666] Warning: Host 'nycnn-arxlator4' has no services associated with it!
+[1383774685] Caught SIGHUP, restarting...
+[1383774685] Nagios 3.3.1 starting... (PID=5157)
+[1383774685] Local time is Wed Nov 06 16:51:25 EST 2013
+[1383774685] LOG VERSION: 2.0
+[1383774685] Warning: Host 'nycnn-arapp2' has no services associated with it!
+[1383774685] Warning: Host 'nycnn-ardb1' has no services associated with it!
+[1383774685] Warning: Host 'nycnn-ardb2' has no services associated with it!
+[1383774685] Warning: Host 'nycnn-arvtrmops' has no services associated with it!
+[1383774685] Warning: Host 'nycnn-arxlator2' has no services associated with it!
+[1383774685] Warning: Host 'nycnn-arxlator3' has no services associated with it!
+[1383774685] Warning: Host 'nycnn-arxlator4' has no services associated with it!
+[1383774750] Caught SIGHUP, restarting...
+[1383774750] Nagios 3.3.1 starting... (PID=5157)
+[1383774750] Local time is Wed Nov 06 16:52:30 EST 2013
+[1383774750] LOG VERSION: 2.0
+[1383774750] Warning: Host 'nycnn-arapp2' has no services associated with it!
+[1383774750] Warning: Host 'nycnn-ardb1' has no services associated with it!
+[1383774750] Warning: Host 'nycnn-ardb2' has no services associated with it!
+[1383774750] Warning: Host 'nycnn-arvtrmops' has no services associated with it!
+[1383774750] Warning: Host 'nycnn-arxlator2' has no services associated with it!
+[1383774750] Warning: Host 'nycnn-arxlator3' has no services associated with it!
+[1383774750] Warning: Host 'nycnn-arxlator4' has no services associated with it!
+[1383775217] Caught SIGHUP, restarting...
+[1383775217] Nagios 3.3.1 starting... (PID=5157)
+[1383775217] Local time is Wed Nov 06 17:00:17 EST 2013
+[1383775217] LOG VERSION: 2.0
+[1383775217] Warning: Host 'nycnn-arapp2' has no services associated with it!
+[1383775217] Warning: Host 'nycnn-ardb1' has no services associated with it!
+[1383775217] Warning: Host 'nycnn-ardb2' has no services associated with it!
+[1383775217] Warning: Host 'nycnn-arvtrmops' has no services associated with it!
+[1383775217] Warning: Host 'nycnn-arxlator2' has no services associated with it!
+[1383775217] Warning: Host 'nycnn-arxlator3' has no services associated with it!
+[1383775217] Warning: Host 'nycnn-arxlator4' has no services associated with it!
+[1383778817] Auto-save of retention data completed successfully.
+[1383782417] Auto-save of retention data completed successfully.
+[1383786017] Auto-save of retention data completed successfully.
+[1383789617] Auto-save of retention data completed successfully.
+[1383793217] Auto-save of retention data completed successfully.
+[1383796817] Auto-save of retention data completed successfully.

@@ -1,0 +1,4 @@
+define hostgroup{
+	hostgroup_name	 	dc-fork-nas
+	alias 		 	DC Fork NAS Heads
+}

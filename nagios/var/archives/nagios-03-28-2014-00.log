@@ -1,0 +1,1022 @@
+[1395892800] LOG ROTATION: DAILY
+[1395892800] LOG VERSION: 2.0
+[1395892800] CURRENT HOST STATE: deimos;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1395892800] CURRENT HOST STATE: localhost;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1395892800] CURRENT HOST STATE: msny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1395892800] CURRENT HOST STATE: nyarxlator1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1395892800] CURRENT HOST STATE: nyarxlator2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1395892800] CURRENT HOST STATE: nyarxlator3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1395892800] CURRENT HOST STATE: nyarxlator4;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1395892800] CURRENT HOST STATE: nycnn-adbeame1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.52 ms
+[1395892800] CURRENT HOST STATE: nycnn-adbeame10;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.37 ms
+[1395892800] CURRENT HOST STATE: nycnn-adbeame2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1395892800] CURRENT HOST STATE: nycnn-adbeame3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1395892800] CURRENT HOST STATE: nycnn-adbeame4;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1395892800] CURRENT HOST STATE: nycnn-adbeame5;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1395892800] CURRENT HOST STATE: nycnn-adbeame6;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1395892800] CURRENT HOST STATE: nycnn-adbeame7;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.33 ms
+[1395892800] CURRENT HOST STATE: nycnn-adbeame8;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.36 ms
+[1395892800] CURRENT HOST STATE: nycnn-adbeame9;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1395892800] CURRENT HOST STATE: nycnn-adbectrl1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1395892800] CURRENT HOST STATE: nycnn-adbectrl2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1395892800] CURRENT HOST STATE: nycnn-arapp1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1395892800] CURRENT HOST STATE: nycnn-arapp2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1395892800] CURRENT HOST STATE: nycnn-ardb1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1395892800] CURRENT HOST STATE: nycnn-ardb2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.33 ms
+[1395892800] CURRENT HOST STATE: nycnn-arvtrmops;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1395892800] CURRENT HOST STATE: nycnn-arvtrmops2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.34 ms
+[1395892800] CURRENT HOST STATE: nycnn-arvtrtape;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.34 ms
+[1395892800] CURRENT HOST STATE: nycnn-arxlator1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395892800] CURRENT HOST STATE: nycnn-arxlator2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1395892800] CURRENT HOST STATE: nycnn-arxlator3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1395892800] CURRENT HOST STATE: nycnn-arxlator4;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1395892800] CURRENT HOST STATE: nycnn-editxfer-switch;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1395892800] CURRENT HOST STATE: nycnn-editxfer3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.13 ms
+[1395892800] CURRENT HOST STATE: nycnn-editxfer4;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.14 ms
+[1395892800] CURRENT HOST STATE: nycnn-gridpushpull1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1395892800] CURRENT HOST STATE: nycnn-gridpushpull2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvapilic;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvproxy1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvproxy2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvsphn1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvsphn2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvsphn3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvsphn4;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvsphn5;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvstrm1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvstrm2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvstrm3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvstrm4;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx10;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx10e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.57 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx11;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx11e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx12;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.36 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx12e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx13;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx13e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx14;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx14e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx15;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx15e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx16;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx16e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx17;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx17e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx18;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx18e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx19;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx19e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx1e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx20;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx20e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx21;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx21e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx22;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx22e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx23;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx23e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx24;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx24e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx25;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx25e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx26;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx26e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx27;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx27e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx28;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx28e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx29;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx29e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx2e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx30;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx30e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx31;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx31e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx32;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.21 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx32e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx33;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx33e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx34;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx34e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx35;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx35e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx3e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx4;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx4e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx5;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx5e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx6;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx6e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx7;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.17 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx7e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx8;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx8e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx9;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1395892800] CURRENT HOST STATE: nycnn-ipvx9e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1395892800] CURRENT HOST STATE: nycnn-kickstart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1395892800] CURRENT HOST STATE: nycnn-mamdb1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1395892800] CURRENT HOST STATE: nycnn-mamdb2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1395892800] CURRENT HOST STATE: nycnn-mamfog;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1395892800] CURRENT HOST STATE: nycnn-mamkey1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1395892800] CURRENT HOST STATE: nycnn-mamkey2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1395892800] CURRENT HOST STATE: nycnn-mammq1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1395892800] CURRENT HOST STATE: nycnn-mammq2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1395892800] CURRENT HOST STATE: nycnn-ms2app3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1395892800] CURRENT HOST STATE: nycnn-ms2app4;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1395892800] CURRENT HOST STATE: nycnn-ms2db1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1395892800] CURRENT HOST STATE: nycnn-ms2db2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1395892800] CURRENT HOST STATE: nycnn-ms2db3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1395892800] CURRENT HOST STATE: nycnn-ms2fsd;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395892800] CURRENT HOST STATE: nycnn-ms2fsd1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1395892800] CURRENT HOST STATE: nycnn-ms2fsd2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.14 ms
+[1395892800] CURRENT HOST STATE: nycnn-ms2stills1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.45 ms
+[1395892800] CURRENT HOST STATE: nycnn-ms2stills2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.45 ms
+[1395892800] CURRENT HOST STATE: nycnn-nag1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1395892800] CURRENT HOST STATE: nycnn-nag2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1395892800] CURRENT HOST STATE: nycnn-nag4;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1395892800] CURRENT HOST STATE: nycnn-splunk;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1395892800] CURRENT HOST STATE: nyhdscheduler;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1395892800] CURRENT HOST STATE: nymamkey;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1395892800] CURRENT HOST STATE: nymq;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1395892800] CURRENT HOST STATE: nyproxygenhd;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1395892800] CURRENT HOST STATE: nyvideodrop;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1395892800] CURRENT HOST STATE: omnclda01-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1395892800] CURRENT HOST STATE: omnclda01e1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395892800] CURRENT HOST STATE: omnclda02-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1395892800] CURRENT HOST STATE: omnclda02e1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1395892800] CURRENT HOST STATE: omnclda03-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1395892800] CURRENT HOST STATE: omnclda03e1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1395892800] CURRENT HOST STATE: omnhbcba01-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1395892800] CURRENT HOST STATE: omnhbcba02-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1395892800] CURRENT HOST STATE: omnhbcba03-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1395892800] CURRENT HOST STATE: omnhbcba04-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1395892800] CURRENT HOST STATE: omnhbcba05-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1395892800] CURRENT HOST STATE: omnhbcba06-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1395892800] CURRENT HOST STATE: omnhbcba07-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1395892800] CURRENT HOST STATE: omnhbcba08-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1395892800] CURRENT HOST STATE: omnhbcba09-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1395892800] CURRENT HOST STATE: omnhbcba10-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1395892800] CURRENT HOST STATE: omnhbcba11-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1395892800] CURRENT HOST STATE: omnhbcba12-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1395892800] CURRENT HOST STATE: omnldap1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1395892800] CURRENT HOST STATE: omnldap2-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.35 ms
+[1395892800] CURRENT HOST STATE: omnmas1app-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395892800] CURRENT HOST STATE: omnmas1app1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1395892800] CURRENT HOST STATE: omnmas1app2-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1395892800] CURRENT HOST STATE: omnmas1db-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395892800] CURRENT HOST STATE: omnmas1db1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1395892800] CURRENT HOST STATE: omnmas1db2-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1395892800] CURRENT HOST STATE: omnmas2app-ny;DOWN;HARD;10;(Host Check Timed Out)
+[1395892800] CURRENT HOST STATE: omnmas2app1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1395892800] CURRENT HOST STATE: omnmas2app2-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1395892800] CURRENT HOST STATE: omnmas2db-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1395892800] CURRENT HOST STATE: omnmas2db1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395892800] CURRENT HOST STATE: omnmas2db2-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1395892800] CURRENT HOST STATE: omnmdir01-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1395892800] CURRENT HOST STATE: omnmdir01e1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1395892800] CURRENT HOST STATE: omnmdir02-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1395892800] CURRENT HOST STATE: omnmdir02e1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1395892800] CURRENT HOST STATE: omnmdir03-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1395892800] CURRENT HOST STATE: omnmdir03e1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1395892800] CURRENT HOST STATE: omnmdir04-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1395892800] CURRENT HOST STATE: omnmdir04e1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1395892800] CURRENT HOST STATE: omnmdk01-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1395892800] CURRENT HOST STATE: omnmdk01h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.55 ms
+[1395892800] CURRENT HOST STATE: omnmdk02-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.44 ms
+[1395892800] CURRENT HOST STATE: omnmdk02h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.01 ms
+[1395892800] CURRENT HOST STATE: omnmdk03-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.54 ms
+[1395892800] CURRENT HOST STATE: omnmdk03h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.79 ms
+[1395892800] CURRENT HOST STATE: omnmdk04-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.62 ms
+[1395892800] CURRENT HOST STATE: omnmdk04h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.33 ms
+[1395892800] CURRENT HOST STATE: omnmdk05-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.46 ms
+[1395892800] CURRENT HOST STATE: omnmdk05h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1395892800] CURRENT HOST STATE: omnmdk06-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.44 ms
+[1395892800] CURRENT HOST STATE: omnmdk06h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.51 ms
+[1395892800] CURRENT HOST STATE: omnmdk07-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.43 ms
+[1395892800] CURRENT HOST STATE: omnmdk07h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1395892800] CURRENT HOST STATE: omnmdk08-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.42 ms
+[1395892800] CURRENT HOST STATE: omnmdk08h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1395892800] CURRENT HOST STATE: omnmdk09-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.44 ms
+[1395892800] CURRENT HOST STATE: omnmdk09h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1395892800] CURRENT HOST STATE: omnmdk10-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.70 ms
+[1395892800] CURRENT HOST STATE: omnmdk10h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.52 ms
+[1395892800] CURRENT HOST STATE: omnmdk11-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.46 ms
+[1395892800] CURRENT HOST STATE: omnmdk11h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1395892800] CURRENT HOST STATE: omnmdk12-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.69 ms
+[1395892800] CURRENT HOST STATE: omnmdk12h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.48 ms
+[1395892800] CURRENT HOST STATE: omnmdk13-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.46 ms
+[1395892800] CURRENT HOST STATE: omnmdk13h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.51 ms
+[1395892800] CURRENT HOST STATE: omnmdk14-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.53 ms
+[1395892800] CURRENT HOST STATE: omnmdk14h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.53 ms
+[1395892800] CURRENT HOST STATE: omnmdk15-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.48 ms
+[1395892800] CURRENT HOST STATE: omnmdk15h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.51 ms
+[1395892800] CURRENT HOST STATE: omnmdk16-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1395892800] CURRENT HOST STATE: omnmdk16h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.48 ms
+[1395892800] CURRENT HOST STATE: omnmdk17-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1395892800] CURRENT HOST STATE: omnmdk17h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.49 ms
+[1395892800] CURRENT HOST STATE: omnmdk18-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.46 ms
+[1395892800] CURRENT HOST STATE: omnmdk18h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.52 ms
+[1395892800] CURRENT HOST STATE: omnmdk19-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.55 ms
+[1395892800] CURRENT HOST STATE: omnmdk19h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.51 ms
+[1395892800] CURRENT HOST STATE: omnmgsm-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1395892800] CURRENT HOST STATE: omnspsm-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1395892800] CURRENT HOST STATE: rt-nycc3750tgr-ilo;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.60 ms
+[1395892800] CURRENT HOST STATE: rt-nycc3750tgr-ms2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.74 ms
+[1395892800] CURRENT HOST STATE: rt-nyccfcp-1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.05 ms
+[1395892800] CURRENT HOST STATE: rt-nyccfcp-2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.86 ms
+[1395892800] CURRENT HOST STATE: rt-nycchdagg-a;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 12.31 ms
+[1395892800] CURRENT HOST STATE: rt-nycchdagg-b;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 53.54 ms
+[1395892800] CURRENT HOST STATE: rt-nyccmediagrid;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1395892800] CURRENT HOST STATE: rt-nyccspectrum;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.54 ms
+[1395892800] CURRENT HOST STATE: spider;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395892800] CURRENT HOST STATE: wdchd001;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.39 ms
+[1395892800] CURRENT HOST STATE: wdchd002;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.48 ms
+[1395892800] CURRENT HOST STATE: wdchd003;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.46 ms
+[1395892800] CURRENT HOST STATE: wdchd004;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.43 ms
+[1395892800] CURRENT HOST STATE: wdchd005;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.44 ms
+[1395892800] CURRENT HOST STATE: wdchd006;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.50 ms
+[1395892800] CURRENT HOST STATE: wdchd007;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.55 ms
+[1395892800] CURRENT HOST STATE: wdchd008;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.41 ms
+[1395892800] CURRENT HOST STATE: wdchd009;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.44 ms
+[1395892800] CURRENT HOST STATE: wdchd010;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.51 ms
+[1395892800] CURRENT HOST STATE: wdchd011;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.52 ms
+[1395892800] CURRENT HOST STATE: wdchd012;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.47 ms
+[1395892800] CURRENT HOST STATE: wdchd013;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.41 ms
+[1395892800] CURRENT HOST STATE: wdchd014;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.28 ms
+[1395892800] CURRENT HOST STATE: wdchd015;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.45 ms
+[1395892800] CURRENT HOST STATE: wdchd016;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.50 ms
+[1395892800] CURRENT HOST STATE: wdchd017;DOWN;HARD;1;(Host Check Timed Out)
+[1395892800] CURRENT HOST STATE: wdchd018;DOWN;HARD;1;(Host Check Timed Out)
+[1395892800] CURRENT HOST STATE: wdchd019;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.50 ms
+[1395892800] CURRENT HOST STATE: wdchd020;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.40 ms
+[1395892800] CURRENT HOST STATE: wdchd021;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.37 ms
+[1395892800] CURRENT HOST STATE: wdchd022;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.41 ms
+[1395892800] CURRENT HOST STATE: wdchd023;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.46 ms
+[1395892800] CURRENT HOST STATE: wdchd024;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.42 ms
+[1395892800] CURRENT HOST STATE: wdchd025;DOWN;HARD;1;(Host Check Timed Out)
+[1395892800] CURRENT HOST STATE: wdchd026;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.53 ms
+[1395892800] CURRENT HOST STATE: wdchd027;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.45 ms
+[1395892800] CURRENT HOST STATE: wdchd028;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.49 ms
+[1395892800] CURRENT HOST STATE: wdchd029;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.43 ms
+[1395892800] CURRENT HOST STATE: wdchd030;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.38 ms
+[1395892800] CURRENT HOST STATE: wdchd031;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.33 ms
+[1395892800] CURRENT HOST STATE: wdcmd001;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.56 ms
+[1395892800] CURRENT HOST STATE: wdcmd002;DOWN;HARD;10;(Host Check Timed Out)
+[1395892800] CURRENT HOST STATE: wdcms001;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.43 ms
+[1395892800] CURRENT HOST STATE: wdcms002;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.51 ms
+[1395892800] CURRENT HOST STATE: wdcms003;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.50 ms
+[1395892800] CURRENT HOST STATE: wdcod001;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.44 ms
+[1395892800] CURRENT HOST STATE: wdcod002;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.56 ms
+[1395892800] CURRENT HOST STATE: wdcod01;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.32 ms
+[1395892800] CURRENT HOST STATE: wdcod02;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.33 ms
+[1395892800] CURRENT HOST STATE: wdcpf001;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.47 ms
+[1395892800] CURRENT HOST STATE: wdcpf002;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.35 ms
+[1395892800] CURRENT HOST STATE: wdcpf03;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.29 ms
+[1395892800] CURRENT HOST STATE: wdcps001;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.50 ms
+[1395892800] CURRENT HOST STATE: wdcps002;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.39 ms
+[1395892800] CURRENT HOST STATE: wdcps003;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.36 ms
+[1395892800] CURRENT HOST STATE: wdcps004;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.57 ms
+[1395892800] CURRENT SERVICE STATE: deimos;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1395892800] CURRENT SERVICE STATE: localhost;Current Load;OK;HARD;1;OK - load average: 1.18, 1.07, 1.06
+[1395892800] CURRENT SERVICE STATE: localhost;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1395892800] CURRENT SERVICE STATE: localhost;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 265 bytes in 0.001 second response time
+[1395892800] CURRENT SERVICE STATE: localhost;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1395892800] CURRENT SERVICE STATE: localhost;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1395892800] CURRENT SERVICE STATE: localhost;Swap Usage;OK;HARD;1;SWAP OK - 100% free (2047 MB out of 2047 MB)
+[1395892800] CURRENT SERVICE STATE: localhost;Total Processes;OK;HARD;1;PROCS OK: 60 processes with STATE = RSZDT
+[1395892800] CURRENT SERVICE STATE: msny;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 5504 bytes in 0.002 second response time
+[1395892800] CURRENT SERVICE STATE: msny;IMQ Depth Check - Internal GF Queues;OK;HARD;1;OK: all MS2_EVENT queues have depth 0 or less, all MS2_EVENT queues in RUNNING state
+[1395892800] CURRENT SERVICE STATE: msny;MS2 - Grid A Mount;OK;HARD;1;OK - File /Volumes/GridA/Temp/.gridamounted seems fine.
+[1395892800] CURRENT SERVICE STATE: msny;MS2 - Grid B Mount;OK;HARD;1;OK - File /Volumes/GridB/Temp/.gridbmounted seems fine.
+[1395892800] CURRENT SERVICE STATE: msny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1395892800] CURRENT SERVICE STATE: nyarxlator1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395892800] CURRENT SERVICE STATE: nyarxlator2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1395892800] CURRENT SERVICE STATE: nyarxlator3;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1395892800] CURRENT SERVICE STATE: nyarxlator4;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-adbeame1;AME Job status;OK;HARD;1;AME is idle:
+[1395892800] CURRENT SERVICE STATE: nycnn-adbeame1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.35 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-adbeame10;AME Job status;OK;HARD;1;AME is idle:
+[1395892800] CURRENT SERVICE STATE: nycnn-adbeame10;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.33 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-adbeame2;AME Job status;OK;HARD;1;AME is idle:
+[1395892800] CURRENT SERVICE STATE: nycnn-adbeame2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-adbeame3;AME Job status;OK;HARD;1;AME is idle:
+[1395892800] CURRENT SERVICE STATE: nycnn-adbeame3;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.36 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-adbeame4;AME Job status;OK;HARD;1;AME is idle:
+[1395892800] CURRENT SERVICE STATE: nycnn-adbeame4;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-adbeame5;AME Job status;OK;HARD;1;AME is idle:
+[1395892800] CURRENT SERVICE STATE: nycnn-adbeame5;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.33 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-adbeame6;AME Job status;OK;HARD;1;AME is idle:
+[1395892800] CURRENT SERVICE STATE: nycnn-adbeame6;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-adbeame7;AME Job status;OK;HARD;1;AME is idle:
+[1395892800] CURRENT SERVICE STATE: nycnn-adbeame7;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.33 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-adbeame8;AME Job status;OK;HARD;1;AME is idle:
+[1395892800] CURRENT SERVICE STATE: nycnn-adbeame8;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.56 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-adbeame9;AME Job status;OK;HARD;1;AME is idle:
+[1395892800] CURRENT SERVICE STATE: nycnn-adbeame9;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.53 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-adbectrl1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-adbectrl2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-arapp1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.35 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-arapp1;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1395892800] CURRENT SERVICE STATE: nycnn-arapp2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.33 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-arapp2;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1395892800] CURRENT SERVICE STATE: nycnn-ardb1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ardb1;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1395892800] CURRENT SERVICE STATE: nycnn-ardb2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ardb2;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1395892800] CURRENT SERVICE STATE: nycnn-arvtrmops;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-arvtrmops;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1395892800] CURRENT SERVICE STATE: nycnn-arvtrmops2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-arvtrmops2;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1395892800] CURRENT SERVICE STATE: nycnn-arvtrtape;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.33 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-arvtrtape;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1395892800] CURRENT SERVICE STATE: nycnn-arxlator1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-arxlator1;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1395892800] CURRENT SERVICE STATE: nycnn-arxlator2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-arxlator2;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1395892800] CURRENT SERVICE STATE: nycnn-arxlator3;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-arxlator3;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1395892800] CURRENT SERVICE STATE: nycnn-arxlator4;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.33 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-arxlator4;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1395892800] CURRENT SERVICE STATE: nycnn-editxfer-switch;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-editxfer3;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.13 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-editxfer4;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-gridpushpull1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.34 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-gridpushpull2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvapilic;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvproxy1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvproxy2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvsphn1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvsphn1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvsphn2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvsphn2;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvsphn3;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvsphn3;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvsphn4;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvsphn4;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvsphn5;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvsphn5;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvstrm1;D:\ Drive Space;OK;HARD;1;OK - New Volume Total=1397.19GB, Used=1167.41GB (83.6%), Free=229.78GB (16.4%)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvstrm1;FTP Service;OK;HARD;1;OK - Found 1 Instance(s) of "iftpsvc.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvstrm1;MMSService;OK;HARD;1;OK - Found 1 Instance(s) of "MMSService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvstrm1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvstrm1;SSH Service;OK;HARD;1;OK - Found 1 Instance(s) of "sshserver.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvstrm1;SVServer;OK;HARD;1;OK - Found 1 Instance(s) of "SVServer.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvstrm2;D:\ Drive Space;OK;HARD;1;OK - Proxy Total=1397.19GB, Used=1162.73GB (83.2%), Free=234.46GB (16.8%)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvstrm2;FTP Service;OK;HARD;1;OK - Found 1 Instance(s) of "iftpsvc.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvstrm2;MMSService;OK;HARD;1;OK - Found 1 Instance(s) of "MMSService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvstrm2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvstrm2;SSH Service;OK;HARD;1;OK - Found 1 Instance(s) of "sshserver.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvstrm2;SVServer;OK;HARD;1;OK - Found 1 Instance(s) of "SVServer.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvstrm3;D:\ Drive Space;OK;HARD;1;OK - New Volume Total=1397.19GB, Used=1152.29GB (82.5%), Free=244.90GB (17.5%)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvstrm3;FTP Service;OK;HARD;1;OK - Found 1 Instance(s) of "iftpsvc.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvstrm3;MMSService;OK;HARD;1;OK - Found 1 Instance(s) of "MMSService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvstrm3;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvstrm3;SSH Service;OK;HARD;1;OK - Found 1 Instance(s) of "sshserver.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvstrm3;SVServer;OK;HARD;1;OK - Found 1 Instance(s) of "SVServer.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvstrm4;D:\ Drive Space;OK;HARD;1;OK - Proxy Total=1397.19GB, Used=1172.60GB (83.9%), Free=224.59GB (16.1%)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvstrm4;FTP Service;OK;HARD;1;OK - Found 1 Instance(s) of "iftpsvc.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvstrm4;MMSService;OK;HARD;1;OK - Found 1 Instance(s) of "MMSService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvstrm4;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvstrm4;SSH Service;OK;HARD;1;OK - Found 1 Instance(s) of "sshserver.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvstrm4;SVServer;OK;HARD;1;OK - Found 1 Instance(s) of "SVServer.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx1;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx10;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.40 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx10;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx10;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx10e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx10e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx10e1;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx11;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx11;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx11;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx11e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx11e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx11e1;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx12;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx12;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx12;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx12e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx12e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx12e1;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx13;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx13;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx13;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx13e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx13e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx13e1;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx14;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx14;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx14;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx14e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx14e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx14e1;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx15;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.71 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx15;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx15;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx15e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx15e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx15e1;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx16;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx16;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx16;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx16e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx16e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx16e1;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx17;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx17;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx17;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx17e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx17e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx17e1;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx18;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx18;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx18;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx18e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx18e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx18e1;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx19;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx19;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx19;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx19e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx19e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx19e1;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx1e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx1e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx1e1;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx2;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx2;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx20;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx20;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx20;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx20e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx20e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx20e1;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx21;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx21;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx21;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx21e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.92 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx21e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx21e1;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx22;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx22;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx22;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx22e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx22e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx22e1;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx23;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx23;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx23;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx23e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx23e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx23e1;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx24;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx24;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx24;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx24e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx24e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx24e1;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx25;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx25;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx25;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx25e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx25e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx25e1;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx26;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx26;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx26;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx26e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx26e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx26e1;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx27;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx27;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx27;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx27e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx27e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx27e1;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx28;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.82 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx28;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx28;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx28e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx28e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx28e1;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx29;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx29;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx29;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx29e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx29e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx29e1;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx2e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx2e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx2e1;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx3;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx3;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx3;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx30;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.36 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx30;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx30;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx30e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx30e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx30e1;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx31;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx31;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx31;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx31e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx31e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx31e1;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx32;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx32;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx32;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx32e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx32e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx32e1;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx33;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.40 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx33;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx33;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx33e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx33e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx33e1;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx34;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.36 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx34;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx34;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx34e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx34e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx34e1;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx35;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.82 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx35;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx35;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx35e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx35e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx35e1;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx3e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx3e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx3e1;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx4;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx4;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx4;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx4e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx4e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx4e1;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx5;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx5;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx5;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx5e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx5e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx5e1;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx6;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx6;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx6;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx6e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx6e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx6e1;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx7;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx7;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx7;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx7e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx7e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx7e1;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx8;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx8;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx8;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx8e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx8e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx8e1;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx9;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx9;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx9;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx9e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx9e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-ipvx9e1;XCode Service;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1395892800] CURRENT SERVICE STATE: nycnn-kickstart;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-mamdb1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-mamdb2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-mamfog;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.16 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-mamkey1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-mamkey2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-mammq1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-mammq2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ms2app3;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ms2app4;GridA_Projects_Folder_Count;OK;HARD;1;Grid A OK: 3337  subdirectories in projects
+[1395892800] CURRENT SERVICE STATE: nycnn-ms2app4;GridA_Render_Folder_Count;OK;HARD;1;Grid A OK: 3337  subdirectories in Render Files
+[1395892800] CURRENT SERVICE STATE: nycnn-ms2app4;GridA_Resources_Folder_Count;OK;HARD;1;Grid A OK: 3337  subdirectories in resources
+[1395892800] CURRENT SERVICE STATE: nycnn-ms2app4;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ms2db1;Disk Space on /oracle;OK;HARD;1;DISK OK - free space: /oracle 898248 MB (91% inode=99%):
+[1395892800] CURRENT SERVICE STATE: nycnn-ms2db1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ms2db2;Disk Space on /oracle;OK;HARD;1;DISK OK - free space: /oracle 780607 MB (79% inode=99%):
+[1395892800] CURRENT SERVICE STATE: nycnn-ms2db2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ms2db3;Disk Space on /oracle;OK;HARD;1;DISK OK - free space: /oracle 860225 MB (87% inode=99%):
+[1395892800] CURRENT SERVICE STATE: nycnn-ms2db3;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ms2fsd;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ms2fsd1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ms2fsd2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.17 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ms2stills1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.48 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-ms2stills2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.52 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-nag1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-nag2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-nag4;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1395892800] CURRENT SERVICE STATE: nycnn-splunk;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1395892800] CURRENT SERVICE STATE: nyhdscheduler;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 598 bytes in 0.001 second response time
+[1395892800] CURRENT SERVICE STATE: nyhdscheduler;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1395892800] CURRENT SERVICE STATE: nymamkey;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1395892800] CURRENT SERVICE STATE: nymq;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1395892800] CURRENT SERVICE STATE: nyproxygenhd;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1395892800] CURRENT SERVICE STATE: nyvideodrop;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1395892800] CURRENT SERVICE STATE: omnclda01-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1395892800] CURRENT SERVICE STATE: omnclda01e1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1395892800] CURRENT SERVICE STATE: omnclda02-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1395892800] CURRENT SERVICE STATE: omnclda02e1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1395892800] CURRENT SERVICE STATE: omnclda03-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.37 ms
+[1395892800] CURRENT SERVICE STATE: omnclda03e1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1395892800] CURRENT SERVICE STATE: omnhbcba01-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1395892800] CURRENT SERVICE STATE: omnhbcba02-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1395892800] CURRENT SERVICE STATE: omnhbcba03-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1395892800] CURRENT SERVICE STATE: omnhbcba04-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395892800] CURRENT SERVICE STATE: omnhbcba05-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1395892800] CURRENT SERVICE STATE: omnhbcba06-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395892800] CURRENT SERVICE STATE: omnhbcba07-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1395892800] CURRENT SERVICE STATE: omnhbcba08-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1395892800] CURRENT SERVICE STATE: omnhbcba09-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1395892800] CURRENT SERVICE STATE: omnhbcba10-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395892800] CURRENT SERVICE STATE: omnhbcba11-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1395892800] CURRENT SERVICE STATE: omnhbcba12-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1395892800] CURRENT SERVICE STATE: omnldap1-ny;LDAP;OK;HARD;1;LDAP OK - 0.002 seconds response time
+[1395892800] CURRENT SERVICE STATE: omnldap2-ny;LDAP;OK;HARD;1;LDAP OK - 0.002 seconds response time
+[1395892800] CURRENT SERVICE STATE: omnmas1app-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395892800] CURRENT SERVICE STATE: omnmas1app1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1395892800] CURRENT SERVICE STATE: omnmas1app2-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1395892800] CURRENT SERVICE STATE: omnmas1db-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1395892800] CURRENT SERVICE STATE: omnmas1db1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1395892800] CURRENT SERVICE STATE: omnmas1db2-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1395892800] CURRENT SERVICE STATE: omnmas2app-ny;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1395892800] CURRENT SERVICE STATE: omnmas2app1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1395892800] CURRENT SERVICE STATE: omnmas2app2-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1395892800] CURRENT SERVICE STATE: omnmas2db-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1395892800] CURRENT SERVICE STATE: omnmas2db1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1395892800] CURRENT SERVICE STATE: omnmas2db2-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1395892800] CURRENT SERVICE STATE: omnmdir01-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1395892800] CURRENT SERVICE STATE: omnmdir01e1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1395892800] CURRENT SERVICE STATE: omnmdir02-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395892800] CURRENT SERVICE STATE: omnmdir02e1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1395892800] CURRENT SERVICE STATE: omnmdir03-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1395892800] CURRENT SERVICE STATE: omnmdir03e1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1395892800] CURRENT SERVICE STATE: omnmdir04-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395892800] CURRENT SERVICE STATE: omnmdir04e1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1395892800] CURRENT SERVICE STATE: omnmdk01-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.58 ms
+[1395892800] CURRENT SERVICE STATE: omnmdk01h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.72 ms
+[1395892800] CURRENT SERVICE STATE: omnmdk02-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.63 ms
+[1395892800] CURRENT SERVICE STATE: omnmdk02h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.51 ms
+[1395892800] CURRENT SERVICE STATE: omnmdk03-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.49 ms
+[1395892800] CURRENT SERVICE STATE: omnmdk03h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.46 ms
+[1395892800] CURRENT SERVICE STATE: omnmdk04-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.49 ms
+[1395892800] CURRENT SERVICE STATE: omnmdk04h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 4.89 ms
+[1395892800] CURRENT SERVICE STATE: omnmdk05-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.46 ms
+[1395892800] CURRENT SERVICE STATE: omnmdk05h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.51 ms
+[1395892800] CURRENT SERVICE STATE: omnmdk06-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.49 ms
+[1395892800] CURRENT SERVICE STATE: omnmdk06h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.51 ms
+[1395892800] CURRENT SERVICE STATE: omnmdk07-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.49 ms
+[1395892800] CURRENT SERVICE STATE: omnmdk07h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.43 ms
+[1395892800] CURRENT SERVICE STATE: omnmdk08-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.44 ms
+[1395892800] CURRENT SERVICE STATE: omnmdk08h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.53 ms
+[1395892800] CURRENT SERVICE STATE: omnmdk09-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.46 ms
+[1395892800] CURRENT SERVICE STATE: omnmdk09h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.56 ms
+[1395892800] CURRENT SERVICE STATE: omnmdk10-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.49 ms
+[1395892800] CURRENT SERVICE STATE: omnmdk10h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1395892800] CURRENT SERVICE STATE: omnmdk11-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.46 ms
+[1395892800] CURRENT SERVICE STATE: omnmdk11h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1395892800] CURRENT SERVICE STATE: omnmdk12-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.52 ms
+[1395892800] CURRENT SERVICE STATE: omnmdk12h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1395892800] CURRENT SERVICE STATE: omnmdk13-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.51 ms
+[1395892800] CURRENT SERVICE STATE: omnmdk13h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.53 ms
+[1395892800] CURRENT SERVICE STATE: omnmdk14-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.46 ms
+[1395892800] CURRENT SERVICE STATE: omnmdk14h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.52 ms
+[1395892800] CURRENT SERVICE STATE: omnmdk15-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1395892800] CURRENT SERVICE STATE: omnmdk15h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1395892800] CURRENT SERVICE STATE: omnmdk16-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.42 ms
+[1395892800] CURRENT SERVICE STATE: omnmdk16h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1395892800] CURRENT SERVICE STATE: omnmdk17-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1395892800] CURRENT SERVICE STATE: omnmdk17h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.46 ms
+[1395892800] CURRENT SERVICE STATE: omnmdk18-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.44 ms
+[1395892800] CURRENT SERVICE STATE: omnmdk18h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.48 ms
+[1395892800] CURRENT SERVICE STATE: omnmdk19-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.43 ms
+[1395892800] CURRENT SERVICE STATE: omnmdk19h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.69 ms
+[1395892800] CURRENT SERVICE STATE: omnmgsm-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1395892800] CURRENT SERVICE STATE: omnspsm-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395892800] CURRENT SERVICE STATE: rt-nycc3750tgr-ilo;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.06 ms
+[1395892800] CURRENT SERVICE STATE: rt-nycc3750tgr-ms2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.17 ms
+[1395892800] CURRENT SERVICE STATE: rt-nyccfcp-1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.22 ms
+[1395892800] CURRENT SERVICE STATE: rt-nyccfcp-2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.39 ms
+[1395892800] CURRENT SERVICE STATE: rt-nycchdagg-a;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.50 ms
+[1395892800] CURRENT SERVICE STATE: rt-nycchdagg-b;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 36.79 ms
+[1395892800] CURRENT SERVICE STATE: rt-nyccmediagrid;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1395892800] CURRENT SERVICE STATE: rt-nyccspectrum;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.62 ms
+[1395892800] CURRENT SERVICE STATE: spider;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1395892800] CURRENT SERVICE STATE: wdchd001;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1395892800] CURRENT SERVICE STATE: wdchd002;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1395892800] CURRENT SERVICE STATE: wdchd003;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.53 ms
+[1395892800] CURRENT SERVICE STATE: wdchd004;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.57 ms
+[1395892800] CURRENT SERVICE STATE: wdchd005;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1395892800] CURRENT SERVICE STATE: wdchd006;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1395892800] CURRENT SERVICE STATE: wdchd007;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1395892800] CURRENT SERVICE STATE: wdchd008;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.68 ms
+[1395892800] CURRENT SERVICE STATE: wdchd009;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1395892800] CURRENT SERVICE STATE: wdchd010;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1395892800] CURRENT SERVICE STATE: wdchd011;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1395892800] CURRENT SERVICE STATE: wdchd012;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1395892800] CURRENT SERVICE STATE: wdchd013;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1395892800] CURRENT SERVICE STATE: wdchd014;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1395892800] CURRENT SERVICE STATE: wdchd015;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1395892800] CURRENT SERVICE STATE: wdchd016;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.52 ms
+[1395892800] CURRENT SERVICE STATE: wdchd017;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1395892800] CURRENT SERVICE STATE: wdchd018;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1395892800] CURRENT SERVICE STATE: wdchd019;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1395892800] CURRENT SERVICE STATE: wdchd020;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1395892800] CURRENT SERVICE STATE: wdchd021;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1395892800] CURRENT SERVICE STATE: wdchd022;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1395892800] CURRENT SERVICE STATE: wdchd023;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1395892800] CURRENT SERVICE STATE: wdchd024;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.59 ms
+[1395892800] CURRENT SERVICE STATE: wdchd025;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.80 ms
+[1395892800] CURRENT SERVICE STATE: wdchd026;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1395892800] CURRENT SERVICE STATE: wdchd027;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.62 ms
+[1395892800] CURRENT SERVICE STATE: wdchd028;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1395892800] CURRENT SERVICE STATE: wdchd029;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.58 ms
+[1395892800] CURRENT SERVICE STATE: wdchd030;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.64 ms
+[1395892800] CURRENT SERVICE STATE: wdchd031;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.68 ms
+[1395892800] CURRENT SERVICE STATE: wdcmd001;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.60 ms
+[1395892800] CURRENT SERVICE STATE: wdcmd002;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.64 ms
+[1395892800] CURRENT SERVICE STATE: wdcms001;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.49 ms
+[1395892800] CURRENT SERVICE STATE: wdcms002;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.48 ms
+[1395892800] CURRENT SERVICE STATE: wdcms003;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.48 ms
+[1395892800] CURRENT SERVICE STATE: wdcod001;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.48 ms
+[1395892800] CURRENT SERVICE STATE: wdcod002;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.48 ms
+[1395892800] CURRENT SERVICE STATE: wdcod01;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.37 ms
+[1395892800] CURRENT SERVICE STATE: wdcod02;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.43 ms
+[1395892800] CURRENT SERVICE STATE: wdcpf001;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.41 ms
+[1395892800] CURRENT SERVICE STATE: wdcpf002;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.52 ms
+[1395892800] CURRENT SERVICE STATE: wdcpf03;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.24 ms
+[1395892800] CURRENT SERVICE STATE: wdcps001;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.39 ms
+[1395892800] CURRENT SERVICE STATE: wdcps002;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.33 ms
+[1395892800] CURRENT SERVICE STATE: wdcps003;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.37 ms
+[1395892800] CURRENT SERVICE STATE: wdcps004;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.41 ms
+[1395894170] Auto-save of retention data completed successfully.
+[1395897770] Auto-save of retention data completed successfully.
+[1395899310] SERVICE ALERT: rt-nyccfcp-1;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 112.52 ms
+[1395899370] SERVICE ALERT: rt-nyccfcp-1;PING;WARNING;SOFT;2;PING WARNING - Packet loss = 0%, RTA = 110.86 ms
+[1395899430] SERVICE ALERT: rt-nyccfcp-1;PING;OK;SOFT;3;PING OK - Packet loss = 0%, RTA = 68.69 ms
+[1395899490] SERVICE ALERT: rt-nyccfcp-1;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 107.14 ms
+[1395899550] SERVICE ALERT: rt-nyccfcp-1;PING;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 94.76 ms
+[1395901370] Auto-save of retention data completed successfully.
+[1395904970] Auto-save of retention data completed successfully.
+[1395908570] Auto-save of retention data completed successfully.
+[1395910110] SERVICE ALERT: rt-nyccfcp-1;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 100.16 ms
+[1395910170] SERVICE ALERT: rt-nyccfcp-1;PING;WARNING;SOFT;2;PING WARNING - Packet loss = 0%, RTA = 108.58 ms
+[1395910230] SERVICE ALERT: rt-nyccfcp-1;PING;OK;SOFT;3;PING OK - Packet loss = 0%, RTA = 87.92 ms
+[1395910350] SERVICE ALERT: rt-nyccfcp-1;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 107.31 ms
+[1395910410] SERVICE ALERT: rt-nyccfcp-1;PING;WARNING;SOFT;2;PING WARNING - Packet loss = 0%, RTA = 113.04 ms
+[1395910470] SERVICE ALERT: rt-nyccfcp-1;PING;WARNING;HARD;3;PING WARNING - Packet loss = 0%, RTA = 102.17 ms
+[1395910470] SERVICE NOTIFICATION: feedsadmin;rt-nyccfcp-1;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 102.17 ms
+[1395910470] SERVICE NOTIFICATION: unixadmin;rt-nyccfcp-1;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 102.17 ms
+[1395910590] SERVICE ALERT: rt-nyccfcp-1;PING;OK;HARD;3;PING OK - Packet loss = 0%, RTA = 1.77 ms
+[1395910590] SERVICE NOTIFICATION: feedsadmin;rt-nyccfcp-1;PING;OK;notify-service-by-email;PING OK - Packet loss = 0%, RTA = 1.77 ms
+[1395910590] SERVICE NOTIFICATION: unixadmin;rt-nyccfcp-1;PING;OK;notify-service-by-email;PING OK - Packet loss = 0%, RTA = 1.77 ms
+[1395912170] Auto-save of retention data completed successfully.
+[1395915770] Auto-save of retention data completed successfully.
+[1395919370] Auto-save of retention data completed successfully.
+[1395920910] SERVICE ALERT: rt-nyccfcp-1;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 127.20 ms
+[1395920970] SERVICE ALERT: rt-nyccfcp-1;PING;WARNING;SOFT;2;PING WARNING - Packet loss = 0%, RTA = 116.66 ms
+[1395921030] SERVICE ALERT: rt-nyccfcp-1;PING;OK;SOFT;3;PING OK - Packet loss = 0%, RTA = 65.41 ms
+[1395921330] SERVICE ALERT: rt-nyccfcp-1;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 122.59 ms
+[1395921390] SERVICE ALERT: rt-nyccfcp-1;PING;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 0.71 ms
+[1395921870] SERVICE ALERT: nycnn-adbeame10;AME Job status;CRITICAL;SOFT;1;Job  failed with error HASH(0x2014c250)
+[1395921940] SERVICE ALERT: nycnn-adbeame10;AME Job status;OK;SOFT;2;Job 10021304 progress is  18.56 :
+[1395922970] Auto-save of retention data completed successfully.
+[1395926570] Auto-save of retention data completed successfully.
+[1395927239] EXTERNAL COMMAND: SCHEDULE_HOST_DOWNTIME;nycnn-ipvstrm2;1395927237;1395934437;1;0;7200;Windows Admin;sv update
+[1395927240] HOST DOWNTIME ALERT: nycnn-ipvstrm2;STARTED; Host has entered a period of scheduled downtime
+[1395927310] SERVICE ALERT: nycnn-ipvstrm2;PING;CRITICAL;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1395927340] HOST ALERT: nycnn-ipvstrm2;DOWN;SOFT;1;(Host Check Timed Out)
+[1395927350] SERVICE ALERT: nycnn-ipvstrm2;SVServer;UNKNOWN;HARD;1;UNKNOWN - Plugin Timed out (15 sec)
+[1395927350] SERVICE ALERT: nycnn-ipvstrm2;FTP Service;UNKNOWN;HARD;1;UNKNOWN - Plugin Timed out (15 sec)
+[1395927370] SERVICE ALERT: nycnn-ipvstrm2;PING;CRITICAL;HARD;2;PING CRITICAL - Packet loss = 100%
+[1395927380] SERVICE ALERT: nycnn-ipvstrm2;SSH Service;UNKNOWN;HARD;1;UNKNOWN - Plugin Timed out (15 sec)
+[1395927380] SERVICE ALERT: nycnn-ipvstrm2;MMSService;UNKNOWN;HARD;1;UNKNOWN - Plugin Timed out (15 sec)
+[1395927380] SERVICE ALERT: nycnn-ipvstrm2;D:\ Drive Space;UNKNOWN;HARD;1;UNKNOWN - Plugin Timed out (15 sec)
+[1395927440] HOST ALERT: nycnn-ipvstrm2;DOWN;SOFT;2;(Host Check Timed Out)
+[1395927510] HOST ALERT: nycnn-ipvstrm2;UP;SOFT;3;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1395927550] SERVICE ALERT: nycnn-ipvstrm2;PING;OK;HARD;2;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1395927630] SERVICE ALERT: nycnn-ipvstrm2;SVServer;CRITICAL;SOFT;1;CRITICAL - [Triggered by _ItemCount<1] - Found 0 Instance(s) of "SVServer.exe" running (0 excluded).
+[1395927630] SERVICE ALERT: nycnn-ipvstrm2;FTP Service;OK;HARD;1;OK - Found 1 Instance(s) of "iftpsvc.exe" running (0 excluded).  (List is on next line)
+[1395927660] SERVICE ALERT: nycnn-ipvstrm2;MMSService;OK;HARD;1;OK - Found 1 Instance(s) of "MMSService.exe" running (0 excluded).  (List is on next line)
+[1395927660] SERVICE ALERT: nycnn-ipvstrm2;SSH Service;OK;HARD;1;OK - Found 1 Instance(s) of "sshserver.exe" running (0 excluded).  (List is on next line)
+[1395927660] SERVICE ALERT: nycnn-ipvstrm2;D:\ Drive Space;OK;HARD;1;OK - Proxy Total=1397.19GB, Used=1168.98GB (83.7%), Free=228.21GB (16.3%)
+[1395927690] SERVICE ALERT: nycnn-ipvstrm2;SVServer;CRITICAL;HARD;2;CRITICAL - [Triggered by _ItemCount<1] - Found 0 Instance(s) of "SVServer.exe" running (0 excluded).
+[1395927730] SERVICE ALERT: nycnn-ipvstrm2;PING;CRITICAL;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1395927770] HOST ALERT: nycnn-ipvstrm2;DOWN;SOFT;1;(Host Check Timed Out)
+[1395927790] SERVICE ALERT: nycnn-ipvstrm2;PING;CRITICAL;HARD;2;PING CRITICAL - Packet loss = 100%
+[1395927850] HOST ALERT: nycnn-ipvstrm2;DOWN;SOFT;2;(Host Check Timed Out)
+[1395927920] HOST ALERT: nycnn-ipvstrm2;UP;SOFT;3;PING OK - Packet loss = 44%, RTA = 0.24 ms
+[1395927920] HOST FLAPPING ALERT: nycnn-ipvstrm2;STARTED; Host appears to have started flapping (23.4% change > 20.0% threshold)
+[1395927940] SERVICE ALERT: nycnn-ipvstrm2;FTP Service;CRITICAL;SOFT;1;CRITICAL - [Triggered by _ItemCount<1] - Found 0 Instance(s) of "iftpsvc.exe" running (0 excluded).
+[1395927970] SERVICE ALERT: nycnn-ipvstrm2;PING;OK;HARD;2;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1395927970] SERVICE FLAPPING ALERT: nycnn-ipvstrm2;PING;STARTED; Service appears to have started flapping (22.6% change >= 20.0% threshold)
+[1395927990] SERVICE ALERT: nycnn-ipvstrm2;FTP Service;OK;SOFT;2;OK - Found 1 Instance(s) of "iftpsvc.exe" running (0 excluded).  (List is on next line)
+[1395928260] HOST ALERT: nycnn-ipvstrm2;DOWN;SOFT;1;(Host Check Timed Out)
+[1395928270] SERVICE ALERT: nycnn-ipvstrm2;PING;CRITICAL;HARD;1;PING CRITICAL - Packet loss = 100%
+[1395928280] SERVICE ALERT: nycnn-ipvstrm2;SSH Service;UNKNOWN;HARD;1;UNKNOWN - Plugin Timed out (15 sec)
+[1395928280] SERVICE ALERT: nycnn-ipvstrm2;MMSService;UNKNOWN;HARD;1;UNKNOWN - Plugin Timed out (15 sec)
+[1395928280] SERVICE ALERT: nycnn-ipvstrm2;D:\ Drive Space;UNKNOWN;HARD;1;UNKNOWN - Plugin Timed out (15 sec)
+[1395928310] SERVICE ALERT: nycnn-ipvstrm2;SVServer;UNKNOWN;HARD;2;UNKNOWN - Plugin Timed out (15 sec)
+[1395928310] SERVICE ALERT: nycnn-ipvstrm2;FTP Service;UNKNOWN;HARD;1;UNKNOWN - Plugin Timed out (15 sec)
+[1395928350] HOST ALERT: nycnn-ipvstrm2;DOWN;SOFT;2;(Host Check Timed Out)
+[1395928430] HOST ALERT: nycnn-ipvstrm2;UP;SOFT;3;PING OK - Packet loss = 66%, RTA = 0.32 ms
+[1395928450] SERVICE ALERT: nycnn-ipvstrm2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395928560] SERVICE ALERT: nycnn-ipvstrm2;MMSService;OK;HARD;1;OK - Found 1 Instance(s) of "MMSService.exe" running (0 excluded).  (List is on next line)
+[1395928560] SERVICE FLAPPING ALERT: nycnn-ipvstrm2;MMSService;STARTED; Service appears to have started flapping (23.9% change >= 20.0% threshold)
+[1395928560] SERVICE ALERT: nycnn-ipvstrm2;SSH Service;OK;HARD;1;OK - Found 1 Instance(s) of "sshserver.exe" running (0 excluded).  (List is on next line)
+[1395928560] SERVICE FLAPPING ALERT: nycnn-ipvstrm2;SSH Service;STARTED; Service appears to have started flapping (23.9% change >= 20.0% threshold)
+[1395928560] SERVICE ALERT: nycnn-ipvstrm2;D:\ Drive Space;OK;HARD;1;OK - Proxy Total=1397.19GB, Used=1168.98GB (83.7%), Free=228.21GB (16.3%)
+[1395928560] SERVICE FLAPPING ALERT: nycnn-ipvstrm2;D:\ Drive Space;STARTED; Service appears to have started flapping (23.9% change >= 20.0% threshold)
+[1395928590] SERVICE ALERT: nycnn-ipvstrm2;SVServer;OK;HARD;2;OK - Found 1 Instance(s) of "SVServer.exe" running (0 excluded).  (List is on next line)
+[1395928590] SERVICE FLAPPING ALERT: nycnn-ipvstrm2;SVServer;STARTED; Service appears to have started flapping (23.9% change >= 20.0% threshold)
+[1395928590] SERVICE ALERT: nycnn-ipvstrm2;FTP Service;OK;HARD;1;OK - Found 1 Instance(s) of "iftpsvc.exe" running (0 excluded).  (List is on next line)
+[1395928590] SERVICE FLAPPING ALERT: nycnn-ipvstrm2;FTP Service;STARTED; Service appears to have started flapping (23.9% change >= 20.0% threshold)
+[1395928690] SERVICE ALERT: nycnn-ipvstrm2;PING;CRITICAL;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1395928730] HOST ALERT: nycnn-ipvstrm2;DOWN;SOFT;1;(Host Check Timed Out)
+[1395928750] SERVICE ALERT: nycnn-ipvstrm2;PING;CRITICAL;HARD;2;PING CRITICAL - Packet loss = 100%
+[1395928770] HOST ALERT: nycnn-ipvstrm2;DOWN;SOFT;2;(Host Check Timed Out)
+[1395928850] HOST ALERT: nycnn-ipvstrm2;UP;SOFT;3;PING OK - Packet loss = 64%, RTA = 0.25 ms
+[1395928870] SERVICE ALERT: nycnn-ipvstrm2;PING;OK;HARD;2;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1395929170] SERVICE ALERT: nycnn-ipvstrm2;PING;CRITICAL;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1395929180] SERVICE ALERT: nycnn-ipvstrm2;MMSService;UNKNOWN;SOFT;1;UNKNOWN - Plugin Timed out (15 sec)
+[1395929180] SERVICE ALERT: nycnn-ipvstrm2;SSH Service;UNKNOWN;SOFT;1;UNKNOWN - Plugin Timed out (15 sec)
+[1395929180] SERVICE ALERT: nycnn-ipvstrm2;D:\ Drive Space;UNKNOWN;SOFT;1;UNKNOWN - Plugin Timed out (15 sec)
+[1395929190] HOST ALERT: nycnn-ipvstrm2;DOWN;SOFT;1;(Host Check Timed Out)
+[1395929210] SERVICE ALERT: nycnn-ipvstrm2;SVServer;UNKNOWN;HARD;1;UNKNOWN - Plugin Timed out (15 sec)
+[1395929210] SERVICE ALERT: nycnn-ipvstrm2;FTP Service;UNKNOWN;HARD;1;UNKNOWN - Plugin Timed out (15 sec)
+[1395929230] SERVICE ALERT: nycnn-ipvstrm2;PING;CRITICAL;HARD;2;PING CRITICAL - Packet loss = 100%
+[1395929240] SERVICE ALERT: nycnn-ipvstrm2;MMSService;UNKNOWN;HARD;2;UNKNOWN - Plugin Timed out (15 sec)
+[1395929240] SERVICE ALERT: nycnn-ipvstrm2;SSH Service;UNKNOWN;HARD;2;UNKNOWN - Plugin Timed out (15 sec)
+[1395929240] SERVICE ALERT: nycnn-ipvstrm2;D:\ Drive Space;UNKNOWN;HARD;2;UNKNOWN - Plugin Timed out (15 sec)
+[1395929290] HOST ALERT: nycnn-ipvstrm2;DOWN;SOFT;2;(Host Check Timed Out)
+[1395929350] SERVICE ALERT: nycnn-ipvstrm2;PING;OK;HARD;2;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1395929360] HOST ALERT: nycnn-ipvstrm2;UP;SOFT;3;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1395929490] SERVICE ALERT: nycnn-ipvstrm2;SVServer;OK;HARD;1;OK - Found 1 Instance(s) of "SVServer.exe" running (0 excluded).  (List is on next line)
+[1395929490] SERVICE ALERT: nycnn-ipvstrm2;FTP Service;OK;HARD;1;OK - Found 1 Instance(s) of "iftpsvc.exe" running (0 excluded).  (List is on next line)
+[1395929520] SERVICE ALERT: nycnn-ipvstrm2;SSH Service;OK;HARD;2;OK - Found 1 Instance(s) of "sshserver.exe" running (0 excluded).  (List is on next line)
+[1395929520] SERVICE ALERT: nycnn-ipvstrm2;MMSService;OK;HARD;2;OK - Found 1 Instance(s) of "MMSService.exe" running (0 excluded).  (List is on next line)
+[1395929520] SERVICE ALERT: nycnn-ipvstrm2;D:\ Drive Space;OK;HARD;2;OK - Proxy Total=1397.19GB, Used=1168.98GB (83.7%), Free=228.21GB (16.3%)
+[1395930170] Auto-save of retention data completed successfully.
+[1395930430] SERVICE FLAPPING ALERT: nycnn-ipvstrm2;PING;STOPPED; Service appears to have stopped flapping (3.9% change < 5.0% threshold)
+[1395930623] EXTERNAL COMMAND: SCHEDULE_HOST_DOWNTIME;nycnn-ipvstrm3;1395930583;1395941383;1;0;10800;Windows Admin;Upgrade IPV SV software
+[1395930624] HOST DOWNTIME ALERT: nycnn-ipvstrm3;STARTED; Host has entered a period of scheduled downtime
+[1395931650] SERVICE ALERT: rt-nyccfcp-1;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 113.75 ms
+[1395931710] SERVICE ALERT: rt-nyccfcp-1;PING;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 71.86 ms
+[1395931770] SERVICE ALERT: rt-nyccfcp-1;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 122.87 ms
+[1395931830] SERVICE ALERT: rt-nyccfcp-1;PING;WARNING;SOFT;2;PING WARNING - Packet loss = 0%, RTA = 105.95 ms
+[1395931890] SERVICE ALERT: rt-nyccfcp-1;PING;OK;SOFT;3;PING OK - Packet loss = 0%, RTA = 76.30 ms
+[1395932010] SERVICE ALERT: rt-nyccfcp-1;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 124.83 ms
+[1395932070] SERVICE ALERT: rt-nyccfcp-1;PING;WARNING;SOFT;2;PING WARNING - Packet loss = 0%, RTA = 166.26 ms
+[1395932130] SERVICE ALERT: rt-nyccfcp-1;PING;OK;SOFT;3;PING OK - Packet loss = 0%, RTA = 85.37 ms
+[1395932140] HOST FLAPPING ALERT: nycnn-ipvstrm2;STOPPED; Host appears to have stopped flapping (3.9% change < 5.0% threshold)
+[1395932330] SERVICE ALERT: nycnn-ipvstrm3;SVServer;CRITICAL;SOFT;1;CRITICAL - [Triggered by _ItemCount<1] - Found 0 Instance(s) of "SVServer.exe" running (0 excluded).
+[1395932390] SERVICE ALERT: nycnn-ipvstrm3;SVServer;CRITICAL;HARD;2;CRITICAL - [Triggered by _ItemCount<1] - Found 0 Instance(s) of "SVServer.exe" running (0 excluded).
+[1395932590] SERVICE ALERT: nycnn-ipvstrm3;PING;CRITICAL;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1395932630] HOST ALERT: nycnn-ipvstrm3;DOWN;SOFT;1;(Host Check Timed Out)
+[1395932650] SERVICE ALERT: nycnn-ipvstrm3;FTP Service;UNKNOWN;HARD;1;UNKNOWN - Plugin Timed out (15 sec)
+[1395932650] SERVICE ALERT: nycnn-ipvstrm3;PING;CRITICAL;HARD;2;PING CRITICAL - Packet loss = 100%
+[1395932710] HOST ALERT: nycnn-ipvstrm3;DOWN;SOFT;2;(Host Check Timed Out)
+[1395932710] SERVICE ALERT: nycnn-ipvstrm3;SVServer;UNKNOWN;HARD;2;UNKNOWN - Plugin Timed out (15 sec)
+[1395932770] SERVICE ALERT: nycnn-ipvstrm3;PING;OK;HARD;2;PING OK - Packet loss = 0%, RTA = 0.33 ms
+[1395932770] HOST ALERT: nycnn-ipvstrm3;UP;SOFT;3;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1395932930] SERVICE ALERT: nycnn-ipvstrm3;FTP Service;OK;HARD;1;OK - Found 1 Instance(s) of "iftpsvc.exe" running (0 excluded).  (List is on next line)
+[1395932990] SERVICE ALERT: nycnn-ipvstrm3;SVServer;OK;HARD;2;OK - Found 1 Instance(s) of "SVServer.exe" running (0 excluded).  (List is on next line)
+[1395933670] SERVICE ALERT: nycnn-ipvstrm3;PING;CRITICAL;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1395933680] SERVICE ALERT: nycnn-ipvstrm3;MMSService;UNKNOWN;SOFT;1;UNKNOWN - Plugin Timed out (15 sec)
+[1395933680] SERVICE ALERT: nycnn-ipvstrm3;SSH Service;UNKNOWN;SOFT;1;UNKNOWN - Plugin Timed out (15 sec)
+[1395933680] SERVICE ALERT: nycnn-ipvstrm3;D:\ Drive Space;UNKNOWN;SOFT;1;UNKNOWN - Plugin Timed out (15 sec)
+[1395933710] HOST ALERT: nycnn-ipvstrm3;DOWN;SOFT;1;(Host Check Timed Out)
+[1395933730] SERVICE ALERT: nycnn-ipvstrm3;PING;CRITICAL;HARD;2;PING CRITICAL - Packet loss = 100%
+[1395933740] SERVICE ALERT: nycnn-ipvstrm3;MMSService;UNKNOWN;HARD;2;UNKNOWN - Plugin Timed out (15 sec)
+[1395933740] SERVICE ALERT: nycnn-ipvstrm3;SSH Service;UNKNOWN;HARD;2;UNKNOWN - Plugin Timed out (15 sec)
+[1395933740] SERVICE ALERT: nycnn-ipvstrm3;D:\ Drive Space;UNKNOWN;HARD;2;UNKNOWN - Plugin Timed out (15 sec)
+[1395933770] Auto-save of retention data completed successfully.
+[1395933800] HOST ALERT: nycnn-ipvstrm3;DOWN;SOFT;2;(Host Check Timed Out)
+[1395933850] SERVICE ALERT: nycnn-ipvstrm3;FTP Service;UNKNOWN;HARD;1;UNKNOWN - Plugin Timed out (15 sec)
+[1395933870] HOST ALERT: nycnn-ipvstrm3;UP;SOFT;3;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1395933870] HOST FLAPPING ALERT: nycnn-ipvstrm3;STARTED; Host appears to have started flapping (22.1% change > 20.0% threshold)
+[1395933910] SERVICE ALERT: nycnn-ipvstrm3;PING;OK;HARD;2;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1395934020] SERVICE ALERT: nycnn-ipvstrm3;SSH Service;OK;HARD;2;OK - Found 1 Instance(s) of "sshserver.exe" running (0 excluded).  (List is on next line)
+[1395934020] SERVICE ALERT: nycnn-ipvstrm3;MMSService;OK;HARD;2;OK - Found 1 Instance(s) of "MMSService.exe" running (0 excluded).  (List is on next line)
+[1395934030] SERVICE ALERT: nycnn-ipvstrm3;D:\ Drive Space;OK;HARD;2;OK - New Volume Total=1397.19GB, Used=1152.17GB (82.5%), Free=245.02GB (17.5%)
+[1395934130] SERVICE ALERT: nycnn-ipvstrm3;FTP Service;OK;HARD;1;OK - Found 1 Instance(s) of "iftpsvc.exe" running (0 excluded).  (List is on next line)
+[1395934130] SERVICE FLAPPING ALERT: nycnn-ipvstrm3;FTP Service;STARTED; Service appears to have started flapping (23.7% change >= 20.0% threshold)
+[1395934437] HOST DOWNTIME ALERT: nycnn-ipvstrm2;STOPPED; Host has exited from a period of scheduled downtime
+[1395935190] SERVICE FLAPPING ALERT: nycnn-ipvstrm2;SVServer;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+[1395935190] SERVICE FLAPPING ALERT: nycnn-ipvstrm2;FTP Service;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+[1395935220] SERVICE FLAPPING ALERT: nycnn-ipvstrm2;SSH Service;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+[1395935220] SERVICE FLAPPING ALERT: nycnn-ipvstrm2;MMSService;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+[1395935220] SERVICE FLAPPING ALERT: nycnn-ipvstrm2;D:\ Drive Space;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+[1395936660] HOST FLAPPING ALERT: nycnn-ipvstrm3;STOPPED; Host appears to have stopped flapping (3.9% change < 5.0% threshold)
+[1395937370] Auto-save of retention data completed successfully.
+[1395939830] SERVICE FLAPPING ALERT: nycnn-ipvstrm3;FTP Service;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+[1395940970] Auto-save of retention data completed successfully.
+[1395941383] HOST DOWNTIME ALERT: nycnn-ipvstrm3;STOPPED; Host has exited from a period of scheduled downtime
+[1395942510] SERVICE ALERT: rt-nyccfcp-1;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 132.38 ms
+[1395942570] SERVICE ALERT: rt-nyccfcp-1;PING;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 78.66 ms
+[1395942680] SERVICE ALERT: rt-nycc3750tgr-ilo;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 133.05 ms
+[1395942740] SERVICE ALERT: rt-nycc3750tgr-ilo;PING;WARNING;SOFT;2;PING WARNING - Packet loss = 0%, RTA = 101.07 ms
+[1395942800] SERVICE ALERT: rt-nycc3750tgr-ilo;PING;WARNING;HARD;3;PING WARNING - Packet loss = 0%, RTA = 117.52 ms
+[1395942800] SERVICE NOTIFICATION: feedsadmin;rt-nycc3750tgr-ilo;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 117.52 ms
+[1395942800] SERVICE NOTIFICATION: unixadmin;rt-nycc3750tgr-ilo;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 117.52 ms
+[1395942810] SERVICE ALERT: rt-nyccfcp-1;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 112.93 ms
+[1395942860] SERVICE ALERT: rt-nycc3750tgr-ilo;PING;OK;HARD;3;PING OK - Packet loss = 0%, RTA = 44.31 ms
+[1395942860] SERVICE NOTIFICATION: feedsadmin;rt-nycc3750tgr-ilo;PING;OK;notify-service-by-email;PING OK - Packet loss = 0%, RTA = 44.31 ms
+[1395942860] SERVICE NOTIFICATION: unixadmin;rt-nycc3750tgr-ilo;PING;OK;notify-service-by-email;PING OK - Packet loss = 0%, RTA = 44.31 ms
+[1395942870] SERVICE ALERT: rt-nyccfcp-1;PING;WARNING;SOFT;2;PING WARNING - Packet loss = 0%, RTA = 159.02 ms
+[1395942920] SERVICE ALERT: rt-nycc3750tgr-ilo;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 131.34 ms
+[1395942930] SERVICE ALERT: rt-nyccfcp-1;PING;WARNING;HARD;3;PING WARNING - Packet loss = 0%, RTA = 128.40 ms
+[1395942930] SERVICE NOTIFICATION: feedsadmin;rt-nyccfcp-1;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 128.40 ms
+[1395942930] SERVICE NOTIFICATION: unixadmin;rt-nyccfcp-1;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 128.40 ms
+[1395942980] SERVICE ALERT: rt-nycc3750tgr-ilo;PING;WARNING;SOFT;2;PING WARNING - Packet loss = 0%, RTA = 139.18 ms
+[1395942990] SERVICE ALERT: rt-nyccfcp-1;PING;OK;HARD;3;PING OK - Packet loss = 0%, RTA = 1.24 ms
+[1395942990] SERVICE NOTIFICATION: feedsadmin;rt-nyccfcp-1;PING;OK;notify-service-by-email;PING OK - Packet loss = 0%, RTA = 1.24 ms
+[1395942990] SERVICE NOTIFICATION: unixadmin;rt-nyccfcp-1;PING;OK;notify-service-by-email;PING OK - Packet loss = 0%, RTA = 1.24 ms
+[1395943040] SERVICE ALERT: rt-nycc3750tgr-ilo;PING;OK;SOFT;3;PING OK - Packet loss = 0%, RTA = 91.75 ms
+[1395943100] SERVICE ALERT: rt-nycc3750tgr-ilo;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 139.73 ms
+[1395943160] SERVICE ALERT: rt-nycc3750tgr-ilo;PING;WARNING;SOFT;2;PING WARNING - Packet loss = 0%, RTA = 124.48 ms
+[1395943220] SERVICE ALERT: rt-nycc3750tgr-ilo;PING;OK;SOFT;3;PING OK - Packet loss = 0%, RTA = 0.93 ms
+[1395944570] Auto-save of retention data completed successfully.
+[1395945710] SERVICE ALERT: nycnn-adbeame8;AME Job status;CRITICAL;SOFT;1;Job 10022453 remains in a queued state
+[1395945770] SERVICE ALERT: nycnn-adbeame8;AME Job status;OK;SOFT;2;AME is idle:
+[1395948170] Auto-save of retention data completed successfully.
+[1395951430] SERVICE ALERT: nycnn-adbeame6;AME Job status;CRITICAL;SOFT;1;Job 10023251 remains in a queued state
+[1395951490] SERVICE ALERT: nycnn-adbeame6;AME Job status;OK;SOFT;2;Job 10023251 progress is  0 :
+[1395951770] Auto-save of retention data completed successfully.
+[1395953430] SERVICE ALERT: rt-nyccfcp-1;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 125.48 ms
+[1395953480] SERVICE ALERT: rt-nycc3750tgr-ilo;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 113.85 ms
+[1395953490] SERVICE ALERT: rt-nyccfcp-1;PING;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 90.43 ms
+[1395953540] SERVICE ALERT: rt-nycc3750tgr-ilo;PING;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 89.03 ms
+[1395953550] SERVICE ALERT: rt-nyccfcp-1;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 112.30 ms
+[1395953610] SERVICE ALERT: rt-nyccfcp-1;PING;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 99.68 ms
+[1395953670] SERVICE ALERT: rt-nyccfcp-1;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 109.98 ms
+[1395953720] SERVICE ALERT: rt-nycc3750tgr-ilo;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 112.50 ms
+[1395953730] SERVICE ALERT: rt-nyccfcp-1;PING;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 90.87 ms
+[1395953780] SERVICE ALERT: rt-nycc3750tgr-ilo;PING;WARNING;SOFT;2;PING WARNING - Packet loss = 0%, RTA = 120.59 ms
+[1395953840] SERVICE ALERT: rt-nycc3750tgr-ilo;PING;WARNING;HARD;3;PING WARNING - Packet loss = 0%, RTA = 110.14 ms
+[1395953840] SERVICE NOTIFICATION: feedsadmin;rt-nycc3750tgr-ilo;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 110.14 ms
+[1395953840] SERVICE NOTIFICATION: unixadmin;rt-nycc3750tgr-ilo;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 110.14 ms
+[1395953960] SERVICE ALERT: rt-nycc3750tgr-ilo;PING;OK;HARD;3;PING OK - Packet loss = 0%, RTA = 71.04 ms
+[1395953960] SERVICE NOTIFICATION: feedsadmin;rt-nycc3750tgr-ilo;PING;OK;notify-service-by-email;PING OK - Packet loss = 0%, RTA = 71.04 ms
+[1395953960] SERVICE NOTIFICATION: unixadmin;rt-nycc3750tgr-ilo;PING;OK;notify-service-by-email;PING OK - Packet loss = 0%, RTA = 71.04 ms
+[1395955370] Auto-save of retention data completed successfully.
+[1395958970] Auto-save of retention data completed successfully.
+[1395962570] Auto-save of retention data completed successfully.
+[1395963940] SERVICE ALERT: nycnn-adbeame10;AME Job status;CRITICAL;SOFT;1;Job 10023738 remains in a queued state
+[1395963990] SERVICE ALERT: nycnn-adbeame10;AME Job status;OK;SOFT;2;AME is idle:
+[1395964110] SERVICE ALERT: rt-nyccfcp-1;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 119.20 ms
+[1395964170] SERVICE ALERT: rt-nyccfcp-1;PING;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 69.30 ms
+[1395964290] SERVICE ALERT: rt-nyccfcp-1;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 123.27 ms
+[1395964340] SERVICE ALERT: rt-nycc3750tgr-ilo;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 126.04 ms
+[1395964350] SERVICE ALERT: rt-nyccfcp-1;PING;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 75.62 ms
+[1395964400] SERVICE ALERT: rt-nycc3750tgr-ilo;PING;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 99.20 ms
+[1395964410] SERVICE ALERT: rt-nyccfcp-1;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 115.82 ms
+[1395964460] SERVICE ALERT: rt-nycc3750tgr-ilo;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 111.99 ms
+[1395964470] SERVICE ALERT: rt-nyccfcp-1;PING;WARNING;SOFT;2;PING WARNING - Packet loss = 0%, RTA = 110.58 ms
+[1395964520] SERVICE ALERT: rt-nycc3750tgr-ilo;PING;WARNING;SOFT;2;PING WARNING - Packet loss = 0%, RTA = 119.64 ms
+[1395964530] SERVICE ALERT: rt-nyccfcp-1;PING;OK;SOFT;3;PING OK - Packet loss = 0%, RTA = 62.03 ms
+[1395964580] SERVICE ALERT: rt-nycc3750tgr-ilo;PING;OK;SOFT;3;PING OK - Packet loss = 0%, RTA = 89.35 ms
+[1395964640] SERVICE ALERT: rt-nycc3750tgr-ilo;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 101.27 ms
+[1395964700] SERVICE ALERT: rt-nycc3750tgr-ilo;PING;WARNING;SOFT;2;PING WARNING - Packet loss = 0%, RTA = 128.48 ms
+[1395964760] SERVICE ALERT: rt-nycc3750tgr-ilo;PING;WARNING;HARD;3;PING WARNING - Packet loss = 0%, RTA = 120.65 ms
+[1395964760] SERVICE NOTIFICATION: feedsadmin;rt-nycc3750tgr-ilo;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 120.65 ms
+[1395964760] SERVICE NOTIFICATION: unixadmin;rt-nycc3750tgr-ilo;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 120.65 ms
+[1395964820] SERVICE ALERT: rt-nycc3750tgr-ilo;PING;OK;HARD;3;PING OK - Packet loss = 0%, RTA = 1.06 ms
+[1395964820] SERVICE NOTIFICATION: feedsadmin;rt-nycc3750tgr-ilo;PING;OK;notify-service-by-email;PING OK - Packet loss = 0%, RTA = 1.06 ms
+[1395964820] SERVICE NOTIFICATION: unixadmin;rt-nycc3750tgr-ilo;PING;OK;notify-service-by-email;PING OK - Packet loss = 0%, RTA = 1.06 ms
+[1395966170] Auto-save of retention data completed successfully.
+[1395969770] Auto-save of retention data completed successfully.
+[1395973370] Auto-save of retention data completed successfully.
+[1395974910] SERVICE ALERT: rt-nyccfcp-1;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 111.89 ms
+[1395974970] SERVICE ALERT: rt-nyccfcp-1;PING;WARNING;SOFT;2;PING WARNING - Packet loss = 0%, RTA = 104.02 ms
+[1395975030] SERVICE ALERT: rt-nyccfcp-1;PING;OK;SOFT;3;PING OK - Packet loss = 0%, RTA = 80.79 ms
+[1395975090] SERVICE ALERT: rt-nyccfcp-1;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 126.51 ms
+[1395975140] SERVICE ALERT: rt-nycc3750tgr-ilo;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 115.25 ms
+[1395975150] SERVICE ALERT: rt-nyccfcp-1;PING;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 42.91 ms
+[1395975200] SERVICE ALERT: rt-nycc3750tgr-ilo;PING;WARNING;SOFT;2;PING WARNING - Packet loss = 0%, RTA = 105.95 ms
+[1395975260] SERVICE ALERT: rt-nycc3750tgr-ilo;PING;WARNING;HARD;3;PING WARNING - Packet loss = 0%, RTA = 102.29 ms
+[1395975260] SERVICE NOTIFICATION: feedsadmin;rt-nycc3750tgr-ilo;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 102.29 ms
+[1395975260] SERVICE NOTIFICATION: unixadmin;rt-nycc3750tgr-ilo;PING;WARNING;notify-service-by-email;PING WARNING - Packet loss = 0%, RTA = 102.29 ms
+[1395975270] SERVICE ALERT: rt-nyccfcp-1;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 113.71 ms
+[1395975330] SERVICE ALERT: rt-nyccfcp-1;PING;WARNING;SOFT;2;PING WARNING - Packet loss = 0%, RTA = 119.73 ms
+[1395975390] SERVICE ALERT: rt-nyccfcp-1;PING;OK;SOFT;3;PING OK - Packet loss = 0%, RTA = 0.70 ms
+[1395975440] SERVICE ALERT: rt-nycc3750tgr-ilo;PING;OK;HARD;3;PING OK - Packet loss = 0%, RTA = 99.71 ms
+[1395975440] SERVICE NOTIFICATION: feedsadmin;rt-nycc3750tgr-ilo;PING;OK;notify-service-by-email;PING OK - Packet loss = 0%, RTA = 99.71 ms
+[1395975440] SERVICE NOTIFICATION: unixadmin;rt-nycc3750tgr-ilo;PING;OK;notify-service-by-email;PING OK - Packet loss = 0%, RTA = 99.71 ms
+[1395975500] SERVICE ALERT: rt-nycc3750tgr-ilo;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 104.82 ms
+[1395975560] SERVICE ALERT: rt-nycc3750tgr-ilo;PING;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 65.94 ms
+[1395976970] Auto-save of retention data completed successfully.

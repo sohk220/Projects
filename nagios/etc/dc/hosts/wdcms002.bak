@@ -1,0 +1,9 @@
+define host {
+	use		dc-fork-host
+	host_name	wdcms002
+	alias		DC FORK MediaSource Bureau 2
+	address		10.161.202.168
+	;check_command
+	;contact_groups
+	hostgroups	dc-fork-msb
+}

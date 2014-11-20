@@ -1,0 +1,1373 @@
+[1415682000] LOG ROTATION: DAILY
+[1415682000] LOG VERSION: 2.0
+[1415682000] CURRENT HOST STATE: deimos;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1415682000] CURRENT HOST STATE: localhost;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.04 ms
+[1415682000] CURRENT HOST STATE: msny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1415682000] CURRENT HOST STATE: nyarxlator1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1415682000] CURRENT HOST STATE: nyarxlator2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1415682000] CURRENT HOST STATE: nyarxlator3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1415682000] CURRENT HOST STATE: nyarxlator4;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1415682000] CURRENT HOST STATE: nycnn-adbeame1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.34 ms
+[1415682000] CURRENT HOST STATE: nycnn-adbeame10;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.33 ms
+[1415682000] CURRENT HOST STATE: nycnn-adbeame2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.35 ms
+[1415682000] CURRENT HOST STATE: nycnn-adbeame3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.35 ms
+[1415682000] CURRENT HOST STATE: nycnn-adbeame4;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1415682000] CURRENT HOST STATE: nycnn-adbeame5;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1415682000] CURRENT HOST STATE: nycnn-adbeame6;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.34 ms
+[1415682000] CURRENT HOST STATE: nycnn-adbeame7;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.34 ms
+[1415682000] CURRENT HOST STATE: nycnn-adbeame8;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1415682000] CURRENT HOST STATE: nycnn-adbeame9;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.37 ms
+[1415682000] CURRENT HOST STATE: nycnn-adbectrl1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1415682000] CURRENT HOST STATE: nycnn-adbectrl2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1415682000] CURRENT HOST STATE: nycnn-arapp1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1415682000] CURRENT HOST STATE: nycnn-arapp2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1415682000] CURRENT HOST STATE: nycnn-ardb1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1415682000] CURRENT HOST STATE: nycnn-ardb2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1415682000] CURRENT HOST STATE: nycnn-arvtrmops;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1415682000] CURRENT HOST STATE: nycnn-arvtrmops2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.34 ms
+[1415682000] CURRENT HOST STATE: nycnn-arvtrtape;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1415682000] CURRENT HOST STATE: nycnn-arxlator1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1415682000] CURRENT HOST STATE: nycnn-arxlator2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1415682000] CURRENT HOST STATE: nycnn-arxlator3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1415682000] CURRENT HOST STATE: nycnn-arxlator4;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1415682000] CURRENT HOST STATE: nycnn-editxfer;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.15 ms
+[1415682000] CURRENT HOST STATE: nycnn-editxfer-switch;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1415682000] CURRENT HOST STATE: nycnn-editxfer3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.17 ms
+[1415682000] CURRENT HOST STATE: nycnn-editxfer4;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.12 ms
+[1415682000] CURRENT HOST STATE: nycnn-gridpushpull1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1415682000] CURRENT HOST STATE: nycnn-gridpushpull2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvapilic;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvproxy1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvproxy2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvsphn1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvsphn2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvsphn3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvsphn4;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvsphn5;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvstrm1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvstrm2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvstrm3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvstrm4;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx10;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx10e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx11;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx11e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx12;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx12e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx13;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx13e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx14;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx14e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx15;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx15e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx16;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx16e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx17;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx17e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx18;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx18e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx19;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx19e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx1e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx20;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx20e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx21;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx21e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx22;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx22e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx23;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx23e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx24;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx24e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx25;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx25e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx26;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx26e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx27;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx27e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx28;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx28e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx29;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx29e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx2e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx30;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx30e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx31;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx31e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx32;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx32e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx33;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx33e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx34;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx34e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx35;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx35e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx3e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.17 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx4;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx4e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx5;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx5e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx6;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx6e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx7;DOWN;HARD;1;(Host Check Timed Out)
+[1415682000] CURRENT HOST STATE: nycnn-ipvx7e1;DOWN;HARD;1;(Host Check Timed Out)
+[1415682000] CURRENT HOST STATE: nycnn-ipvx8;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx8e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx9;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1415682000] CURRENT HOST STATE: nycnn-ipvx9e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1415682000] CURRENT HOST STATE: nycnn-kickstart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1415682000] CURRENT HOST STATE: nycnn-mamdb1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1415682000] CURRENT HOST STATE: nycnn-mamdb2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1415682000] CURRENT HOST STATE: nycnn-mamfog;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1415682000] CURRENT HOST STATE: nycnn-mamkey1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1415682000] CURRENT HOST STATE: nycnn-mamkey2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1415682000] CURRENT HOST STATE: nycnn-mammq1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1415682000] CURRENT HOST STATE: nycnn-mammq2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1415682000] CURRENT HOST STATE: nycnn-mq1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1415682000] CURRENT HOST STATE: nycnn-ms2app3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1415682000] CURRENT HOST STATE: nycnn-ms2app4;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1415682000] CURRENT HOST STATE: nycnn-ms2db1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1415682000] CURRENT HOST STATE: nycnn-ms2db2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1415682000] CURRENT HOST STATE: nycnn-ms2db3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1415682000] CURRENT HOST STATE: nycnn-ms2fsd;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1415682000] CURRENT HOST STATE: nycnn-ms2fsd1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1415682000] CURRENT HOST STATE: nycnn-ms2fsd2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.14 ms
+[1415682000] CURRENT HOST STATE: nycnn-ms2stills1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.39 ms
+[1415682000] CURRENT HOST STATE: nycnn-ms2stills2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.44 ms
+[1415682000] CURRENT HOST STATE: nycnn-nag1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1415682000] CURRENT HOST STATE: nycnn-nag2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1415682000] CURRENT HOST STATE: nycnn-nag4;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1415682000] CURRENT HOST STATE: nycnn-splunk;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1415682000] CURRENT HOST STATE: nyhdscheduler;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1415682000] CURRENT HOST STATE: nymamkey;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1415682000] CURRENT HOST STATE: nymq;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1415682000] CURRENT HOST STATE: nyproxygenhd;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1415682000] CURRENT HOST STATE: nyvideodrop;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1415682000] CURRENT HOST STATE: omnclda01-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1415682000] CURRENT HOST STATE: omnclda01e1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1415682000] CURRENT HOST STATE: omnclda02-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1415682000] CURRENT HOST STATE: omnclda02e1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1415682000] CURRENT HOST STATE: omnclda03-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1415682000] CURRENT HOST STATE: omnclda03e1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1415682000] CURRENT HOST STATE: omnhbcba01-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1415682000] CURRENT HOST STATE: omnhbcba02-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1415682000] CURRENT HOST STATE: omnhbcba03-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1415682000] CURRENT HOST STATE: omnhbcba04-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1415682000] CURRENT HOST STATE: omnhbcba05-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1415682000] CURRENT HOST STATE: omnhbcba06-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1415682000] CURRENT HOST STATE: omnhbcba07-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1415682000] CURRENT HOST STATE: omnhbcba08-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1415682000] CURRENT HOST STATE: omnhbcba09-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1415682000] CURRENT HOST STATE: omnhbcba10-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1415682000] CURRENT HOST STATE: omnhbcba11-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1415682000] CURRENT HOST STATE: omnhbcba12-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1415682000] CURRENT HOST STATE: omnldap1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1415682000] CURRENT HOST STATE: omnldap2-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.35 ms
+[1415682000] CURRENT HOST STATE: omnmas1app-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1415682000] CURRENT HOST STATE: omnmas1app1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1415682000] CURRENT HOST STATE: omnmas1app2-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1415682000] CURRENT HOST STATE: omnmas1db-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1415682000] CURRENT HOST STATE: omnmas1db1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1415682000] CURRENT HOST STATE: omnmas1db2-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1415682000] CURRENT HOST STATE: omnmas2app-ny;DOWN;HARD;10;(Host Check Timed Out)
+[1415682000] CURRENT HOST STATE: omnmas2app1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1415682000] CURRENT HOST STATE: omnmas2app2-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1415682000] CURRENT HOST STATE: omnmas2db-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1415682000] CURRENT HOST STATE: omnmas2db1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1415682000] CURRENT HOST STATE: omnmas2db2-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1415682000] CURRENT HOST STATE: omnmdir01-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1415682000] CURRENT HOST STATE: omnmdir01e1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1415682000] CURRENT HOST STATE: omnmdir02-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1415682000] CURRENT HOST STATE: omnmdir02e1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1415682000] CURRENT HOST STATE: omnmdir03-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1415682000] CURRENT HOST STATE: omnmdir03e1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1415682000] CURRENT HOST STATE: omnmdir04-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1415682000] CURRENT HOST STATE: omnmdir04e1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1415682000] CURRENT HOST STATE: omnmdk01-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.57 ms
+[1415682000] CURRENT HOST STATE: omnmdk01h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.54 ms
+[1415682000] CURRENT HOST STATE: omnmdk02-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.63 ms
+[1415682000] CURRENT HOST STATE: omnmdk02h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 4.99 ms
+[1415682000] CURRENT HOST STATE: omnmdk03-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.48 ms
+[1415682000] CURRENT HOST STATE: omnmdk03h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 4.58 ms
+[1415682000] CURRENT HOST STATE: omnmdk04-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.44 ms
+[1415682000] CURRENT HOST STATE: omnmdk04h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.46 ms
+[1415682000] CURRENT HOST STATE: omnmdk05-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.52 ms
+[1415682000] CURRENT HOST STATE: omnmdk05h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.51 ms
+[1415682000] CURRENT HOST STATE: omnmdk06-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.55 ms
+[1415682000] CURRENT HOST STATE: omnmdk06h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.48 ms
+[1415682000] CURRENT HOST STATE: omnmdk07-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1415682000] CURRENT HOST STATE: omnmdk07h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.56 ms
+[1415682000] CURRENT HOST STATE: omnmdk08-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.44 ms
+[1415682000] CURRENT HOST STATE: omnmdk08h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.51 ms
+[1415682000] CURRENT HOST STATE: omnmdk09-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.43 ms
+[1415682000] CURRENT HOST STATE: omnmdk09h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.45 ms
+[1415682000] CURRENT HOST STATE: omnmdk10-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.45 ms
+[1415682000] CURRENT HOST STATE: omnmdk10h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1415682000] CURRENT HOST STATE: omnmdk11-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1415682000] CURRENT HOST STATE: omnmdk11h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.46 ms
+[1415682000] CURRENT HOST STATE: omnmdk12-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.51 ms
+[1415682000] CURRENT HOST STATE: omnmdk12h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.74 ms
+[1415682000] CURRENT HOST STATE: omnmdk13-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.45 ms
+[1415682000] CURRENT HOST STATE: omnmdk13h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.49 ms
+[1415682000] CURRENT HOST STATE: omnmdk14-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.49 ms
+[1415682000] CURRENT HOST STATE: omnmdk14h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1415682000] CURRENT HOST STATE: omnmdk15-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1415682000] CURRENT HOST STATE: omnmdk15h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.49 ms
+[1415682000] CURRENT HOST STATE: omnmdk16-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.46 ms
+[1415682000] CURRENT HOST STATE: omnmdk16h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.48 ms
+[1415682000] CURRENT HOST STATE: omnmdk17-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.45 ms
+[1415682000] CURRENT HOST STATE: omnmdk17h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.99 ms
+[1415682000] CURRENT HOST STATE: omnmdk18-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1415682000] CURRENT HOST STATE: omnmdk18h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.46 ms
+[1415682000] CURRENT HOST STATE: omnmdk19-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.48 ms
+[1415682000] CURRENT HOST STATE: omnmdk19h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.48 ms
+[1415682000] CURRENT HOST STATE: omnmgsm-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1415682000] CURRENT HOST STATE: omnspsm-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1415682000] CURRENT HOST STATE: rt-nycc3750tgr-ilo;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.83 ms
+[1415682000] CURRENT HOST STATE: rt-nycc3750tgr-ms2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.02 ms
+[1415682000] CURRENT HOST STATE: rt-nyccfcp-1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.51 ms
+[1415682000] CURRENT HOST STATE: rt-nyccfcp-2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.44 ms
+[1415682000] CURRENT HOST STATE: rt-nycchdagg-a;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 79.59 ms
+[1415682000] CURRENT HOST STATE: rt-nycchdagg-b;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 9.00 ms
+[1415682000] CURRENT HOST STATE: rt-nyccmediagrid;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1415682000] CURRENT HOST STATE: rt-nyccspectrum;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.65 ms
+[1415682000] CURRENT HOST STATE: spider;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1415682000] CURRENT HOST STATE: spider-tmp;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1415682000] CURRENT SERVICE STATE: deimos;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.34 ms
+[1415682000] CURRENT SERVICE STATE: localhost;Current Load;OK;HARD;1;OK - load average: 0.40, 0.56, 0.53
+[1415682000] CURRENT SERVICE STATE: localhost;Current Users;OK;HARD;1;USERS OK - 2 users currently logged in
+[1415682000] CURRENT SERVICE STATE: localhost;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 265 bytes in 0.001 second response time
+[1415682000] CURRENT SERVICE STATE: localhost;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1415682000] CURRENT SERVICE STATE: localhost;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1415682000] CURRENT SERVICE STATE: localhost;Swap Usage;OK;HARD;1;SWAP OK - 100% free (2047 MB out of 2047 MB)
+[1415682000] CURRENT SERVICE STATE: localhost;Total Processes;OK;HARD;1;PROCS OK: 68 processes with STATE = RSZDT
+[1415682000] CURRENT SERVICE STATE: msny;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 5504 bytes in 0.002 second response time
+[1415682000] CURRENT SERVICE STATE: msny;IMQ Depth Check - Internal GF Queues;OK;HARD;1;OK: all MS2_EVENT queues have depth 0 or less, all MS2_EVENT queues in RUNNING state
+[1415682000] CURRENT SERVICE STATE: msny;MS2 - Grid A Mount;OK;HARD;1;OK - File /Volumes/GridA/Temp/.gridamounted seems fine.
+[1415682000] CURRENT SERVICE STATE: msny;MS2 - Grid B Mount;OK;HARD;1;OK - File /Volumes/GridB/Temp/.gridbmounted seems fine.
+[1415682000] CURRENT SERVICE STATE: msny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1415682000] CURRENT SERVICE STATE: nyarxlator1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1415682000] CURRENT SERVICE STATE: nyarxlator2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1415682000] CURRENT SERVICE STATE: nyarxlator3;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1415682000] CURRENT SERVICE STATE: nyarxlator4;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-adbeame1;AME Job status;OK;HARD;1;AME is idle:
+[1415682000] CURRENT SERVICE STATE: nycnn-adbeame1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-adbeame10;AME Job status;OK;HARD;1;AME is idle:
+[1415682000] CURRENT SERVICE STATE: nycnn-adbeame10;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.35 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-adbeame2;AME Job status;OK;HARD;1;AME is idle:
+[1415682000] CURRENT SERVICE STATE: nycnn-adbeame2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.33 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-adbeame3;AME Job status;OK;HARD;1;AME is idle:
+[1415682000] CURRENT SERVICE STATE: nycnn-adbeame3;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.33 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-adbeame4;AME Job status;OK;HARD;1;AME is idle:
+[1415682000] CURRENT SERVICE STATE: nycnn-adbeame4;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.33 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-adbeame5;AME Job status;OK;HARD;1;AME is idle:
+[1415682000] CURRENT SERVICE STATE: nycnn-adbeame5;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-adbeame6;AME Job status;OK;HARD;1;AME is idle:
+[1415682000] CURRENT SERVICE STATE: nycnn-adbeame6;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-adbeame7;AME Job status;OK;HARD;1;AME is idle:
+[1415682000] CURRENT SERVICE STATE: nycnn-adbeame7;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-adbeame8;AME Job status;OK;HARD;1;AME is idle:
+[1415682000] CURRENT SERVICE STATE: nycnn-adbeame8;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-adbeame9;AME Job status;OK;HARD;1;AME is idle:
+[1415682000] CURRENT SERVICE STATE: nycnn-adbeame9;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-adbectrl1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-adbectrl2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-arapp1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-arapp1;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1415682000] CURRENT SERVICE STATE: nycnn-arapp1;cnn_id_pool;OK;HARD;1;OK: 151 In the CNN ID Pool -
+[1415682000] CURRENT SERVICE STATE: nycnn-arapp2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.33 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-arapp2;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1415682000] CURRENT SERVICE STATE: nycnn-ardb1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ardb1;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1415682000] CURRENT SERVICE STATE: nycnn-ardb2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ardb2;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1415682000] CURRENT SERVICE STATE: nycnn-arvtrmops;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-arvtrmops;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1415682000] CURRENT SERVICE STATE: nycnn-arvtrmops2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-arvtrmops2;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1415682000] CURRENT SERVICE STATE: nycnn-arvtrtape;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-arvtrtape;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1415682000] CURRENT SERVICE STATE: nycnn-arxlator1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-arxlator1;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1415682000] CURRENT SERVICE STATE: nycnn-arxlator2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-arxlator2;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1415682000] CURRENT SERVICE STATE: nycnn-arxlator3;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-arxlator3;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1415682000] CURRENT SERVICE STATE: nycnn-arxlator4;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-arxlator4;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1415682000] CURRENT SERVICE STATE: nycnn-editxfer;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.15 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-editxfer-switch;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-editxfer3;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-editxfer4;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.17 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-gridpushpull1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-gridpushpull2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvapilic;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.05%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvapilic;DISK_C:;OK;HARD;1;OK - C: Total=136.69GB, Used=9.14GB (6.7%), Free=127.54GB (93.3%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvapilic;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 3.248GB - Used: 0.537GB (17%) - Free: 2.711GB (83%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvapilic;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvapilic;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvapilic;Process: sntlkeys;OK;HARD;1;OK - Found 1 Instance(s) of "sntlkeyssrvr.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvapilic;Process: sntlsrt;OK;HARD;1;OK - Found 1 Instance(s) of "sntlsrtsrvr.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvproxy1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvproxy2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvsphn1;C:\ Drive Space;OK;HARD;1;OK - D: Total=136.69GB, Used=1.62GB (1.2%), Free=135.07GB (98.8%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvsphn1;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.63%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvsphn1;D:\ Drive Space;OK;HARD;1;OK - D: Total=136.69GB, Used=1.62GB (1.2%), Free=135.07GB (98.8%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvsphn1;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 4.000GB - Used: 0.713GB (18%) - Free: 3.287GB (82%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvsphn1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvsphn1;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvsphn1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvsphn2;C:\ Drive Space;OK;HARD;1;OK - D: Total=136.69GB, Used=0.07GB (0.0%), Free=136.62GB (100.0%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvsphn2;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.83%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvsphn2;D:\ Drive Space;OK;HARD;1;OK - D: Total=136.69GB, Used=0.07GB (0.0%), Free=136.62GB (100.0%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvsphn2;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 4.000GB - Used: 0.887GB (22%) - Free: 3.112GB (78%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvsphn2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvsphn2;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvsphn2;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvsphn3;C:\ Drive Space;OK;HARD;1;OK - D: Total=136.69GB, Used=0.07GB (0.0%), Free=136.62GB (100.0%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvsphn3;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.44%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvsphn3;D:\ Drive Space;OK;HARD;1;OK - D: Total=136.69GB, Used=0.07GB (0.0%), Free=136.62GB (100.0%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvsphn3;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 4.000GB - Used: 0.675GB (17%) - Free: 3.325GB (83%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvsphn3;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvsphn3;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvsphn3;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvsphn4;C:\ Drive Space;OK;HARD;1;OK - D: Total=136.69GB, Used=0.07GB (0.0%), Free=136.62GB (100.0%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvsphn4;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 1.11%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvsphn4;D:\ Drive Space;OK;HARD;1;OK - D: Total=136.69GB, Used=0.07GB (0.0%), Free=136.62GB (100.0%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvsphn4;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 4.000GB - Used: 0.703GB (18%) - Free: 3.297GB (82%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvsphn4;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvsphn4;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvsphn4;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvsphn5;C:\ Drive Space;OK;HARD;1;OK - D: Total=136.69GB, Used=0.07GB (0.0%), Free=136.63GB (100.0%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvsphn5;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 1.66%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvsphn5;D:\ Drive Space;OK;HARD;1;OK - D: Total=136.69GB, Used=0.07GB (0.0%), Free=136.63GB (100.0%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvsphn5;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 4.000GB - Used: 0.701GB (18%) - Free: 3.299GB (82%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvsphn5;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvsphn5;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvsphn5;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm1;C:\ Drive Space;OK;HARD;1;OK - New Volume Total=1397.19GB, Used=1134.52GB (81.2%), Free=262.66GB (18.8%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm1;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.08%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm1;D:\ Drive Space;OK;HARD;1;OK - New Volume Total=1397.19GB, Used=1134.51GB (81.2%), Free=262.68GB (18.8%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm1;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 4.000GB - Used: 0.787GB (20%) - Free: 3.213GB (80%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm1;Process: IPS_FTP;OK;HARD;1;OK - Found 1 Instance(s) of "iftpsvc.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm1;Process: IPV_FPT;OK;HARD;1;OK - Found 1 Instance(s) of "iftpsvc.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm1;Process: LicMgr;OK;HARD;1;OK - Found 1 Instance(s) of "LicenceManager.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm1;Process: MMSService;OK;HARD;1;OK - Found 1 Instance(s) of "MMSService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm1;Process: SVServer;OK;HARD;1;OK - Found 1 Instance(s) of "SVServer.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm1;SSH Service;OK;HARD;1;OK - Found 1 Instance(s) of "sshserver.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm2;C:\ Drive Space;OK;HARD;1;OK - Proxy Total=1397.19GB, Used=1130.57GB (80.9%), Free=266.62GB (19.1%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm2;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.10%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm2;D:\ Drive Space;OK;HARD;1;OK - Proxy Total=1397.19GB, Used=1130.55GB (80.9%), Free=266.64GB (19.1%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm2;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 4.000GB - Used: 0.854GB (21%) - Free: 3.146GB (79%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm2;Process: IPS_FTP;OK;HARD;1;OK - Found 1 Instance(s) of "iftpsvc.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm2;Process: IPV_FPT;OK;HARD;1;OK - Found 1 Instance(s) of "iftpsvc.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm2;Process: LicMgr;OK;HARD;1;OK - Found 1 Instance(s) of "LicenceManager.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm2;Process: MMSService;OK;HARD;1;OK - Found 1 Instance(s) of "MMSService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm2;Process: SVServer;OK;HARD;1;OK - Found 1 Instance(s) of "SVServer.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm2;SSH Service;OK;HARD;1;OK - Found 1 Instance(s) of "sshserver.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm3;C:\ Drive Space;OK;HARD;1;OK - New Volume Total=1397.19GB, Used=1131.25GB (81.0%), Free=265.94GB (19.0%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm3;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.07%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm3;D:\ Drive Space;OK;HARD;1;OK - New Volume Total=1397.19GB, Used=1131.25GB (81.0%), Free=265.94GB (19.0%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm3;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 4.000GB - Used: 0.803GB (20%) - Free: 3.197GB (80%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm3;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm3;Process: IPS_FTP;OK;HARD;1;OK - Found 1 Instance(s) of "iftpsvc.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm3;Process: IPV_FPT;OK;HARD;1;OK - Found 1 Instance(s) of "iftpsvc.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm3;Process: LicMgr;OK;HARD;1;OK - Found 1 Instance(s) of "LicenceManager.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm3;Process: MMSService;OK;HARD;1;OK - Found 1 Instance(s) of "MMSService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm3;Process: SVServer;OK;HARD;1;OK - Found 1 Instance(s) of "SVServer.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm3;SSH Service;OK;HARD;1;OK - Found 1 Instance(s) of "sshserver.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm4;C:\ Drive Space;OK;HARD;1;OK - Proxy Total=1397.19GB, Used=1134.96GB (81.2%), Free=262.23GB (18.8%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm4;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.10%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm4;D:\ Drive Space;OK;HARD;1;OK - Proxy Total=1397.19GB, Used=1134.97GB (81.2%), Free=262.22GB (18.8%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm4;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 4.000GB - Used: 0.905GB (23%) - Free: 3.095GB (77%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm4;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm4;Process: IPS_FTP;OK;HARD;1;OK - Found 1 Instance(s) of "iftpsvc.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm4;Process: IPV_FPT;OK;HARD;1;OK - Found 1 Instance(s) of "iftpsvc.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm4;Process: LicMgr;OK;HARD;1;OK - Found 1 Instance(s) of "LicenceManager.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm4;Process: MMSService;OK;HARD;1;OK - Found 1 Instance(s) of "MMSService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm4;Process: SVServer;OK;HARD;1;OK - Found 1 Instance(s) of "SVServer.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvstrm4;SSH Service;OK;HARD;1;OK - Found 1 Instance(s) of "sshserver.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx1;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.04%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx1;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.910GB (46%) - Free: 1.080GB (54%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx1;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx1;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx1;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx10;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.06%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx10;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.850GB (43%) - Free: 1.140GB (57%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx10;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx10;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx10;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx10;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx10;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx10e1;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.06%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx10e1;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.850GB (43%) - Free: 1.140GB (57%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx10e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx10e1;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx10e1;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx10e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx10e1;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx11;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.04%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx11;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.872GB (44%) - Free: 1.118GB (56%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx11;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.17 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx11;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx11;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx11;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx11;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx11e1;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.03%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx11e1;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.872GB (44%) - Free: 1.118GB (56%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx11e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx11e1;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx11e1;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx11e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx11e1;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx12;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.03%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx12;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.840GB (42%) - Free: 1.150GB (58%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx12;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx12;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx12;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx12;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx12;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx12e1;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.03%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx12e1;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.839GB (42%) - Free: 1.151GB (58%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx12e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx12e1;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx12e1;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx12e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx12e1;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx13;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.05%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx13;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.826GB (42%) - Free: 1.164GB (58%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx13;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx13;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx13;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx13;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx13;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx13e1;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.04%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx13e1;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.826GB (42%) - Free: 1.164GB (58%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx13e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx13e1;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx13e1;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx13e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx13e1;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx14;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.04%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx14;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.879GB (44%) - Free: 1.111GB (56%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx14;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx14;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx14;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx14;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx14;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx14e1;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.04%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx14e1;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.879GB (44%) - Free: 1.111GB (56%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx14e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx14e1;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx14e1;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx14e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx14e1;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx15;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.04%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx15;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.853GB (43%) - Free: 1.137GB (57%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx15;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx15;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx15;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx15;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx15;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx15e1;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.04%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx15e1;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.854GB (43%) - Free: 1.136GB (57%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx15e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx15e1;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx15e1;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx15e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx15e1;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx16;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.05%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx16;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.807GB (41%) - Free: 1.183GB (59%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx16;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx16;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx16;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx16;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx16;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx16e1;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.05%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx16e1;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.806GB (41%) - Free: 1.183GB (59%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx16e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx16e1;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx16e1;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx16e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx16e1;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx17;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.03%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx17;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.720GB (36%) - Free: 1.270GB (64%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx17;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx17;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx17;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx17;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx17;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx17e1;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.03%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx17e1;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.719GB (36%) - Free: 1.271GB (64%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx17e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx17e1;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx17e1;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx17e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx17e1;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx18;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 9.82%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx18;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.887GB (45%) - Free: 1.103GB (55%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx18;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx18;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx18;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx18;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx18;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx18e1;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 9.73%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx18e1;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.886GB (45%) - Free: 1.104GB (55%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx18e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx18e1;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx18e1;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx18e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx18e1;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx19;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.04%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx19;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.863GB (43%) - Free: 1.127GB (57%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx19;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx19;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx19;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx19;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx19;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx19e1;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.04%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx19e1;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.864GB (43%) - Free: 1.126GB (57%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx19e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx19e1;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx19e1;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx19e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx19e1;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx1e1;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.04%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx1e1;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.910GB (46%) - Free: 1.080GB (54%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx1e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx1e1;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx1e1;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx1e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx1e1;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx2;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 5.32%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx2;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.920GB (46%) - Free: 1.069GB (54%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx2;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx2;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx2;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx2;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx20;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.04%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx20;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.835GB (42%) - Free: 1.155GB (58%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx20;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx20;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx20;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx20;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx20;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx20e1;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.04%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx20e1;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.835GB (42%) - Free: 1.155GB (58%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx20e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx20e1;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx20e1;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx20e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx20e1;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx21;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.04%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx21;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.795GB (40%) - Free: 1.195GB (60%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx21;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx21;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx21;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx21;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx21;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx21e1;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.04%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx21e1;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.794GB (40%) - Free: 1.196GB (60%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx21e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx21e1;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx21e1;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx21e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx21e1;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx22;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.05%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx22;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.849GB (43%) - Free: 1.141GB (57%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx22;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx22;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx22;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx22;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx22;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx22e1;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.05%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx22e1;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.850GB (43%) - Free: 1.140GB (57%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx22e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx22e1;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx22e1;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx22e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx22e1;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx23;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.04%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx23;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.799GB (40%) - Free: 1.191GB (60%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx23;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx23;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx23;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx23;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx23;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx23e1;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.04%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx23e1;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.799GB (40%) - Free: 1.191GB (60%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx23e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx23e1;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx23e1;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx23e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx23e1;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx24;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.03%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx24;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.816GB (41%) - Free: 1.174GB (59%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx24;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx24;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx24;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx24;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx24;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx24e1;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.03%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx24e1;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.816GB (41%) - Free: 1.174GB (59%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx24e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx24e1;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx24e1;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx24e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx24e1;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx25;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.04%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx25;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.815GB (41%) - Free: 1.175GB (59%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx25;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx25;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx25;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx25;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx25;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx25e1;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.04%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx25e1;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.815GB (41%) - Free: 1.175GB (59%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx25e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx25e1;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx25e1;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx25e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx25e1;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx26;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.04%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx26;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.795GB (40%) - Free: 1.195GB (60%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx26;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx26;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx26;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx26;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx26;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx26e1;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.04%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx26e1;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.794GB (40%) - Free: 1.196GB (60%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx26e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx26e1;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx26e1;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx26e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx26e1;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx27;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.04%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx27;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.843GB (42%) - Free: 1.147GB (58%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx27;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx27;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx27;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx27;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx27;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx27e1;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.05%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx27e1;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.843GB (42%) - Free: 1.147GB (58%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx27e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx27e1;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx27e1;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx27e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx27e1;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx28;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.05%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx28;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.827GB (42%) - Free: 1.163GB (58%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx28;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx28;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx28;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx28;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx28;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx28e1;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.05%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx28e1;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.826GB (41%) - Free: 1.164GB (59%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx28e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx28e1;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx28e1;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx28e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx28e1;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx29;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.04%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx29;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.824GB (41%) - Free: 1.166GB (59%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx29;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx29;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx29;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx29;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx29;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx29e1;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.03%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx29e1;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.824GB (41%) - Free: 1.166GB (59%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx29e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx29e1;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx29e1;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx29e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx29e1;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx2e1;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 5.59%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx2e1;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.920GB (46%) - Free: 1.070GB (54%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx2e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx2e1;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx2e1;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx2e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx2e1;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx3;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 4.89%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx3;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.927GB (47%) - Free: 1.063GB (53%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx3;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx3;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx3;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx3;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx3;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx30;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.04%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx30;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.842GB (42%) - Free: 1.148GB (58%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx30;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx30;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx30;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx30;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx30;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx30e1;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.04%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx30e1;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.842GB (42%) - Free: 1.148GB (58%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx30e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx30e1;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx30e1;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx30e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx30e1;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx31;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.05%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx31;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.900GB (45%) - Free: 1.090GB (55%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx31;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx31;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx31;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx31;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx31;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx31e1;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.05%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx31e1;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.899GB (45%) - Free: 1.091GB (55%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx31e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx31e1;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx31e1;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx31e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx31e1;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx32;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.04%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx32;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 1.073GB (54%) - Free: 0.917GB (46%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx32;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx32;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx32;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx32;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx32;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx32e1;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.04%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx32e1;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 1.073GB (54%) - Free: 0.917GB (46%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx32e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx32e1;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx32e1;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx32e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx32e1;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx33;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.04%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx33;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.832GB (42%) - Free: 1.158GB (58%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx33;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx33;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx33;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx33;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx33;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx33e1;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.04%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx33e1;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.832GB (42%) - Free: 1.158GB (58%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx33e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx33e1;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx33e1;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx33e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx33e1;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx34;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.05%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx34;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.806GB (40%) - Free: 1.184GB (60%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx34;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx34;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx34;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx34;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx34;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx34e1;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.06%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx34e1;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.805GB (40%) - Free: 1.185GB (60%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx34e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx34e1;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx34e1;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx34e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx34e1;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx35;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.04%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx35;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.811GB (41%) - Free: 1.179GB (59%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx35;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx35;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx35;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx35;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx35;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx35e1;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.04%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx35e1;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.811GB (41%) - Free: 1.179GB (59%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx35e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx35e1;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx35e1;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx35e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx35e1;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx3e1;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 7.12%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx3e1;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.930GB (47%) - Free: 1.060GB (53%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx3e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx3e1;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx3e1;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx3e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx3e1;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx4;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 14.55%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx4;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 1.029GB (52%) - Free: 0.961GB (48%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx4;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx4;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx4;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx4;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx4;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx4e1;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 14.37%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx4e1;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 1.025GB (52%) - Free: 0.965GB (48%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx4e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx4e1;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx4e1;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx4e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx4e1;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx5;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 14.64%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx5;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 1.063GB (53%) - Free: 0.927GB (47%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx5;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx5;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx5;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx5;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx5;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx5e1;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 14.70%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx5e1;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 1.065GB (54%) - Free: 0.925GB (46%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx5e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx5e1;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx5e1;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx5e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx5e1;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx6;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 14.28%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx6;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 1.049GB (53%) - Free: 0.941GB (47%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx6;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx6;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx6;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx6;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx6;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx6e1;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 11.09%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx6e1;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.975GB (49%) - Free: 1.015GB (51%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx6e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx6e1;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx6e1;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx6e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx6e1;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx7;CPU Load;UNKNOWN;HARD;3;UNKNOWN - Plugin Timed out (15 sec)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx7;Memory Usage;UNKNOWN;HARD;3;UNKNOWN - Plugin Timed out (15 sec)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx7;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx7;Process: Siphon;UNKNOWN;HARD;3;UNKNOWN - Plugin Timed out (15 sec)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx7;Process: XCode;UNKNOWN;HARD;2;UNKNOWN - Plugin Timed out (15 sec)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx7;SafeNet Service;UNKNOWN;HARD;2;UNKNOWN - Plugin Timed out (15 sec)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx7;Service: Apache;UNKNOWN;HARD;3;UNKNOWN - Plugin Timed out (15 sec)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx7e1;CPU Load;UNKNOWN;HARD;3;UNKNOWN - Plugin Timed out (15 sec)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx7e1;Memory Usage;UNKNOWN;HARD;3;UNKNOWN - Plugin Timed out (15 sec)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx7e1;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx7e1;Process: Siphon;UNKNOWN;HARD;3;UNKNOWN - Plugin Timed out (15 sec)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx7e1;Process: XCode;UNKNOWN;HARD;2;UNKNOWN - Plugin Timed out (15 sec)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx7e1;SafeNet Service;UNKNOWN;HARD;2;UNKNOWN - Plugin Timed out (15 sec)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx7e1;Service: Apache;UNKNOWN;HARD;3;UNKNOWN - Plugin Timed out (15 sec)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx8;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 7.89%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx8;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.944GB (47%) - Free: 1.046GB (53%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx8;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx8;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx8;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx8;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx8;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx8e1;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 4.94%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx8e1;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.944GB (47%) - Free: 1.046GB (53%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx8e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx8e1;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx8e1;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx8e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx8e1;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx9;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.04%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx9;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.812GB (41%) - Free: 1.178GB (59%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx9;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx9;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx9;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx9;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx9;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx9e1;CPU Load;OK;HARD;1;OK (Sample Period 300 sec) - Average CPU Utilisation 0.04%
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx9e1;Memory Usage;OK;HARD;1;OK - Physical Memory: Total: 1.990GB - Used: 0.812GB (41%) - Free: 1.178GB (59%)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx9e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx9e1;Process: Siphon;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx9e1;Process: XCode;OK;HARD;1;OK - Found 1 Instance(s) of "XCodeService.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx9e1;SafeNet Service;OK;HARD;1;OK - Found 1 Instance(s) of "spnsrvnt.exe" running (0 excluded).  (List is on next line)
+[1415682000] CURRENT SERVICE STATE: nycnn-ipvx9e1;Service: Apache;OK;HARD;1;OK - Found 1 Services(s), 1 OK and 0 with problems (0 excluded). 'Apache2.2' (Apache2.2) is Running.
+[1415682000] CURRENT SERVICE STATE: nycnn-kickstart;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-mamdb1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-mamdb2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-mamfog;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-mamkey1;Disk Space on /keyframes;OK;HARD;1;DISK OK - free space: /keyframes 296150 MB (27% inode=39%):
+[1415682000] CURRENT SERVICE STATE: nycnn-mamkey1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-mamkey2;Disk Space on /keyframes;OK;HARD;1;DISK OK - free space: /keyframes 56500 MB (5% inode=19%):
+[1415682000] CURRENT SERVICE STATE: nycnn-mamkey2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-mammq1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-mammq2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-mq1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ms2app3;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ms2app4;Current Load;OK;HARD;1;OK - load average: 0.57, 0.60, 0.55
+[1415682000] CURRENT SERVICE STATE: nycnn-ms2app4;GridA_Projects_Folder_Count;OK;HARD;1;Grid A OK: 4001  subdirectories in projects
+[1415682000] CURRENT SERVICE STATE: nycnn-ms2app4;GridA_Render_Folder_Count;OK;HARD;1;Grid A OK: 4001  subdirectories in Render Files
+[1415682000] CURRENT SERVICE STATE: nycnn-ms2app4;GridA_Resources_Folder_Count;OK;HARD;1;Grid A OK: 3973  subdirectories in resources
+[1415682000] CURRENT SERVICE STATE: nycnn-ms2app4;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ms2db1;Disk Space on /oracle;OK;HARD;1;DISK OK - free space: /oracle 897664 MB (91% inode=99%):
+[1415682000] CURRENT SERVICE STATE: nycnn-ms2db1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ms2db2;Disk Space on /oracle;OK;HARD;1;DISK OK - free space: /oracle 766972 MB (78% inode=99%):
+[1415682000] CURRENT SERVICE STATE: nycnn-ms2db2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ms2db3;Disk Space on /oracle;OK;HARD;1;DISK OK - free space: /oracle 860559 MB (88% inode=99%):
+[1415682000] CURRENT SERVICE STATE: nycnn-ms2db3;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ms2fsd;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ms2fsd1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ms2fsd2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ms2stills1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.43 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-ms2stills2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-nag1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.35 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-nag2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-nag4;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1415682000] CURRENT SERVICE STATE: nycnn-splunk;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1415682000] CURRENT SERVICE STATE: nyhdscheduler;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 598 bytes in 0.001 second response time
+[1415682000] CURRENT SERVICE STATE: nyhdscheduler;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1415682000] CURRENT SERVICE STATE: nymamkey;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1415682000] CURRENT SERVICE STATE: nymq;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1415682000] CURRENT SERVICE STATE: nymq;WMQ JMSBRIDGE_BKR check;OK;HARD;1;OK - check_by_ssh: Remote command '/usr/local/nagios/libexec/wmqcheckwithrestart.pl messages JMSBRIDGE_BKR 3 10' returned status 0
+[1415682000] CURRENT SERVICE STATE: nymq;WMQ MS2_BKR check;OK;HARD;1;OK - check_by_ssh: Remote command '/usr/local/nagios/libexec/wmqcheckwithrestart.pl messages MS2_BKR 20 50' returned status 0
+[1415682000] CURRENT SERVICE STATE: nyproxygenhd;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.35 ms
+[1415682000] CURRENT SERVICE STATE: nyvideodrop;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1415682000] CURRENT SERVICE STATE: omnclda01-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.33 ms
+[1415682000] CURRENT SERVICE STATE: omnclda01e1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1415682000] CURRENT SERVICE STATE: omnclda02-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1415682000] CURRENT SERVICE STATE: omnclda02e1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1415682000] CURRENT SERVICE STATE: omnclda03-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1415682000] CURRENT SERVICE STATE: omnclda03e1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1415682000] CURRENT SERVICE STATE: omnhbcba01-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1415682000] CURRENT SERVICE STATE: omnhbcba02-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1415682000] CURRENT SERVICE STATE: omnhbcba03-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1415682000] CURRENT SERVICE STATE: omnhbcba04-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1415682000] CURRENT SERVICE STATE: omnhbcba05-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1415682000] CURRENT SERVICE STATE: omnhbcba06-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1415682000] CURRENT SERVICE STATE: omnhbcba07-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1415682000] CURRENT SERVICE STATE: omnhbcba08-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1415682000] CURRENT SERVICE STATE: omnhbcba09-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1415682000] CURRENT SERVICE STATE: omnhbcba10-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1415682000] CURRENT SERVICE STATE: omnhbcba11-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1415682000] CURRENT SERVICE STATE: omnhbcba12-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1415682000] CURRENT SERVICE STATE: omnldap1-ny;LDAP;OK;HARD;1;LDAP OK - 0.002 seconds response time
+[1415682000] CURRENT SERVICE STATE: omnldap2-ny;LDAP;OK;HARD;1;LDAP OK - 0.002 seconds response time
+[1415682000] CURRENT SERVICE STATE: omnmas1app-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1415682000] CURRENT SERVICE STATE: omnmas1app1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1415682000] CURRENT SERVICE STATE: omnmas1app2-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1415682000] CURRENT SERVICE STATE: omnmas1db-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1415682000] CURRENT SERVICE STATE: omnmas1db1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1415682000] CURRENT SERVICE STATE: omnmas1db2-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.33 ms
+[1415682000] CURRENT SERVICE STATE: omnmas2app-ny;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1415682000] CURRENT SERVICE STATE: omnmas2app1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1415682000] CURRENT SERVICE STATE: omnmas2app2-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.34 ms
+[1415682000] CURRENT SERVICE STATE: omnmas2db-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1415682000] CURRENT SERVICE STATE: omnmas2db1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1415682000] CURRENT SERVICE STATE: omnmas2db2-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1415682000] CURRENT SERVICE STATE: omnmdir01-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1415682000] CURRENT SERVICE STATE: omnmdir01e1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1415682000] CURRENT SERVICE STATE: omnmdir02-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1415682000] CURRENT SERVICE STATE: omnmdir02e1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1415682000] CURRENT SERVICE STATE: omnmdir03-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1415682000] CURRENT SERVICE STATE: omnmdir03e1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1415682000] CURRENT SERVICE STATE: omnmdir04-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1415682000] CURRENT SERVICE STATE: omnmdir04e1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1415682000] CURRENT SERVICE STATE: omnmdk01-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.54 ms
+[1415682000] CURRENT SERVICE STATE: omnmdk01h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.55 ms
+[1415682000] CURRENT SERVICE STATE: omnmdk02-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1415682000] CURRENT SERVICE STATE: omnmdk02h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.87 ms
+[1415682000] CURRENT SERVICE STATE: omnmdk03-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.69 ms
+[1415682000] CURRENT SERVICE STATE: omnmdk03h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 5.68 ms
+[1415682000] CURRENT SERVICE STATE: omnmdk04-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1415682000] CURRENT SERVICE STATE: omnmdk04h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.46 ms
+[1415682000] CURRENT SERVICE STATE: omnmdk05-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.44 ms
+[1415682000] CURRENT SERVICE STATE: omnmdk05h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.48 ms
+[1415682000] CURRENT SERVICE STATE: omnmdk06-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.46 ms
+[1415682000] CURRENT SERVICE STATE: omnmdk06h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.49 ms
+[1415682000] CURRENT SERVICE STATE: omnmdk07-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.54 ms
+[1415682000] CURRENT SERVICE STATE: omnmdk07h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.46 ms
+[1415682000] CURRENT SERVICE STATE: omnmdk08-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.45 ms
+[1415682000] CURRENT SERVICE STATE: omnmdk08h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1415682000] CURRENT SERVICE STATE: omnmdk09-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.44 ms
+[1415682000] CURRENT SERVICE STATE: omnmdk09h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.48 ms
+[1415682000] CURRENT SERVICE STATE: omnmdk10-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.46 ms
+[1415682000] CURRENT SERVICE STATE: omnmdk10h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1415682000] CURRENT SERVICE STATE: omnmdk11-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.42 ms
+[1415682000] CURRENT SERVICE STATE: omnmdk11h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1415682000] CURRENT SERVICE STATE: omnmdk12-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.42 ms
+[1415682000] CURRENT SERVICE STATE: omnmdk12h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.49 ms
+[1415682000] CURRENT SERVICE STATE: omnmdk13-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.51 ms
+[1415682000] CURRENT SERVICE STATE: omnmdk13h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.51 ms
+[1415682000] CURRENT SERVICE STATE: omnmdk14-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.42 ms
+[1415682000] CURRENT SERVICE STATE: omnmdk14h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.48 ms
+[1415682000] CURRENT SERVICE STATE: omnmdk15-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.45 ms
+[1415682000] CURRENT SERVICE STATE: omnmdk15h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.45 ms
+[1415682000] CURRENT SERVICE STATE: omnmdk16-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.43 ms
+[1415682000] CURRENT SERVICE STATE: omnmdk16h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.48 ms
+[1415682000] CURRENT SERVICE STATE: omnmdk17-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1415682000] CURRENT SERVICE STATE: omnmdk17h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.87 ms
+[1415682000] CURRENT SERVICE STATE: omnmdk18-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.56 ms
+[1415682000] CURRENT SERVICE STATE: omnmdk18h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.44 ms
+[1415682000] CURRENT SERVICE STATE: omnmdk19-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.45 ms
+[1415682000] CURRENT SERVICE STATE: omnmdk19h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.49 ms
+[1415682000] CURRENT SERVICE STATE: omnmgsm-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1415682000] CURRENT SERVICE STATE: omnspsm-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1415682000] CURRENT SERVICE STATE: rt-nycc3750tgr-ilo;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.27 ms
+[1415682000] CURRENT SERVICE STATE: rt-nycc3750tgr-ms2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.51 ms
+[1415682000] CURRENT SERVICE STATE: rt-nyccfcp-1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.62 ms
+[1415682000] CURRENT SERVICE STATE: rt-nyccfcp-2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.02 ms
+[1415682000] CURRENT SERVICE STATE: rt-nycchdagg-a;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.55 ms
+[1415682000] CURRENT SERVICE STATE: rt-nycchdagg-b;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.50 ms
+[1415682000] CURRENT SERVICE STATE: rt-nyccmediagrid;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.43 ms
+[1415682000] CURRENT SERVICE STATE: rt-nyccspectrum;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.53 ms
+[1415682000] CURRENT SERVICE STATE: spider;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1415682000] CURRENT SERVICE STATE: spider-tmp;/nymoneygfx Free Space;CRITICAL;HARD;3;(Return code of 127 is out of bounds - plugin may be missing)
+[1415682000] CURRENT SERVICE STATE: spider-tmp;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1415682002] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415682602] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415683202] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415683802] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415684402] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415685002] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415685272] Auto-save of retention data completed successfully.
+[1415685602] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415686202] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415686802] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415687402] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415688002] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415688602] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415688872] Auto-save of retention data completed successfully.
+[1415689202] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415689802] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415690402] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415691002] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415691602] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415692202] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415692472] Auto-save of retention data completed successfully.
+[1415692802] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415693402] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415694002] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415694602] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415695202] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415695802] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415696072] Auto-save of retention data completed successfully.
+[1415696402] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415697002] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415697602] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415698202] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415698802] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415699402] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415699672] Auto-save of retention data completed successfully.
+[1415700002] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415700602] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415701202] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415701802] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415702402] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415703002] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415703162] SERVICE ALERT: nycnn-ipvapilic;CPU Load;WARNING;SOFT;1;WARNING (Sample Period 300 sec) - [Triggered by _AvgCPU>90] - Average CPU Utilisation 100.00%
+[1415703222] SERVICE ALERT: nycnn-ipvapilic;CPU Load;OK;SOFT;2;OK (Sample Period 60 sec) - Average CPU Utilisation 0.10%
+[1415703272] Auto-save of retention data completed successfully.
+[1415703602] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415704202] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415704612] SERVICE ALERT: omnmdk01h0-ny;PING;CRITICAL;SOFT;1;PING CRITICAL - Packet loss = 28%, RTA = 2170.81 ms
+[1415704662] SERVICE ALERT: omnmdk01h0-ny;PING;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 54.82 ms
+[1415704802] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415705402] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415706002] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415706602] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415706872] Auto-save of retention data completed successfully.
+[1415707202] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415707312] SERVICE ALERT: omnmdk02-ny;PING;CRITICAL;SOFT;1;PING CRITICAL - Packet loss = 90%, RTA = 0.58 ms
+[1415707312] SERVICE ALERT: omnmdk02h0-ny;PING;CRITICAL;SOFT;1;PING CRITICAL - Packet loss = 90%, RTA = 0.54 ms
+[1415707362] SERVICE ALERT: omnmdk02-ny;PING;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1415707362] SERVICE ALERT: omnmdk02h0-ny;PING;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 0.49 ms
+[1415707802] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415708402] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415709002] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415709602] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415710202] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415710472] Auto-save of retention data completed successfully.
+[1415710642] SERVICE ALERT: nycnn-adbeame3;AME Job status;CRITICAL;SOFT;1;Job 10585390 remains in a queued state
+[1415710702] SERVICE ALERT: nycnn-adbeame3;AME Job status;OK;SOFT;2;Job 10585390 progress is  95.91 :
+[1415710802] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415711402] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415711944] Caught SIGHUP, restarting...
+[1415711944] Nagios 3.3.1 starting... (PID=5157)
+[1415711944] Local time is Tue Nov 11 08:19:04 EST 2014
+[1415711944] LOG VERSION: 2.0
+[1415711978] Caught SIGHUP, restarting...
+[1415711978] Nagios 3.3.1 starting... (PID=5157)
+[1415711978] Local time is Tue Nov 11 08:19:38 EST 2014
+[1415711978] LOG VERSION: 2.0
+[1415711991] EXTERNAL COMMAND: DISABLE_SVC_CHECK;spider-tmp;/nymoneygfx Free Space
+[1415712004] EXTERNAL COMMAND: DISABLE_SVC_NOTIFICATIONS;spider-tmp;/nymoneygfx Free Space
+[1415712008] EXTERNAL COMMAND: ENABLE_SVC_CHECK;spider-tmp;/nymoneygfx Free Space
+[1415712018] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415712018] SERVICE ALERT: spider-tmp;/nymoneygfx Free Space;CRITICAL;SOFT;1;(Return code of 127 is out of bounds - plugin may be missing)
+[1415712138] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415712138] SERVICE ALERT: spider-tmp;/nymoneygfx Free Space;CRITICAL;SOFT;2;(Return code of 127 is out of bounds - plugin may be missing)
+[1415712258] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415712258] SERVICE ALERT: spider-tmp;/nymoneygfx Free Space;CRITICAL;HARD;3;(Return code of 127 is out of bounds - plugin may be missing)
+[1415712554] Caught SIGHUP, restarting...
+[1415712554] Nagios 3.3.1 starting... (PID=5157)
+[1415712554] Local time is Tue Nov 11 08:29:14 EST 2014
+[1415712554] LOG VERSION: 2.0
+[1415712614] Caught SIGHUP, restarting...
+[1415712614] Nagios 3.3.1 starting... (PID=5157)
+[1415712614] Local time is Tue Nov 11 08:30:14 EST 2014
+[1415712614] LOG VERSION: 2.0
+[1415712627] EXTERNAL COMMAND: DISABLE_SVC_NOTIFICATIONS;spider-tmp;/nymoneygfx Free Space
+[1415712636] EXTERNAL COMMAND: DISABLE_SVC_NOTIFICATIONS;spider-tmp;/nymoneygfx Free Space
+[1415712774] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415712774] SERVICE ALERT: spider-tmp;/nymoneygfx Free Space;CRITICAL;SOFT;1;(Return code of 127 is out of bounds - plugin may be missing)
+[1415712894] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415712894] SERVICE ALERT: spider-tmp;/nymoneygfx Free Space;CRITICAL;SOFT;2;(Return code of 127 is out of bounds - plugin may be missing)
+[1415713014] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415713014] SERVICE ALERT: spider-tmp;/nymoneygfx Free Space;CRITICAL;HARD;3;(Return code of 127 is out of bounds - plugin may be missing)
+[1415713614] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415713914] SERVICE ALERT: omnmdk03h0-ny;PING;CRITICAL;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1415713924] HOST ALERT: omnmdk03-ny;DOWN;SOFT;1;(Host Check Timed Out)
+[1415713964] HOST ALERT: omnmdk03-ny;UP;SOFT;2;PING OK - Packet loss = 0%, RTA = 0.56 ms
+[1415713964] SERVICE ALERT: omnmdk03h0-ny;PING;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1415714146] Caught SIGHUP, restarting...
+[1415714146] Nagios 3.3.1 starting... (PID=5157)
+[1415714146] Local time is Tue Nov 11 08:55:46 EST 2014
+[1415714146] LOG VERSION: 2.0
+[1415714189] Caught SIGHUP, restarting...
+[1415714189] Nagios 3.3.1 starting... (PID=5157)
+[1415714189] Local time is Tue Nov 11 08:56:29 EST 2014
+[1415714189] LOG VERSION: 2.0
+[1415714219] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415714223] Caught SIGHUP, restarting...
+[1415714223] Nagios 3.3.1 starting... (PID=5157)
+[1415714223] Local time is Tue Nov 11 08:57:03 EST 2014
+[1415714223] LOG VERSION: 2.0
+[1415714264] Caught SIGHUP, restarting...
+[1415714264] Nagios 3.3.1 starting... (PID=5157)
+[1415714264] Local time is Tue Nov 11 08:57:44 EST 2014
+[1415714264] LOG VERSION: 2.0
+[1415714274] EXTERNAL COMMAND: DISABLE_SVC_NOTIFICATIONS;spider-tmp;/nymoneygfx Free Space
+[1415714282] EXTERNAL COMMAND: DISABLE_SVC_NOTIFICATIONS;spider-tmp;/nymoneygfx Free Space
+[1415714514] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415714514] SERVICE ALERT: spider-tmp;/nymoneygfx Free Space;CRITICAL;SOFT;1;(Return code of 127 is out of bounds - plugin may be missing)
+[1415714634] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415714634] SERVICE ALERT: spider-tmp;/nymoneygfx Free Space;CRITICAL;SOFT;2;(Return code of 127 is out of bounds - plugin may be missing)
+[1415714754] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415714754] SERVICE ALERT: spider-tmp;/nymoneygfx Free Space;CRITICAL;HARD;3;(Return code of 127 is out of bounds - plugin may be missing)
+[1415715354] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415715954] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415716554] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415717144] SERVICE ALERT: omnmdk04h0-ny;PING;CRITICAL;SOFT;1;PING CRITICAL - Packet loss = 16%, RTA = 2290.66 ms
+[1415717154] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415717204] SERVICE ALERT: omnmdk04h0-ny;PING;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 0.60 ms
+[1415717754] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415717864] Auto-save of retention data completed successfully.
+[1415718354] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415718570] Caught SIGHUP, restarting...
+[1415718570] Nagios 3.3.1 starting... (PID=5157)
+[1415718570] Local time is Tue Nov 11 10:09:30 EST 2014
+[1415718570] LOG VERSION: 2.0
+[1415718623] Caught SIGHUP, restarting...
+[1415718623] Nagios 3.3.1 starting... (PID=5157)
+[1415718623] Local time is Tue Nov 11 10:10:23 EST 2014
+[1415718623] LOG VERSION: 2.0
+[1415718636] EXTERNAL COMMAND: DISABLE_SVC_NOTIFICATIONS;spider-tmp;Disk Space on /nymoneygfx
+[1415718643] EXTERNAL COMMAND: DISABLE_SVC_NOTIFICATIONS;spider-tmp;Disk Space on /nymoneygfx
+[1415718953] SERVICE ALERT: spider-tmp;Disk Space on /nymoneygfx;UNKNOWN;SOFT;1;Incorrect command line arguments supplied
+[1415719073] SERVICE ALERT: spider-tmp;Disk Space on /nymoneygfx;UNKNOWN;SOFT;2;Incorrect command line arguments supplied
+[1415719169] Caught SIGHUP, restarting...
+[1415719169] Nagios 3.3.1 starting... (PID=5157)
+[1415719169] Local time is Tue Nov 11 10:19:29 EST 2014
+[1415719169] LOG VERSION: 2.0
+[1415719258] Caught SIGHUP, restarting...
+[1415719258] Nagios 3.3.1 starting... (PID=5157)
+[1415719258] Local time is Tue Nov 11 10:20:58 EST 2014
+[1415719258] LOG VERSION: 2.0
+[1415719265] EXTERNAL COMMAND: DISABLE_SVC_NOTIFICATIONS;spider-tmp;Disk Space on /nymoneygfx
+[1415719508] SERVICE ALERT: spider-tmp;Disk Space on /nymoneygfx;UNKNOWN;SOFT;1;Incorrect command line arguments supplied
+[1415719628] SERVICE ALERT: spider-tmp;Disk Space on /nymoneygfx;UNKNOWN;SOFT;2;Incorrect command line arguments supplied
+[1415719748] SERVICE ALERT: spider-tmp;Disk Space on /nymoneygfx;UNKNOWN;HARD;3;Incorrect command line arguments supplied
+[1415720290] Caught SIGHUP, restarting...
+[1415720290] Nagios 3.3.1 starting... (PID=5157)
+[1415720290] Local time is Tue Nov 11 10:38:10 EST 2014
+[1415720290] LOG VERSION: 2.0
+[1415720314] Caught SIGHUP, restarting...
+[1415720314] Nagios 3.3.1 starting... (PID=5157)
+[1415720314] Local time is Tue Nov 11 10:38:34 EST 2014
+[1415720314] LOG VERSION: 2.0
+[1415720327] EXTERNAL COMMAND: DISABLE_SVC_NOTIFICATIONS;spider-tmp;Disk Space on /nymoneygfx
+[1415720484] SERVICE ALERT: spider-tmp;Disk Space on /nymoneygfx;UNKNOWN;SOFT;1;Incorrect command line arguments supplied
+[1415720604] SERVICE ALERT: spider-tmp;Disk Space on /nymoneygfx;UNKNOWN;SOFT;2;Incorrect command line arguments supplied
+[1415720724] SERVICE ALERT: spider-tmp;Disk Space on /nymoneygfx;UNKNOWN;HARD;3;Incorrect command line arguments supplied
+[1415723034] SERVICE ALERT: omnmgsm-ny;PING;CRITICAL;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1415723074] HOST ALERT: omnmgsm-ny;DOWN;SOFT;1;(Host Check Timed Out)
+[1415723094] SERVICE ALERT: omnmgsm-ny;PING;CRITICAL;HARD;2;PING CRITICAL - Packet loss = 100%
+[1415723144] HOST ALERT: omnmgsm-ny;UP;SOFT;2;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1415723144] SERVICE ALERT: omnmgsm-ny;PING;OK;HARD;2;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1415723914] Auto-save of retention data completed successfully.
+[1415724620] Caught SIGHUP, restarting...
+[1415724620] Nagios 3.3.1 starting... (PID=5157)
+[1415724620] Local time is Tue Nov 11 11:50:20 EST 2014
+[1415724620] LOG VERSION: 2.0
+[1415724630] Warning: Check result queue contained results for service 'Disk Space on /nymoneygfx' on host 'spider-tmp', but the service could not be found!  Perhaps you forgot to define the service in your config files?
+[1415724639] Caught SIGHUP, restarting...
+[1415724639] Nagios 3.3.1 starting... (PID=5157)
+[1415724639] Local time is Tue Nov 11 11:50:39 EST 2014
+[1415724639] LOG VERSION: 2.0
+[1415724651] EXTERNAL COMMAND: DISABLE_SVC_NOTIFICATIONS;spider-tmp;Disk Space on /nymoneygfx
+[1415724658] EXTERNAL COMMAND: DISABLE_SVC_NOTIFICATIONS;spider-tmp;Disk Space on /nymoneygfx
+[1415724979] SERVICE ALERT: spider-tmp;Disk Space on /nymoneygfx;CRITICAL;SOFT;1;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1415725099] SERVICE ALERT: spider-tmp;Disk Space on /nymoneygfx;CRITICAL;SOFT;2;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1415725219] SERVICE ALERT: spider-tmp;Disk Space on /nymoneygfx;CRITICAL;HARD;3;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1415725261] Caught SIGHUP, restarting...
+[1415725261] Nagios 3.3.1 starting... (PID=5157)
+[1415725261] Local time is Tue Nov 11 12:01:01 EST 2014
+[1415725261] LOG VERSION: 2.0
+[1415725287] Caught SIGHUP, restarting...
+[1415725287] Nagios 3.3.1 starting... (PID=5157)
+[1415725287] Local time is Tue Nov 11 12:01:27 EST 2014
+[1415725287] LOG VERSION: 2.0
+[1415725295] EXTERNAL COMMAND: DISABLE_SVC_NOTIFICATIONS;spider-tmp;Disk Space on /nymoneygfx
+[1415725457] SERVICE ALERT: spider-tmp;Disk Space on /nymoneygfx;CRITICAL;SOFT;1;NRPE: Command '20' not defined
+[1415725577] SERVICE ALERT: spider-tmp;Disk Space on /nymoneygfx;CRITICAL;SOFT;2;NRPE: Command '20' not defined
+[1415725697] SERVICE ALERT: spider-tmp;Disk Space on /nymoneygfx;CRITICAL;HARD;3;NRPE: Command '20' not defined
+[1415725774] Caught SIGHUP, restarting...
+[1415725774] Nagios 3.3.1 starting... (PID=5157)
+[1415725774] Local time is Tue Nov 11 12:09:34 EST 2014
+[1415725774] LOG VERSION: 2.0
+[1415725811] Caught SIGHUP, restarting...
+[1415725811] Nagios 3.3.1 starting... (PID=5157)
+[1415725811] Local time is Tue Nov 11 12:10:11 EST 2014
+[1415725811] LOG VERSION: 2.0
+[1415725818] EXTERNAL COMMAND: DISABLE_SVC_NOTIFICATIONS;spider-tmp;Disk Space on /nymoneygfx
+[1415726131] SERVICE ALERT: spider-tmp;Disk Space on /nymoneygfx;CRITICAL;SOFT;1;NRPE: Command 'check_disk' not defined
+[1415726251] SERVICE ALERT: spider-tmp;Disk Space on /nymoneygfx;CRITICAL;SOFT;2;NRPE: Command 'check_disk' not defined
+[1415726371] SERVICE ALERT: spider-tmp;Disk Space on /nymoneygfx;CRITICAL;HARD;3;NRPE: Command 'check_disk' not defined
+[1415726716] Caught SIGHUP, restarting...
+[1415726716] Nagios 3.3.1 starting... (PID=5157)
+[1415726716] Local time is Tue Nov 11 12:25:16 EST 2014
+[1415726716] LOG VERSION: 2.0
+[1415726857] Caught SIGHUP, restarting...
+[1415726857] Nagios 3.3.1 starting... (PID=5157)
+[1415726857] Local time is Tue Nov 11 12:27:37 EST 2014
+[1415726857] LOG VERSION: 2.0
+[1415726872] EXTERNAL COMMAND: DISABLE_SVC_NOTIFICATIONS;spider-tmp;Disk Space on /nymoneygfx
+[1415727197] SERVICE ALERT: spider-tmp;Disk Space on /nymoneygfx;UNKNOWN;SOFT;1;Unknown argument
+[1415727317] SERVICE ALERT: spider-tmp;Disk Space on /nymoneygfx;UNKNOWN;SOFT;2;Unknown argument
+[1415727437] SERVICE ALERT: spider-tmp;Disk Space on /nymoneygfx;UNKNOWN;HARD;3;Unknown argument
+[1415729122] Caught SIGHUP, restarting...
+[1415729122] Nagios 3.3.1 starting... (PID=5157)
+[1415729122] Local time is Tue Nov 11 13:05:22 EST 2014
+[1415729122] LOG VERSION: 2.0
+[1415729149] Caught SIGHUP, restarting...
+[1415729149] Nagios 3.3.1 starting... (PID=5157)
+[1415729149] Local time is Tue Nov 11 13:05:49 EST 2014
+[1415729149] LOG VERSION: 2.0
+[1415729308] EXTERNAL COMMAND: DISABLE_SVC_NOTIFICATIONS;spider-tmp;/nymoneygfx Free Space
+[1415729319] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415729319] SERVICE ALERT: spider-tmp;/nymoneygfx Free Space;CRITICAL;SOFT;1;(Return code of 127 is out of bounds - plugin may be missing)
+[1415729439] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415729439] SERVICE ALERT: spider-tmp;/nymoneygfx Free Space;CRITICAL;SOFT;2;(Return code of 127 is out of bounds - plugin may be missing)
+[1415729559] Warning: Return code of 127 for check of service '/nymoneygfx Free Space' on host 'spider-tmp' was out of bounds. Make sure the plugin you're trying to run actually exists.
+[1415729559] SERVICE ALERT: spider-tmp;/nymoneygfx Free Space;CRITICAL;HARD;3;(Return code of 127 is out of bounds - plugin may be missing)
+[1415729623] Caught SIGHUP, restarting...
+[1415729623] Nagios 3.3.1 starting... (PID=5157)
+[1415729623] Local time is Tue Nov 11 13:13:43 EST 2014
+[1415729623] LOG VERSION: 2.0
+[1415730026] Caught SIGHUP, restarting...
+[1415730026] Nagios 3.3.1 starting... (PID=5157)
+[1415730026] Local time is Tue Nov 11 13:20:26 EST 2014
+[1415730026] LOG VERSION: 2.0
+[1415730035] EXTERNAL COMMAND: DISABLE_SVC_NOTIFICATIONS;spider-tmp;/nymoneygfx Disk Space
+[1415730116] SERVICE ALERT: spider-tmp;/nymoneygfx Disk Space;CRITICAL;SOFT;1;NRPE: Command '100.0,20%' not defined
+[1415730236] SERVICE ALERT: spider-tmp;/nymoneygfx Disk Space;CRITICAL;SOFT;2;NRPE: Command '100.0,20%' not defined
+[1415730356] SERVICE ALERT: spider-tmp;/nymoneygfx Disk Space;CRITICAL;HARD;3;NRPE: Command '100.0,20%' not defined
+[1415733626] Auto-save of retention data completed successfully.
+[1415733741] Caught SIGHUP, restarting...
+[1415733741] Nagios 3.3.1 starting... (PID=5157)
+[1415733741] Local time is Tue Nov 11 14:22:21 EST 2014
+[1415733741] LOG VERSION: 2.0
+[1415733799] Caught SIGHUP, restarting...
+[1415733799] Nagios 3.3.1 starting... (PID=5157)
+[1415733799] Local time is Tue Nov 11 14:23:19 EST 2014
+[1415733799] LOG VERSION: 2.0
+[1415733946] Caught SIGHUP, restarting...
+[1415733946] Nagios 3.3.1 starting... (PID=5157)
+[1415733946] Local time is Tue Nov 11 14:25:46 EST 2014
+[1415733946] LOG VERSION: 2.0
+[1415733953] EXTERNAL COMMAND: DISABLE_SVC_NOTIFICATIONS;spider-tmp;/nymoneygfx Disk Space
+[1415734126] SERVICE ALERT: spider-tmp;/nymoneygfx Disk Space;UNKNOWN;SOFT;1;Unknown argument
+[1415734246] SERVICE ALERT: spider-tmp;/nymoneygfx Disk Space;UNKNOWN;SOFT;2;Unknown argument
+[1415734366] SERVICE ALERT: spider-tmp;/nymoneygfx Disk Space;UNKNOWN;HARD;3;Unknown argument
+[1415735326] SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;1;PROCS WARNING: 311 processes with STATE = RSZDT
+[1415735386] SERVICE ALERT: localhost;Total Processes;OK;SOFT;2;PROCS OK: 237 processes with STATE = RSZDT
+[1415736683] Caught SIGHUP, restarting...
+[1415736683] Nagios 3.3.1 starting... (PID=5157)
+[1415736683] Local time is Tue Nov 11 15:11:23 EST 2014
+[1415736683] LOG VERSION: 2.0
+[1415738827] Caught SIGHUP, restarting...
+[1415738827] Nagios 3.3.1 starting... (PID=5157)
+[1415738827] Local time is Tue Nov 11 15:47:07 EST 2014
+[1415738827] LOG VERSION: 2.0
+[1415738867] SERVICE ALERT: spider-tmp;/nymoneygfx Disk Space;CRITICAL;HARD;3;NRPE: Command 'check_by_ssh' not defined
+[1415739207] SERVICE ALERT: msny;IMQ Depth Check - Internal GF Queues;WARNING;SOFT;1;WARNING: at least one queue with depth 53, all MS2_EVENT queues in RUNNING state
+[1415739227] SERVICE ALERT: nycnn-ipvsphn2;CPU Load;WARNING;SOFT;1;WARNING (Sample Period 300 sec) - [Triggered by _AvgCPU>90] - Average CPU Utilisation 100.00%
+[1415739267] SERVICE ALERT: msny;IMQ Depth Check - Internal GF Queues;OK;SOFT;2;OK: all MS2_EVENT queues have depth 0 or less, all MS2_EVENT queues in RUNNING state
+[1415739287] SERVICE ALERT: nycnn-ipvsphn2;CPU Load;OK;SOFT;2;OK (Sample Period 60 sec) - Average CPU Utilisation 1.09%
+[1415740787] SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;1;PROCS WARNING: 295 processes with STATE = RSZDT
+[1415740797] SERVICE ALERT: nycnn-adbeame4;AME Job status;CRITICAL;SOFT;1;Job 10586267 remains in a queued state
+[1415740847] SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;2;PROCS WARNING: 256 processes with STATE = RSZDT
+[1415740857] SERVICE ALERT: nycnn-adbeame4;AME Job status;OK;SOFT;2;Job 10586267 progress is  37.34 :
+[1415740907] SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;3;PROCS WARNING: 315 processes with STATE = RSZDT
+[1415740967] SERVICE ALERT: localhost;Total Processes;OK;SOFT;4;PROCS OK: 135 processes with STATE = RSZDT
+[1415741567] SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;1;PROCS WARNING: 257 processes with STATE = RSZDT
+[1415741627] SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;2;PROCS WARNING: 258 processes with STATE = RSZDT
+[1415741687] SERVICE ALERT: localhost;Total Processes;OK;SOFT;3;PROCS OK: 238 processes with STATE = RSZDT
+[1415742427] Auto-save of retention data completed successfully.
+[1415744387] SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;1;PROCS WARNING: 295 processes with STATE = RSZDT
+[1415744447] SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;2;PROCS WARNING: 263 processes with STATE = RSZDT
+[1415744507] SERVICE ALERT: localhost;Total Processes;OK;SOFT;3;PROCS OK: 243 processes with STATE = RSZDT
+[1415746027] Auto-save of retention data completed successfully.
+[1415746487] SERVICE ALERT: nycnn-adbeame3;AME Job status;CRITICAL;SOFT;1;Job 10587671 remains in a queued state
+[1415746547] SERVICE ALERT: nycnn-adbeame3;AME Job status;OK;SOFT;2;AME is idle:
+[1415747087] SERVICE ALERT: rt-nycchdagg-a;PING;WARNING;SOFT;1;PING WARNING - Packet loss = 0%, RTA = 159.52 ms
+[1415747147] SERVICE ALERT: rt-nycchdagg-a;PING;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 3.07 ms
+[1415748107] SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;1;PROCS WARNING: 252 processes with STATE = RSZDT
+[1415748167] SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;2;PROCS WARNING: 252 processes with STATE = RSZDT
+[1415748227] SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;3;PROCS WARNING: 300 processes with STATE = RSZDT
+[1415748287] SERVICE ALERT: localhost;Total Processes;WARNING;HARD;4;PROCS WARNING: 316 processes with STATE = RSZDT
+[1415748287] SERVICE NOTIFICATION: unixadmin;localhost;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 316 processes with STATE = RSZDT
+[1415748407] SERVICE ALERT: nycnn-ipvx12;Memory Usage;WARNING;SOFT;1;WARNING - [Triggered by _MemUsed%>90] - Physical Memory: Total: 1.990GB - Used: 1.886GB (95%) - Free: 0.104GB (5%)
+[1415748467] SERVICE ALERT: nycnn-ipvx12;Memory Usage;OK;SOFT;2;OK - Physical Memory: Total: 1.990GB - Used: 0.846GB (43%) - Free: 1.144GB (57%)
+[1415748587] SERVICE ALERT: localhost;Total Processes;OK;HARD;4;PROCS OK: 235 processes with STATE = RSZDT
+[1415748587] SERVICE NOTIFICATION: unixadmin;localhost;Total Processes;OK;notify-service-by-email;PROCS OK: 235 processes with STATE = RSZDT
+[1415749627] Auto-save of retention data completed successfully.
+[1415751887] SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;1;PROCS WARNING: 259 processes with STATE = RSZDT
+[1415751947] SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;2;PROCS WARNING: 297 processes with STATE = RSZDT
+[1415752007] SERVICE ALERT: localhost;Total Processes;OK;SOFT;3;PROCS OK: 244 processes with STATE = RSZDT
+[1415753227] Auto-save of retention data completed successfully.
+[1415754107] SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;1;PROCS WARNING: 254 processes with STATE = RSZDT
+[1415754167] SERVICE ALERT: localhost;Total Processes;OK;SOFT;2;PROCS OK: 239 processes with STATE = RSZDT
+[1415755067] SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;1;PROCS WARNING: 253 processes with STATE = RSZDT
+[1415755127] SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;2;PROCS WARNING: 254 processes with STATE = RSZDT
+[1415755187] SERVICE ALERT: localhost;Total Processes;OK;SOFT;3;PROCS OK: 122 processes with STATE = RSZDT
+[1415755787] SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;1;PROCS WARNING: 318 processes with STATE = RSZDT
+[1415755847] SERVICE ALERT: localhost;Total Processes;OK;SOFT;2;PROCS OK: 148 processes with STATE = RSZDT
+[1415756827] Auto-save of retention data completed successfully.
+[1415757647] SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;1;PROCS WARNING: 323 processes with STATE = RSZDT
+[1415757707] SERVICE ALERT: localhost;Total Processes;OK;SOFT;2;PROCS OK: 142 processes with STATE = RSZDT
+[1415757897] SERVICE ALERT: nycnn-adbeame7;AME Job status;CRITICAL;SOFT;1;Job 10587972 remains in a queued state
+[1415757957] SERVICE ALERT: nycnn-adbeame7;AME Job status;OK;SOFT;2;Job 10587972 progress is  70.7 :
+[1415758307] SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;1;PROCS WARNING: 269 processes with STATE = RSZDT
+[1415758367] SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;2;PROCS WARNING: 252 processes with STATE = RSZDT
+[1415758427] SERVICE ALERT: localhost;Total Processes;OK;SOFT;3;PROCS OK: 245 processes with STATE = RSZDT
+[1415759327] SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;1;PROCS WARNING: 264 processes with STATE = RSZDT
+[1415759387] SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;2;PROCS WARNING: 306 processes with STATE = RSZDT
+[1415759447] SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;3;PROCS WARNING: 260 processes with STATE = RSZDT
+[1415759507] SERVICE ALERT: localhost;Total Processes;WARNING;HARD;4;PROCS WARNING: 317 processes with STATE = RSZDT
+[1415759507] SERVICE NOTIFICATION: unixadmin;localhost;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 317 processes with STATE = RSZDT
+[1415760407] SERVICE ALERT: localhost;Total Processes;OK;HARD;4;PROCS OK: 137 processes with STATE = RSZDT
+[1415760407] SERVICE NOTIFICATION: unixadmin;localhost;Total Processes;OK;notify-service-by-email;PROCS OK: 137 processes with STATE = RSZDT
+[1415760427] Auto-save of retention data completed successfully.
+[1415760707] SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;1;PROCS WARNING: 251 processes with STATE = RSZDT
+[1415760767] SERVICE ALERT: localhost;Total Processes;OK;SOFT;2;PROCS OK: 239 processes with STATE = RSZDT
+[1415761367] SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;1;PROCS WARNING: 313 processes with STATE = RSZDT
+[1415761427] SERVICE ALERT: localhost;Total Processes;OK;SOFT;2;PROCS OK: 249 processes with STATE = RSZDT
+[1415763227] SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;1;PROCS WARNING: 315 processes with STATE = RSZDT
+[1415763287] SERVICE ALERT: localhost;Total Processes;OK;SOFT;2;PROCS OK: 249 processes with STATE = RSZDT
+[1415764027] Auto-save of retention data completed successfully.
+[1415765087] SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;1;PROCS WARNING: 315 processes with STATE = RSZDT
+[1415765147] SERVICE ALERT: localhost;Total Processes;OK;SOFT;2;PROCS OK: 249 processes with STATE = RSZDT
+[1415766947] SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;1;PROCS WARNING: 255 processes with STATE = RSZDT
+[1415767007] SERVICE ALERT: localhost;Total Processes;OK;SOFT;2;PROCS OK: 141 processes with STATE = RSZDT
+[1415767627] Auto-save of retention data completed successfully.

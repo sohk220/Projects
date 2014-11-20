@@ -1,0 +1,5 @@
+define hostgroup{
+	hostgroup_name		ipv-xcode
+	members		nycnn-ipvstrm1,nycnn-ipvstrm2,nycnn-ipvstrm3,nycnn-ipvstrm4
+	alias 			IPV SpectreViews Hosts
+}

@@ -1,0 +1,9 @@
+define host {
+	use		dc-fork-host
+	host_name	wdchd030
+	alias		DC FORK MPR 30
+	address		10.161.202.158
+	;check_command
+	;contact_groups
+	hostgroups	dc-fork-mpr
+}

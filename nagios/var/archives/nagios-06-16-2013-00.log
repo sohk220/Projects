@@ -1,0 +1,629 @@
+[1371268800] LOG ROTATION: DAILY
+[1371268800] LOG VERSION: 2.0
+[1371268800] CURRENT HOST STATE: deimos;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1371268800] CURRENT HOST STATE: localhost;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1371268800] CURRENT HOST STATE: msny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1371268800] CURRENT HOST STATE: nyarxlator1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1371268800] CURRENT HOST STATE: nyarxlator2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1371268800] CURRENT HOST STATE: nyarxlator3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1371268800] CURRENT HOST STATE: nyarxlator4;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1371268800] CURRENT HOST STATE: nycnn-adbeame1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1371268800] CURRENT HOST STATE: nycnn-adbeame10;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.33 ms
+[1371268800] CURRENT HOST STATE: nycnn-adbeame2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1371268800] CURRENT HOST STATE: nycnn-adbeame3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1371268800] CURRENT HOST STATE: nycnn-adbeame4;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.33 ms
+[1371268800] CURRENT HOST STATE: nycnn-adbeame5;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1371268800] CURRENT HOST STATE: nycnn-adbeame6;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1371268800] CURRENT HOST STATE: nycnn-adbeame7;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1371268800] CURRENT HOST STATE: nycnn-adbeame8;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1371268800] CURRENT HOST STATE: nycnn-adbeame9;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.34 ms
+[1371268800] CURRENT HOST STATE: nycnn-adbectrl1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1371268800] CURRENT HOST STATE: nycnn-adbectrl2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1371268800] CURRENT HOST STATE: nycnn-arapp1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.38 ms
+[1371268800] CURRENT HOST STATE: nycnn-arapp2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1371268800] CURRENT HOST STATE: nycnn-ardb1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1371268800] CURRENT HOST STATE: nycnn-ardb2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1371268800] CURRENT HOST STATE: nycnn-arvtrmops;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1371268800] CURRENT HOST STATE: nycnn-arvtrtape;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.34 ms
+[1371268800] CURRENT HOST STATE: nycnn-arxlator1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1371268800] CURRENT HOST STATE: nycnn-arxlator2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1371268800] CURRENT HOST STATE: nycnn-arxlator3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1371268800] CURRENT HOST STATE: nycnn-arxlator4;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1371268800] CURRENT HOST STATE: nycnn-editxfer-switch;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1371268800] CURRENT HOST STATE: nycnn-editxfer3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.11 ms
+[1371268800] CURRENT HOST STATE: nycnn-editxfer4;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.14 ms
+[1371268800] CURRENT HOST STATE: nycnn-gridpushpull1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1371268800] CURRENT HOST STATE: nycnn-gridpushpull2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvapilic;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvproxy1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvproxy2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvsphn1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvsphn2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvsphn3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvsphn4;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvsphn5;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvstrm1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvstrm2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvstrm3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvstrm4;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx10;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx10e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx11;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx11e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx12;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx12e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx13;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx13e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx14;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx14e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx15;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx15e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.17 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx16;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx16e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx17;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx17e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx18;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx18e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx19;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx19e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx1e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx20;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx20e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx21;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx21e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx22;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx22e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx23;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx23e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx24;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx24e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx25;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx25e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx26;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx26e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx27;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx27e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx28;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.17 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx28e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx29;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx29e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx2e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.34 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx30;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx30e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx31;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx31e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx32;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx32e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx33;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.86 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx33e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx34;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx34e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx35;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx35e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx3e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx4;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.16 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx4e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx5;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx5e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx6;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx6e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx7;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx7e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx8;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx8e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx9;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT HOST STATE: nycnn-ipvx9e1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT HOST STATE: nycnn-kickstart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1371268800] CURRENT HOST STATE: nycnn-mamdb1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1371268800] CURRENT HOST STATE: nycnn-mamdb2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1371268800] CURRENT HOST STATE: nycnn-mamfog;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.16 ms
+[1371268800] CURRENT HOST STATE: nycnn-mamkey1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1371268800] CURRENT HOST STATE: nycnn-mamkey2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1371268800] CURRENT HOST STATE: nycnn-mammq1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1371268800] CURRENT HOST STATE: nycnn-mammq2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT HOST STATE: nycnn-ms2app3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1371268800] CURRENT HOST STATE: nycnn-ms2app4;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1371268800] CURRENT HOST STATE: nycnn-ms2db1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1371268800] CURRENT HOST STATE: nycnn-ms2db2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1371268800] CURRENT HOST STATE: nycnn-ms2db3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1371268800] CURRENT HOST STATE: nycnn-ms2fsd;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1371268800] CURRENT HOST STATE: nycnn-ms2fsd1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1371268800] CURRENT HOST STATE: nycnn-ms2fsd2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.16 ms
+[1371268800] CURRENT HOST STATE: nycnn-ms2stills1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.37 ms
+[1371268800] CURRENT HOST STATE: nycnn-ms2stills2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.45 ms
+[1371268800] CURRENT HOST STATE: nycnn-nag1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1371268800] CURRENT HOST STATE: nycnn-nag2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1371268800] CURRENT HOST STATE: nycnn-nag4;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1371268800] CURRENT HOST STATE: nycnn-splunk;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1371268800] CURRENT HOST STATE: nyhdscheduler;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1371268800] CURRENT HOST STATE: nymamkey;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1371268800] CURRENT HOST STATE: nymq;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1371268800] CURRENT HOST STATE: nyproxygenhd;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1371268800] CURRENT HOST STATE: nyvideodrop;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1371268800] CURRENT HOST STATE: omnclda01-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1371268800] CURRENT HOST STATE: omnclda01e1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1371268800] CURRENT HOST STATE: omnclda02-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1371268800] CURRENT HOST STATE: omnclda02e1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1371268800] CURRENT HOST STATE: omnclda03-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1371268800] CURRENT HOST STATE: omnclda03e1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1371268800] CURRENT HOST STATE: omnhbcba01-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1371268800] CURRENT HOST STATE: omnhbcba02-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1371268800] CURRENT HOST STATE: omnhbcba03-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1371268800] CURRENT HOST STATE: omnhbcba04-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1371268800] CURRENT HOST STATE: omnhbcba05-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1371268800] CURRENT HOST STATE: omnhbcba06-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1371268800] CURRENT HOST STATE: omnhbcba07-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1371268800] CURRENT HOST STATE: omnhbcba08-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1371268800] CURRENT HOST STATE: omnhbcba09-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1371268800] CURRENT HOST STATE: omnhbcba10-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1371268800] CURRENT HOST STATE: omnhbcba11-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1371268800] CURRENT HOST STATE: omnhbcba12-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1371268800] CURRENT HOST STATE: omnldap1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1371268800] CURRENT HOST STATE: omnldap2-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1371268800] CURRENT HOST STATE: omnmas1app-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1371268800] CURRENT HOST STATE: omnmas1app1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1371268800] CURRENT HOST STATE: omnmas1app2-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1371268800] CURRENT HOST STATE: omnmas1db-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1371268800] CURRENT HOST STATE: omnmas1db1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.17 ms
+[1371268800] CURRENT HOST STATE: omnmas1db2-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1371268800] CURRENT HOST STATE: omnmas2app-ny;DOWN;HARD;1;(Host Check Timed Out)
+[1371268800] CURRENT HOST STATE: omnmas2app1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1371268800] CURRENT HOST STATE: omnmas2app2-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1371268800] CURRENT HOST STATE: omnmas2db-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1371268800] CURRENT HOST STATE: omnmas2db1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1371268800] CURRENT HOST STATE: omnmas2db2-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1371268800] CURRENT HOST STATE: omnmdir01-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT HOST STATE: omnmdir01e1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1371268800] CURRENT HOST STATE: omnmdir02-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1371268800] CURRENT HOST STATE: omnmdir02e1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.15 ms
+[1371268800] CURRENT HOST STATE: omnmdir03-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1371268800] CURRENT HOST STATE: omnmdir03e1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.14 ms
+[1371268800] CURRENT HOST STATE: omnmdir04-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.34 ms
+[1371268800] CURRENT HOST STATE: omnmdir04e1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.15 ms
+[1371268800] CURRENT HOST STATE: omnmdk01-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.44 ms
+[1371268800] CURRENT HOST STATE: omnmdk01h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.48 ms
+[1371268800] CURRENT HOST STATE: omnmdk02-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.43 ms
+[1371268800] CURRENT HOST STATE: omnmdk02h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.48 ms
+[1371268800] CURRENT HOST STATE: omnmdk03-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.49 ms
+[1371268800] CURRENT HOST STATE: omnmdk03h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.55 ms
+[1371268800] CURRENT HOST STATE: omnmdk04-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1371268800] CURRENT HOST STATE: omnmdk04h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1371268800] CURRENT HOST STATE: omnmdk05-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.44 ms
+[1371268800] CURRENT HOST STATE: omnmdk05h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.51 ms
+[1371268800] CURRENT HOST STATE: omnmdk06-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.42 ms
+[1371268800] CURRENT HOST STATE: omnmdk06h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.53 ms
+[1371268800] CURRENT HOST STATE: omnmdk07-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.45 ms
+[1371268800] CURRENT HOST STATE: omnmdk07h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.51 ms
+[1371268800] CURRENT HOST STATE: omnmdk08-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.43 ms
+[1371268800] CURRENT HOST STATE: omnmdk08h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.49 ms
+[1371268800] CURRENT HOST STATE: omnmdk09-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.46 ms
+[1371268800] CURRENT HOST STATE: omnmdk09h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.45 ms
+[1371268800] CURRENT HOST STATE: omnmdk10-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.49 ms
+[1371268800] CURRENT HOST STATE: omnmdk10h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.53 ms
+[1371268800] CURRENT HOST STATE: omnmdk11-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.48 ms
+[1371268800] CURRENT HOST STATE: omnmdk11h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.42 ms
+[1371268800] CURRENT HOST STATE: omnmdk12-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.43 ms
+[1371268800] CURRENT HOST STATE: omnmdk12h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.46 ms
+[1371268800] CURRENT HOST STATE: omnmdk13-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.43 ms
+[1371268800] CURRENT HOST STATE: omnmdk13h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1371268800] CURRENT HOST STATE: omnmdk14-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.44 ms
+[1371268800] CURRENT HOST STATE: omnmdk14h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1371268800] CURRENT HOST STATE: omnmdk15-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.44 ms
+[1371268800] CURRENT HOST STATE: omnmdk15h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.49 ms
+[1371268800] CURRENT HOST STATE: omnmdk16-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.44 ms
+[1371268800] CURRENT HOST STATE: omnmdk16h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1371268800] CURRENT HOST STATE: omnmdk17-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.40 ms
+[1371268800] CURRENT HOST STATE: omnmdk17h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1371268800] CURRENT HOST STATE: omnmdk18-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.39 ms
+[1371268800] CURRENT HOST STATE: omnmdk18h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.46 ms
+[1371268800] CURRENT HOST STATE: omnmdk19-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.40 ms
+[1371268800] CURRENT HOST STATE: omnmdk19h0-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.48 ms
+[1371268800] CURRENT HOST STATE: omnmgsm-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.17 ms
+[1371268800] CURRENT HOST STATE: omnprox01-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1371268800] CURRENT HOST STATE: omnprox01e1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1371268800] CURRENT HOST STATE: omnprox02-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT HOST STATE: omnprox02e1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1371268800] CURRENT HOST STATE: omnprox03-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.17 ms
+[1371268800] CURRENT HOST STATE: omnprox03e1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1371268800] CURRENT HOST STATE: omnprox04-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1371268800] CURRENT HOST STATE: omnprox04e1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1371268800] CURRENT HOST STATE: omnprox05-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1371268800] CURRENT HOST STATE: omnprox05e1-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1371268800] CURRENT HOST STATE: omnspsm-ny;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1371268800] CURRENT HOST STATE: rt-nycc3750tgr-ilo;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.94 ms
+[1371268800] CURRENT HOST STATE: rt-nycc3750tgr-ms2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 7.03 ms
+[1371268800] CURRENT HOST STATE: rt-nyccfcp-1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.88 ms
+[1371268800] CURRENT HOST STATE: rt-nyccfcp-2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.36 ms
+[1371268800] CURRENT HOST STATE: rt-nycchdagg-a;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.20 ms
+[1371268800] CURRENT HOST STATE: rt-nycchdagg-b;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.16 ms
+[1371268800] CURRENT HOST STATE: rt-nyccmediagrid;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.53 ms
+[1371268800] CURRENT HOST STATE: rt-nyccspectrum;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.58 ms
+[1371268800] CURRENT HOST STATE: spider;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1371268800] CURRENT HOST STATE: wdchd001;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.58 ms
+[1371268800] CURRENT HOST STATE: wdchd002;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.67 ms
+[1371268800] CURRENT HOST STATE: wdchd003;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.58 ms
+[1371268800] CURRENT HOST STATE: wdchd004;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.63 ms
+[1371268800] CURRENT HOST STATE: wdchd005;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.66 ms
+[1371268800] CURRENT HOST STATE: wdchd006;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.64 ms
+[1371268800] CURRENT HOST STATE: wdchd007;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.70 ms
+[1371268800] CURRENT HOST STATE: wdchd008;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.57 ms
+[1371268800] CURRENT HOST STATE: wdchd009;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.70 ms
+[1371268800] CURRENT HOST STATE: wdchd010;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.59 ms
+[1371268800] CURRENT HOST STATE: wdchd011;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.58 ms
+[1371268800] CURRENT HOST STATE: wdchd012;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.69 ms
+[1371268800] CURRENT HOST STATE: wdchd013;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.70 ms
+[1371268800] CURRENT HOST STATE: wdchd014;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.56 ms
+[1371268800] CURRENT HOST STATE: wdchd015;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.49 ms
+[1371268800] CURRENT HOST STATE: wdchd016;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.48 ms
+[1371268800] CURRENT HOST STATE: wdchd017;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.67 ms
+[1371268800] CURRENT HOST STATE: wdchd018;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.72 ms
+[1371268800] CURRENT HOST STATE: wdchd019;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.50 ms
+[1371268800] CURRENT HOST STATE: wdchd020;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.48 ms
+[1371268800] CURRENT HOST STATE: wdchd021;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.65 ms
+[1371268800] CURRENT HOST STATE: wdchd022;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.68 ms
+[1371268800] CURRENT HOST STATE: wdchd023;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.65 ms
+[1371268800] CURRENT HOST STATE: wdchd024;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.62 ms
+[1371268800] CURRENT HOST STATE: wdchd025;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.59 ms
+[1371268800] CURRENT HOST STATE: wdchd026;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.59 ms
+[1371268800] CURRENT HOST STATE: wdchd027;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.54 ms
+[1371268800] CURRENT HOST STATE: wdchd028;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.65 ms
+[1371268800] CURRENT HOST STATE: wdchd029;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.64 ms
+[1371268800] CURRENT HOST STATE: wdchd030;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.45 ms
+[1371268800] CURRENT HOST STATE: wdchd031;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.62 ms
+[1371268800] CURRENT HOST STATE: wdcmd001;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.54 ms
+[1371268800] CURRENT HOST STATE: wdcmd002;DOWN;HARD;10;(Host Check Timed Out)
+[1371268800] CURRENT HOST STATE: wdcms001;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.68 ms
+[1371268800] CURRENT HOST STATE: wdcms002;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.59 ms
+[1371268800] CURRENT HOST STATE: wdcms003;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.67 ms
+[1371268800] CURRENT HOST STATE: wdcod001;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.62 ms
+[1371268800] CURRENT HOST STATE: wdcod002;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.61 ms
+[1371268800] CURRENT HOST STATE: wdcod01;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.45 ms
+[1371268800] CURRENT HOST STATE: wdcod02;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.45 ms
+[1371268800] CURRENT HOST STATE: wdcpf001;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.64 ms
+[1371268800] CURRENT HOST STATE: wdcpf002;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.60 ms
+[1371268800] CURRENT HOST STATE: wdcpf03;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.31 ms
+[1371268800] CURRENT HOST STATE: wdcps001;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.51 ms
+[1371268800] CURRENT HOST STATE: wdcps002;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.52 ms
+[1371268800] CURRENT HOST STATE: wdcps003;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.48 ms
+[1371268800] CURRENT HOST STATE: wdcps004;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.68 ms
+[1371268800] CURRENT SERVICE STATE: deimos;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT SERVICE STATE: localhost;Current Load;OK;HARD;1;OK - load average: 0.09, 0.14, 0.16
+[1371268800] CURRENT SERVICE STATE: localhost;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1371268800] CURRENT SERVICE STATE: localhost;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 265 bytes in 0.001 second response time
+[1371268800] CURRENT SERVICE STATE: localhost;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.04 ms
+[1371268800] CURRENT SERVICE STATE: localhost;Root Partition;OK;HARD;1;DISK OK - free space: / 1564 MB (83% inode=98%):
+[1371268800] CURRENT SERVICE STATE: localhost;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1371268800] CURRENT SERVICE STATE: localhost;Swap Usage;OK;HARD;1;SWAP OK - 100% free (2047 MB out of 2047 MB)
+[1371268800] CURRENT SERVICE STATE: localhost;Total Processes;OK;HARD;1;PROCS OK: 55 processes with STATE = RSZDT
+[1371268800] CURRENT SERVICE STATE: msny;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 5504 bytes in 0.002 second response time
+[1371268800] CURRENT SERVICE STATE: msny;IMQ Depth Check - Internal GF Queues;OK;HARD;1;OK: all MS2_EVENT queues have depth 0 or less, all MS2_EVENT queues in RUNNING state
+[1371268800] CURRENT SERVICE STATE: msny;MS2 - Grid A Mount;OK;HARD;1;OK - File /Volumes/GridA/Temp/.gridamounted seems fine.
+[1371268800] CURRENT SERVICE STATE: msny;MS2 - Grid B Mount;OK;HARD;1;OK - File /Volumes/GridB/Temp/.gridbmounted seems fine.
+[1371268800] CURRENT SERVICE STATE: msny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1371268800] CURRENT SERVICE STATE: nyarxlator1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1371268800] CURRENT SERVICE STATE: nyarxlator2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1371268800] CURRENT SERVICE STATE: nyarxlator3;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1371268800] CURRENT SERVICE STATE: nyarxlator4;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-adbeame1;AME Status check;OK;HARD;1;AME is idle:
+[1371268800] CURRENT SERVICE STATE: nycnn-adbeame1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.35 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-adbeame10;AME Status check;OK;HARD;1;AME is idle:
+[1371268800] CURRENT SERVICE STATE: nycnn-adbeame10;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.35 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-adbeame2;AME Status check;OK;HARD;1;AME is idle:
+[1371268800] CURRENT SERVICE STATE: nycnn-adbeame2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.34 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-adbeame3;AME Status check;OK;HARD;1;AME is idle:
+[1371268800] CURRENT SERVICE STATE: nycnn-adbeame3;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.37 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-adbeame4;AME Status check;OK;HARD;1;AME is idle:
+[1371268800] CURRENT SERVICE STATE: nycnn-adbeame4;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.33 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-adbeame5;AME Status check;OK;HARD;1;AME is idle:
+[1371268800] CURRENT SERVICE STATE: nycnn-adbeame5;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-adbeame6;AME Status check;OK;HARD;1;AME is idle:
+[1371268800] CURRENT SERVICE STATE: nycnn-adbeame6;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-adbeame7;AME Status check;OK;HARD;1;AME is idle:
+[1371268800] CURRENT SERVICE STATE: nycnn-adbeame7;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-adbeame8;AME Status check;OK;HARD;1;AME is idle:
+[1371268800] CURRENT SERVICE STATE: nycnn-adbeame8;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-adbeame9;AME Status check;OK;HARD;1;AME is idle:
+[1371268800] CURRENT SERVICE STATE: nycnn-adbeame9;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.34 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-adbectrl1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-adbectrl2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-arapp1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-arapp1;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1371268800] CURRENT SERVICE STATE: nycnn-arvtrtape;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-arvtrtape;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1371268800] CURRENT SERVICE STATE: nycnn-arxlator1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-arxlator1;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1371268800] CURRENT SERVICE STATE: nycnn-editxfer-switch;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-editxfer3;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.14 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-editxfer4;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.14 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-gridpushpull1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-gridpushpull2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvapilic;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvproxy1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvproxy2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvsphn1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvsphn2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvsphn3;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvsphn4;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvsphn5;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvstrm1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvstrm2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvstrm3;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvstrm4;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx10;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx10e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx11;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx11e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.16 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx12;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx12e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx13;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx13e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx14;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx14e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.15 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx15;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx15e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx16;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx16e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx17;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx17e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx18;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx18e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx19;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx19e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx1e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx20;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx20e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.17 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx21;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx21e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx22;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx22e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.17 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx23;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx23e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx24;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx24e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.16 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx25;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx25e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx26;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx26e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx27;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx27e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx28;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx28e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx29;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx29e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx2e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx3;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx30;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx30e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx31;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.17 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx31e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx32;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx32e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx33;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx33e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx34;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx34e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx35;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx35e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx3e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx4;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx4e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx5;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx5e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx6;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx6e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.38 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx7;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx7e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx8;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx8e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.17 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx9;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ipvx9e1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-kickstart;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-mamdb1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-mamdb2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-mamfog;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.15 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-mamkey1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-mamkey2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-mammq1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-mammq2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ms2app3;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ms2app4;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ms2db1;Disk Space on /oracle;OK;HARD;1;DISK OK - free space: /oracle 902110 MB (92% inode=99%):
+[1371268800] CURRENT SERVICE STATE: nycnn-ms2db1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ms2db2;Disk Space on /oracle;OK;HARD;1;DISK OK - free space: /oracle 804309 MB (82% inode=99%):
+[1371268800] CURRENT SERVICE STATE: nycnn-ms2db2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.44 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ms2db3;Disk Space on /oracle;OK;HARD;1;DISK OK - free space: /oracle 863088 MB (88% inode=99%):
+[1371268800] CURRENT SERVICE STATE: nycnn-ms2db3;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ms2fsd;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ms2fsd1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ms2fsd2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.15 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ms2stills1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.40 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-ms2stills2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-nag1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-nag2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-nag4;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1371268800] CURRENT SERVICE STATE: nycnn-splunk;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1371268800] CURRENT SERVICE STATE: nyhdscheduler;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 598 bytes in 0.001 second response time
+[1371268800] CURRENT SERVICE STATE: nyhdscheduler;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1371268800] CURRENT SERVICE STATE: nymamkey;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1371268800] CURRENT SERVICE STATE: nymq;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1371268800] CURRENT SERVICE STATE: nyproxygenhd;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1371268800] CURRENT SERVICE STATE: nyvideodrop;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT SERVICE STATE: omnclda01-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1371268800] CURRENT SERVICE STATE: omnclda01e1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1371268800] CURRENT SERVICE STATE: omnclda02-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1371268800] CURRENT SERVICE STATE: omnclda02e1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1371268800] CURRENT SERVICE STATE: omnclda03-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1371268800] CURRENT SERVICE STATE: omnclda03e1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1371268800] CURRENT SERVICE STATE: omnhbcba01-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1371268800] CURRENT SERVICE STATE: omnhbcba02-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1371268800] CURRENT SERVICE STATE: omnhbcba03-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1371268800] CURRENT SERVICE STATE: omnhbcba04-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1371268800] CURRENT SERVICE STATE: omnhbcba05-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1371268800] CURRENT SERVICE STATE: omnhbcba06-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1371268800] CURRENT SERVICE STATE: omnhbcba07-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1371268800] CURRENT SERVICE STATE: omnhbcba08-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1371268800] CURRENT SERVICE STATE: omnhbcba09-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1371268800] CURRENT SERVICE STATE: omnhbcba10-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1371268800] CURRENT SERVICE STATE: omnhbcba11-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1371268800] CURRENT SERVICE STATE: omnhbcba12-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1371268800] CURRENT SERVICE STATE: omnldap1-ny;LDAP;OK;HARD;1;LDAP OK - 0.002 seconds response time
+[1371268800] CURRENT SERVICE STATE: omnldap2-ny;LDAP;OK;HARD;1;LDAP OK - 0.002 seconds response time
+[1371268800] CURRENT SERVICE STATE: omnmas1app-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT SERVICE STATE: omnmas1app1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1371268800] CURRENT SERVICE STATE: omnmas1app2-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1371268800] CURRENT SERVICE STATE: omnmas1db-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1371268800] CURRENT SERVICE STATE: omnmas1db1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1371268800] CURRENT SERVICE STATE: omnmas1db2-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1371268800] CURRENT SERVICE STATE: omnmas2app-ny;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1371268800] CURRENT SERVICE STATE: omnmas2app1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1371268800] CURRENT SERVICE STATE: omnmas2app2-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1371268800] CURRENT SERVICE STATE: omnmas2db-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1371268800] CURRENT SERVICE STATE: omnmas2db1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1371268800] CURRENT SERVICE STATE: omnmas2db2-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1371268800] CURRENT SERVICE STATE: omnmdir01-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.16 ms
+[1371268800] CURRENT SERVICE STATE: omnmdir01e1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.16 ms
+[1371268800] CURRENT SERVICE STATE: omnmdir02-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1371268800] CURRENT SERVICE STATE: omnmdir02e1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.15 ms
+[1371268800] CURRENT SERVICE STATE: omnmdir03-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1371268800] CURRENT SERVICE STATE: omnmdir03e1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.17 ms
+[1371268800] CURRENT SERVICE STATE: omnmdir04-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.16 ms
+[1371268800] CURRENT SERVICE STATE: omnmdir04e1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.15 ms
+[1371268800] CURRENT SERVICE STATE: omnmdk01-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.52 ms
+[1371268800] CURRENT SERVICE STATE: omnmdk01h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1371268800] CURRENT SERVICE STATE: omnmdk02-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.52 ms
+[1371268800] CURRENT SERVICE STATE: omnmdk02h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.48 ms
+[1371268800] CURRENT SERVICE STATE: omnmdk03-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.44 ms
+[1371268800] CURRENT SERVICE STATE: omnmdk03h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1371268800] CURRENT SERVICE STATE: omnmdk04-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.42 ms
+[1371268800] CURRENT SERVICE STATE: omnmdk04h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.58 ms
+[1371268800] CURRENT SERVICE STATE: omnmdk05-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.49 ms
+[1371268800] CURRENT SERVICE STATE: omnmdk05h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.44 ms
+[1371268800] CURRENT SERVICE STATE: omnmdk06-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.44 ms
+[1371268800] CURRENT SERVICE STATE: omnmdk06h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1371268800] CURRENT SERVICE STATE: omnmdk07-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1371268800] CURRENT SERVICE STATE: omnmdk07h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.51 ms
+[1371268800] CURRENT SERVICE STATE: omnmdk08-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1371268800] CURRENT SERVICE STATE: omnmdk08h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.51 ms
+[1371268800] CURRENT SERVICE STATE: omnmdk09-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.49 ms
+[1371268800] CURRENT SERVICE STATE: omnmdk09h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.53 ms
+[1371268800] CURRENT SERVICE STATE: omnmdk10-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.45 ms
+[1371268800] CURRENT SERVICE STATE: omnmdk10h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.49 ms
+[1371268800] CURRENT SERVICE STATE: omnmdk11-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.45 ms
+[1371268800] CURRENT SERVICE STATE: omnmdk11h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1371268800] CURRENT SERVICE STATE: omnmdk12-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.45 ms
+[1371268800] CURRENT SERVICE STATE: omnmdk12h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1371268800] CURRENT SERVICE STATE: omnmdk13-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.42 ms
+[1371268800] CURRENT SERVICE STATE: omnmdk13h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.42 ms
+[1371268800] CURRENT SERVICE STATE: omnmdk14-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.42 ms
+[1371268800] CURRENT SERVICE STATE: omnmdk14h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1371268800] CURRENT SERVICE STATE: omnmdk15-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.51 ms
+[1371268800] CURRENT SERVICE STATE: omnmdk15h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.46 ms
+[1371268800] CURRENT SERVICE STATE: omnmdk16-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1371268800] CURRENT SERVICE STATE: omnmdk16h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.51 ms
+[1371268800] CURRENT SERVICE STATE: omnmdk17-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.46 ms
+[1371268800] CURRENT SERVICE STATE: omnmdk17h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.51 ms
+[1371268800] CURRENT SERVICE STATE: omnmdk18-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.53 ms
+[1371268800] CURRENT SERVICE STATE: omnmdk18h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.59 ms
+[1371268800] CURRENT SERVICE STATE: omnmdk19-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1371268800] CURRENT SERVICE STATE: omnmdk19h0-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.45 ms
+[1371268800] CURRENT SERVICE STATE: omnmgsm-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1371268800] CURRENT SERVICE STATE: omnprox01-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1371268800] CURRENT SERVICE STATE: omnprox01e1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1371268800] CURRENT SERVICE STATE: omnprox02-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.19 ms
+[1371268800] CURRENT SERVICE STATE: omnprox02e1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT SERVICE STATE: omnprox03-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT SERVICE STATE: omnprox03e1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1371268800] CURRENT SERVICE STATE: omnprox04-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT SERVICE STATE: omnprox04e1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1371268800] CURRENT SERVICE STATE: omnprox05-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT SERVICE STATE: omnprox05e1-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.17 ms
+[1371268800] CURRENT SERVICE STATE: omnspsm-ny;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1371268800] CURRENT SERVICE STATE: rt-nycc3750tgr-ilo;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.68 ms
+[1371268800] CURRENT SERVICE STATE: rt-nycc3750tgr-ms2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.60 ms
+[1371268800] CURRENT SERVICE STATE: rt-nyccfcp-1;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.60 ms
+[1371268800] CURRENT SERVICE STATE: rt-nyccfcp-2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.61 ms
+[1371268800] CURRENT SERVICE STATE: rt-nycchdagg-a;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.77 ms
+[1371268800] CURRENT SERVICE STATE: rt-nycchdagg-b;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.79 ms
+[1371268800] CURRENT SERVICE STATE: rt-nyccmediagrid;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.41 ms
+[1371268800] CURRENT SERVICE STATE: rt-nyccspectrum;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.37 ms
+[1371268800] CURRENT SERVICE STATE: spider;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1371268800] CURRENT SERVICE STATE: wdchd001;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1371268800] CURRENT SERVICE STATE: wdchd002;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1371268800] CURRENT SERVICE STATE: wdchd003;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.53 ms
+[1371268800] CURRENT SERVICE STATE: wdchd004;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.57 ms
+[1371268800] CURRENT SERVICE STATE: wdchd005;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1371268800] CURRENT SERVICE STATE: wdchd006;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1371268800] CURRENT SERVICE STATE: wdchd007;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1371268800] CURRENT SERVICE STATE: wdchd008;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.68 ms
+[1371268800] CURRENT SERVICE STATE: wdchd009;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1371268800] CURRENT SERVICE STATE: wdchd010;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1371268800] CURRENT SERVICE STATE: wdchd011;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1371268800] CURRENT SERVICE STATE: wdchd012;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1371268800] CURRENT SERVICE STATE: wdchd013;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1371268800] CURRENT SERVICE STATE: wdchd014;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1371268800] CURRENT SERVICE STATE: wdchd015;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1371268800] CURRENT SERVICE STATE: wdchd016;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.52 ms
+[1371268800] CURRENT SERVICE STATE: wdchd017;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1371268800] CURRENT SERVICE STATE: wdchd018;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1371268800] CURRENT SERVICE STATE: wdchd019;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1371268800] CURRENT SERVICE STATE: wdchd020;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1371268800] CURRENT SERVICE STATE: wdchd021;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1371268800] CURRENT SERVICE STATE: wdchd022;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1371268800] CURRENT SERVICE STATE: wdchd023;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1371268800] CURRENT SERVICE STATE: wdchd024;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.59 ms
+[1371268800] CURRENT SERVICE STATE: wdchd025;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.80 ms
+[1371268800] CURRENT SERVICE STATE: wdchd026;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1371268800] CURRENT SERVICE STATE: wdchd027;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.62 ms
+[1371268800] CURRENT SERVICE STATE: wdchd028;PING;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1371268800] CURRENT SERVICE STATE: wdchd029;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.58 ms
+[1371268800] CURRENT SERVICE STATE: wdchd030;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.64 ms
+[1371268800] CURRENT SERVICE STATE: wdchd031;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.68 ms
+[1371268800] CURRENT SERVICE STATE: wdcmd001;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.60 ms
+[1371268800] CURRENT SERVICE STATE: wdcmd002;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.64 ms
+[1371268800] CURRENT SERVICE STATE: wdcms001;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.65 ms
+[1371268800] CURRENT SERVICE STATE: wdcms002;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.62 ms
+[1371268800] CURRENT SERVICE STATE: wdcms003;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.60 ms
+[1371268800] CURRENT SERVICE STATE: wdcod001;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.66 ms
+[1371268800] CURRENT SERVICE STATE: wdcod002;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.64 ms
+[1371268800] CURRENT SERVICE STATE: wdcod01;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.47 ms
+[1371268800] CURRENT SERVICE STATE: wdcod02;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.49 ms
+[1371268800] CURRENT SERVICE STATE: wdcpf001;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.64 ms
+[1371268800] CURRENT SERVICE STATE: wdcpf002;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.61 ms
+[1371268800] CURRENT SERVICE STATE: wdcpf03;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.37 ms
+[1371268800] CURRENT SERVICE STATE: wdcps001;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.65 ms
+[1371268800] CURRENT SERVICE STATE: wdcps002;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.47 ms
+[1371268800] CURRENT SERVICE STATE: wdcps003;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.49 ms
+[1371268800] CURRENT SERVICE STATE: wdcps004;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.62 ms
+[1371272024] Auto-save of retention data completed successfully.
+[1371275624] Auto-save of retention data completed successfully.
+[1371279224] Auto-save of retention data completed successfully.
+[1371282824] Auto-save of retention data completed successfully.
+[1371286424] Auto-save of retention data completed successfully.
+[1371290024] Auto-save of retention data completed successfully.
+[1371293624] Auto-save of retention data completed successfully.
+[1371297224] Auto-save of retention data completed successfully.
+[1371300824] Auto-save of retention data completed successfully.
+[1371304424] Auto-save of retention data completed successfully.
+[1371308024] Auto-save of retention data completed successfully.
+[1371311624] Auto-save of retention data completed successfully.
+[1371315224] Auto-save of retention data completed successfully.
+[1371318824] Auto-save of retention data completed successfully.
+[1371322424] Auto-save of retention data completed successfully.
+[1371326024] Auto-save of retention data completed successfully.
+[1371329084] SERVICE ALERT: wdcps003;PING;CRITICAL;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1371329114] HOST ALERT: wdcps003;DOWN;SOFT;1;(Host Check Timed Out)
+[1371329144] SERVICE ALERT: wdcps003;PING;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 6.58 ms
+[1371329154] HOST ALERT: wdcps003;UP;SOFT;2;PING OK - Packet loss = 0%, RTA = 6.65 ms
+[1371329624] Auto-save of retention data completed successfully.
+[1371333224] Auto-save of retention data completed successfully.
+[1371336824] Auto-save of retention data completed successfully.
+[1371340424] Auto-save of retention data completed successfully.
+[1371344024] Auto-save of retention data completed successfully.
+[1371347624] Auto-save of retention data completed successfully.
+[1371351224] Auto-save of retention data completed successfully.
+[1371354824] Auto-save of retention data completed successfully.

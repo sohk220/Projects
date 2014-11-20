@@ -1,0 +1,9 @@
+define host {
+	use		dc-fork-host
+	host_name	wdcmd001
+	alias		DC FORK Metadata Controller 1
+	address		10.161.202.180
+	;check_command
+	;contact_groups
+	hostgroups	dc-fork-mdc
+}

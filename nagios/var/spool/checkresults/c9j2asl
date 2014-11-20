@@ -1,0 +1,18 @@
+### Active Check Result File ###
+file_time=1416497136
+
+### Nagios Service Check Result ###
+# Time: Thu Nov 20 10:25:36 2014
+host_name=nycnn-ipvx7
+service_description=PING
+check_type=0
+check_options=0
+scheduled_check=1
+reschedule_check=1
+latency=0.291000
+start_time=1416497136.291958
+finish_time=1416497146.300067
+early_timeout=0
+exited_ok=1
+return_code=2
+output=PING CRITICAL - Packet loss = 100%|rta=500.000000ms;100.000000;500.000000;0.000000 pl=100%;20;60;0\n

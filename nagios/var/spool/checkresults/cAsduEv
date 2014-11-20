@@ -1,0 +1,18 @@
+### Active Check Result File ###
+file_time=1416497142
+
+### Nagios Service Check Result ###
+# Time: Thu Nov 20 10:25:42 2014
+host_name=nycnn-adbeame4
+service_description=PING
+check_type=0
+check_options=0
+scheduled_check=1
+reschedule_check=1
+latency=0.219000
+start_time=1416497142.219437
+finish_time=1416497146.225425
+early_timeout=0
+exited_ok=1
+return_code=0
+output=PING OK - Packet loss = 0%, RTA = 0.30 ms|rta=0.302000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0\n

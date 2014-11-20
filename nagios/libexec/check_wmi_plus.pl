@@ -1,0 +1,1 @@
+/opt/wmi/check_wmi_plus.pl
