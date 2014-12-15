@@ -1,4 +1,0 @@
-define hostgroup{
-	hostgroup_name	 	dc-fork-hosts
-	alias 		 	DC Fork Hosts
-}

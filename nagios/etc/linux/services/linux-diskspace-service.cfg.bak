@@ -1,8 +1,0 @@
-define service{
-        use 		generic-service
-        host_name 	spider-tmp
-	contacts	unixadmin
-        service_description /nymoneygfx Free Space
-  	check_command check_disk!check_nrpe -H $HOSTNAME$ -p 5666 -c check_disk /nymoneygfx -a 20GB 5GB /nymoneygfx
-}
-

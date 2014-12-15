@@ -1,4 +1,0 @@
-define hostgroup{
-	hostgroup_name	 	dc-fork-od
-	alias 		 	DC Fork Open Direcotry
-}

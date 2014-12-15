@@ -1,9 +1,0 @@
-define host {
-	use		dc-fork-host
-	host_name	wdcpf001
-	alias		DC FORK Proxy Fileserver 1 
-	address		10.161.202.188
-	;check_command
-	;contact_groups
-	hostgroups	dc-fork-nas
-}

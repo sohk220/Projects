@@ -1,9 +1,0 @@
-define host {
-	use		dc-fork-host
-	host_name	wdcod01
-	alias		DC FORK Open Directory (Editors) 1
-	address		10.161.192.112
-	;check_command
-	;contact_groups
-	hostgroups	dc-fork-od
-}

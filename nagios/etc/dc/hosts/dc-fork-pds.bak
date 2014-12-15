@@ -1,4 +1,0 @@
-define hostgroup{
-	hostgroup_name	 	dc-fork-pds
-	alias 		 	DC Fork Production Servers
-}
