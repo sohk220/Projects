@@ -1,3 +1,0 @@
-test:
-  override:
-    - echo "No tests are needed, this is a static website :)"
